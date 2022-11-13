@@ -6,4 +6,4 @@ x-scheme-handler/about=google-chrome.desktop
 x-scheme-handler/unknown=google-chrome.desktop
 
 [Added Associations]
-text/html=org.gnome.gedit.desktop;
+text/html=code_code.desktop;org.gnome.gedit.desktop;

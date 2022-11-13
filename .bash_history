@@ -79,3 +79,102 @@ git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
 git clone
 git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
 git clone git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
+git clone git@github.com:CINDYMUTHON/phase-0-html-experiencing-html-lab.git
+git clone https://github.com/CINDYMUTHON/phase-0-html-experiencing-html-lab
+cd
+cd my-resipotory
+code
+sudo snap install code
+bundle
+sudo apt  install ruby-bundler
+bundle
+npm install
+rspec
+sudo apt install ruby-rspec-core
+<ol>
+<ul>
+</ul>
+newline
+cat > my_list.txt
+cat > my_list.html
+rspec
+git add
+git add .
+git push
+git add
+git add .
+git commit -m "Completed assignment"
+git push
+git clone git@github.com:CINDYMUTHON/phase-0-git-basics-lab.git
+npm install
+git clone https://github.com/CINDYMUTHON/phase-0-git-basics-lab
+cd phase-0-git-basics-lab
+npm install
+npm test
+my-repository
+mkdir my-repository
+mkdir test
+npm test
+my-repository
+cd
+my-repository
+cd my-repository
+cd/my-repository
+cd /my-repository
+cd /home/my-repository
+cd /home/phoenixnap/my-repository
+cd [your-repository-namemy-repository]
+cd my-repository
+Is -a
+git init
+ls -a
+git init my-repository
+cd my-repository
+git init
+npm test
+my-repository
+touch REEADME.md
+touch command README.md
+touch README.md
+git status
+git add README.md
+git status
+ls
+git commit -m README.md
+npm test
+my-repository
+git clone
+git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
+git clone git@github.com:<your-github-username>/phase-0-git-basics-lab.git
+git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
+phase-0-git-basics-lab
+npm install
+sudo apt install npm
+npm test
+git clone
+git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
+https://github.com/learn-co-curriculum/phase-0-git-basics-lab.git
+gh repo clone learn-co-curriculum/phase-0-git-basics-lab
+my-repository
+npm test
+npm install
+npm test
+my-repository, run npm test
+my-repository
+git clone
+l
+git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
+clone git
+git clone
+git clone ,
+git clone,
+git --help
+clone
+git clone
+git clone git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
+cd phase-0-git-basics-lab.
+git clone git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
+git clone git@github.com:CINDYMUTHON/phase-0-git-basics-lab.git
+my-repository
+touch my_list.txt
+href

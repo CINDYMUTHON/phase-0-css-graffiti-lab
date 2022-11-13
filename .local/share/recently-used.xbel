@@ -3,7 +3,7 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///tmp/anydesk_6.2.1-1_amd64.deb" added="2022-11-11T09:21:02Z" modified="2022-11-11T09:26:33Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///tmp/anydesk_6.2.1-1_amd64.deb" added="2022-11-11T09:21:02Z" modified="2022-11-11T09:26:33Z" visited="2022-11-13T10:54:04Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.debian.binary-package"/>
@@ -13,7 +13,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/Pictures/Screenshot%20from%202022-11-13%2001-23-33.png" added="2022-11-13T06:23:33Z" modified="2022-11-13T06:23:33Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/student/Pictures/Screenshot%20from%202022-11-13%2001-23-33.png" added="2022-11-13T06:23:33Z" modified="2022-11-13T06:23:33Z" visited="2022-11-13T10:54:04Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -23,7 +23,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/my_list.txt" added="2022-11-13T07:31:20Z" modified="2022-11-13T07:48:25Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/student/my_list.txt" added="2022-11-13T07:31:20Z" modified="2022-11-13T07:48:25Z" visited="2022-11-13T10:54:04Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -37,7 +37,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/my-repository/README.md" added="2022-11-13T07:36:47Z" modified="2022-11-13T07:36:47Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/student/my-repository/README.md" added="2022-11-13T07:36:47Z" modified="2022-11-13T07:36:47Z" visited="2022-11-13T10:54:04Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
@@ -50,7 +50,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/my-repository/phase-0-html-experiencing-html-lab/README.md" added="2022-11-13T07:37:39Z" modified="2022-11-13T07:37:39Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/student/my-repository/phase-0-html-experiencing-html-lab/README.md" added="2022-11-13T07:37:39Z" modified="2022-11-13T07:37:39Z" visited="2022-11-13T10:54:04Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
@@ -63,7 +63,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/my_list.html" added="2022-11-13T07:54:41Z" modified="2022-11-13T08:14:17Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/student/my_list.html" added="2022-11-13T07:54:41Z" modified="2022-11-13T08:14:17Z" visited="2022-11-13T10:54:04Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -73,6 +73,17 @@
         <bookmark:applications>
           <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-11-13T07:54:41Z" count="1"/>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T08:14:17Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/index.html" added="2022-11-13T10:54:04Z" modified="2022-11-13T11:09:47Z" visited="2022-11-13T10:54:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-11-13T10:54:04Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env --unity-launch %F&apos;" modified="2022-11-13T11:09:47Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
