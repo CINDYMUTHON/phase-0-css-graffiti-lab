@@ -2,7 +2,11 @@
     "telemetry.machineId": "2b1fd8846488dad654eec96c8c75f59432ee079b4b115c698e3507735b1441d8",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/student"
+            }
+        ],
         "emptyWindows": [
             {
                 "backupFolder": "1668337789553"
@@ -49,6 +53,20 @@
                                     "id": "workbench.action.reopenClosedEditor",
                                     "label": "&&Reopen Closed Editor",
                                     "enabled": false
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student",
+                                        "path": "/home/student",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/student"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -120,6 +138,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Settings Profile (Default)..."
@@ -208,6 +233,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -403,7 +432,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -649,8 +679,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1173,6 +1202,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1558,22 +1592,45 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 256,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/student/.config/Code/Backups/1668337789553",
+            "folder": "file:///home/student",
+            "backupPath": "/home/student/.config/Code/Backups/71f1d26b02d71b7c145aae6482afac9b",
             "uiState": {
                 "mode": 1,
-                "x": 46,
+                "x": 171,
                 "y": 64,
                 "width": 1024,
                 "height": 704
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "backupPath": "/home/student/.config/Code/Backups/1668337789553",
+                "uiState": {
+                    "mode": 1,
+                    "x": 46,
+                    "y": 64,
+                    "width": 1024,
+                    "height": 704
+                }
+            },
+            {
+                "folder": "file:///home/student",
+                "backupPath": "/home/student/.config/Code/Backups/71f1d26b02d71b7c145aae6482afac9b",
+                "uiState": {
+                    "mode": 1,
+                    "x": 171,
+                    "y": 64,
+                    "width": 1024,
+                    "height": 704
+                }
+            }
+        ]
     }
 }

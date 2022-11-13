@@ -88,4 +88,15 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/student/index2.html" added="2022-11-13T11:41:36Z" modified="2022-11-13T11:46:57Z" visited="2022-11-13T11:41:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-11-13T11:41:36Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-11-13T11:46:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

@@ -178,3 +178,20 @@ git clone git@github.com:CINDYMUTHON/phase-0-git-basics-lab.git
 my-repository
 touch my_list.txt
 href
+a
+code .
+sudo snap install code
+sudo snap install code --classic.
+sudo snap install code --classic
+code
+bundle
+sudo snap install bundle
+bundle
+a
+rspec
+explorer.exe index.htm
+git add .
+git commit -m "Completed assignment"
+git push
+git push https://github.com/CINDYMUTHON/phase-0-html-link-tag-with-href
+git push --set-upstream https://github.com/CINDYMUTHON/phase-0-html-link-tag-with-href master

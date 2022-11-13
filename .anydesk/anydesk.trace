@@ -7085,3 +7085,66 @@ warning 2022-11-13 09:56:48.442    backend   main  32851  32851           base.d
    info 2022-11-13 11:12:09.783    backend   wrk1  32851  32860                   desk_rt.auto_adjust - Adjusting for < 90 kb/s
    info 2022-11-13 11:19:01.924    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
    info 2022-11-13 11:19:01.926    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:20:03.790    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:20:03.794    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:21:01.404    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:21:01.407    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:23:44.856    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:23:44.862    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:24:55.813    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:24:55.820    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:25:22.394    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:25:22.397    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:35:56.105    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:35:56.107    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:37:00.536    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:37:00.538    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:39:46.122    backend   wrk1  32851  32860                      app.clipbrd_comp - Got a text offer (60 b).
+   info 2022-11-13 11:39:46.122    backend   main  32851  32851                          clipbrd.sink - Putting text data on the clipboard (29).
+   info 2022-11-13 11:39:46.124    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 11:40:45.908    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:40:45.911    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:42:24.008    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:42:24.010    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:43:54.628    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:43:54.629    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:44:38.259    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:44:38.262    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:45:01.446    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:45:01.448    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:45:51.945    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:45:51.946    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:46:22.654    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:46:22.654    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:47:42.717    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:47:42.720    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:49:29.780    backend   wrk1  32851  32860                      app.clipbrd_comp - Got a text offer (26 b).
+   info 2022-11-13 11:49:29.780    backend   main  32851  32851                          clipbrd.sink - Putting text data on the clipboard (12).
+   info 2022-11-13 11:49:29.781    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 11:50:42.265    backend   wrk1  32851  32860                      app.clipbrd_comp - Got a text offer (202 b).
+   info 2022-11-13 11:50:42.265    backend   main  32851  32851                          clipbrd.sink - Putting text data on the clipboard (100).
+   info 2022-11-13 11:50:42.266    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 11:52:34.997    backend   wrk1  32851  32860                      app.clipbrd_comp - Got a text offer (162 b).
+   info 2022-11-13 11:52:34.997    backend   main  32851  32851                          clipbrd.sink - Putting text data on the clipboard (80).
+   info 2022-11-13 11:52:34.998    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 11:52:58.678    backend   wrk1  32851  32860                      app.clipbrd_comp - Got a text offer (124 b).
+   info 2022-11-13 11:52:58.678    backend   main  32851  32851                          clipbrd.sink - Putting text data on the clipboard (61).
+   info 2022-11-13 11:52:58.679    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 11:53:27.492    backend   wrk1  32851  32860                      app.clipbrd_comp - Got a text offer (110 b).
+   info 2022-11-13 11:53:27.493    backend   main  32851  32851                          clipbrd.sink - Putting text data on the clipboard (54).
+   info 2022-11-13 11:53:27.493    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 11:54:13.297    backend   wrk1  32851  32860                      app.clipbrd_comp - Got a text offer (140 b).
+   info 2022-11-13 11:54:13.297    backend   main  32851  32851                          clipbrd.sink - Putting text data on the clipboard (69).
+   info 2022-11-13 11:54:13.298    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 11:56:57.210    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:56:57.212    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:57:15.839    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:57:15.844    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:58:07.638    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:58:07.639    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:58:33.906    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:58:33.913    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:59:07.653    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:59:07.656    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 11:59:53.925    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 11:59:53.926    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
