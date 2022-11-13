@@ -195,3 +195,24 @@ git commit -m "Completed assignment"
 git push
 git push https://github.com/CINDYMUTHON/phase-0-html-link-tag-with-href
 git push --set-upstream https://github.com/CINDYMUTHON/phase-0-html-link-tag-with-href master
+code .
+bundle
+sudo bash myinstaller.bundle.
+rspec
+git add .
+git commit -m "Completed assignment"
+git commit -a
+git push https://github.com/learn-co-curriculum/phase-0-html-document-structure-lab/fork
+git push https://github.com/CINDYMUTHON/phase-0-html-document-structure-lab
+git add .
+git commit -m "Completed assignment"
+git push
+git push https://github.com/CINDYMUTHON/phase-0-html-document-structure-lab
+gggit remote add https://github.com/CINDYMUTHON/phase-0-html-document-structure-lab
+code .
+bundle
+ul
+rspec
+add .
+commit -m "Completed assignment"
+add .

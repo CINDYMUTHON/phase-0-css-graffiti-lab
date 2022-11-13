@@ -1,760 +1,4 @@
-                   clipbrd.capture - Requesting utf8 text.
-   info 2022-11-12 08:20:31.285    backend   main  14449  14449                       clipbrd.capture - Clipboard changed.
-   info 2022-11-12 08:20:31.288    backend   main  14449  14449                       clipbrd.capture - Requesting utf8 text.
-   info 2022-11-12 08:21:08.881    backend   main  14449  14449                       clipbrd.capture - Clipboard changed.
-   info 2022-11-12 08:21:08.884    backend   main  14449  14449                       clipbrd.capture - Requesting utf8 text.
-   info 2022-11-12 08:21:23.216    backend   main  14449  14449                       clipbrd.capture - Clipboard changed.
-   info 2022-11-12 08:21:23.220    backend   main  14449  14449                       clipbrd.capture - Requesting utf8 text.
-   info 2022-11-12 08:25:28.936    backend   main  14449  14449                       clipbrd.capture - Clipboard changed.
-   info 2022-11-12 08:25:28.941    backend   main  14449  14449                       clipbrd.capture - Requesting utf8 text.
-   info 2022-11-12 08:31:01.655    backend   main  14449  14449                       clipbrd.capture - Clipboard changed.
-   info 2022-11-12 08:31:01.660    backend   main  14449  14449                       clipbrd.capture - Requesting utf8 text.
-   info 2022-11-12 08:32:28.581    backend   wrk2  14449  14459                   app.backend_session - The user has requested a connection quit.
-  error 2022-11-12 08:32:28.581    backend   wrk0  14449  14457              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 08:32:28.581    backend   wrk0  14449  14457                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 08:32:28.581    backend   wrk0  14449  14457                   app.backend_session - The socket was closed remotely.
-   info 2022-11-12 08:32:28.581    backend   ctrl  14449  14456                   app.backend_session - Stopping session.
-  error 2022-11-12 08:32:28.581       tray   wrk0  10017  10031                    app.tunnel_ft_comp - Invalid session id in cancel operation (220).
-   info 2022-11-12 08:32:28.590    backend   timr  14449  14471          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 08:32:28.590    backend   ctrl  14449  14456                      app.clipbrd_comp - Closing clipboard.
-   info 2022-11-12 08:32:28.590    backend   ctrl  14449  14456                      app.clipbrd_comp - Clearing clipboard.
-   info 2022-11-12 08:32:28.591    backend   main  14449  14449                       clipbrd.capture - Ignoring own data.
-   info 2022-11-12 08:32:28.592    backend   main  14449  14449                       clipbrd.capture - Unregistered clipboard notification.
-   info 2022-11-12 08:32:28.592    backend   ctrl  14449  14456                      app.clipbrd_comp - Clipboard closed.
-   info 2022-11-12 08:32:28.592    backend   ctrl  14449  14456                   app.backend_session - Session stopped.
-   info 2022-11-12 08:32:28.597    backend   ctrl  14449  14456                   app.backend_session - Destroyed.
-   info 2022-11-12 08:32:28.597    backend   timr  14449  14468          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 08:32:28.597    backend   ctrl  14449  14456              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 08:32:28.597    backend   timr  14449  14467          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 08:32:28.597    backend   ctrl  14449  14456                      unix_app.backend - Session count: 0 (0)
-   info 2022-11-12 08:33:38.032    backend   wrk0  14449  14457                      unix_app.backend - Incoming IPC connection.
-   info 2022-11-12 08:33:38.032    backend   timr  14449  25854          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 08:33:38.032    backend   timr  14449  25855          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 08:33:38.033    backend   wrk0  14449  14457                   app.backend_session - Initializing session.
-   info 2022-11-12 08:33:38.033    backend   ctrl  14449  14456                   app.backend_session - Starting sockets.
-  error 2022-11-12 08:33:38.035       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=24, 0 bytes).
-  error 2022-11-12 08:33:38.035       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 08:33:38.051    backend   wrk0  14449  14457                      unix_app.backend - Session count: 1
-   info 2022-11-12 08:33:38.053    backend   wrk1  14449  14458                   app.backend_session - Incoming session request: vincent (169886870)
-   info 2022-11-12 08:33:38.053    backend   wrk1  14449  14458                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, filetransfer_server, filetransfer_client, whiteboard, tcp_tunnel, privacy_feature, vpn, encoder_reset, two_factor_auth, force_remote_restart, lossless_codec, report_kbd_focus, string_input, quality_adaptive
-   info 2022-11-12 08:33:38.053    backend   wrk1  14449  14458                   app.backend_session - Remote OS: Linux, Connection flags: direct paid 3 
-   info 2022-11-12 08:33:38.053    backend   wrk1  14449  14458                   app.backend_session - Remote version: 6.2.1
-   info 2022-11-12 08:33:38.053    backend   wrk1  14449  14458                   app.backend_session - Trying to register a new backend session.
-   info 2022-11-12 08:33:38.057    backend   wrk1  14449  14458                   app.backend_session - Requesting to restore permissions.
-   info 2022-11-12 08:33:38.058    backend   wrk1  14449  14458                   app.backend_session - Restoring permissions. (action: 3; state: 3)
-   info 2022-11-12 08:33:38.058    backend   wrk1  14449  14458                   app.backend_session - Initializing permissions.
-   info 2022-11-12 08:33:38.067    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.068    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.068    backend   wrk1  14449  14458                   app.backend_session - Enabling local clipboard.
-   info 2022-11-12 08:33:38.068    backend   wrk1  14449  14458                      app.clipbrd_comp - Engaging clipboard.
-   info 2022-11-12 08:33:38.068    backend   wrk1  14449  14458                      app.clipbrd_comp - Ready.
-   info 2022-11-12 08:33:38.069    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.072    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.073    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.074    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.076    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.077    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.078    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.079    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.080    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.082    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.084    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.095    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.098    backend   main  14449  14449                       clipbrd.capture - Clipboard capture running.
-   info 2022-11-12 08:33:38.103    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.105    backend   wrk1  14449  14458                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:38.105    backend   wrk1  14449  14458                   app.backend_session - Checking capabilities.
-   info 2022-11-12 08:33:38.126    backend   wrk1  14449  14458                   app.backend_session - Acknowledging session.
-   info 2022-11-12 08:33:38.126    backend   wrk1  14449  14458                   desk_rt.auto_adjust - Route type: direct (internet)
-  error 2022-11-12 08:33:59.031       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=104, 0 bytes).
-  error 2022-11-12 08:33:59.031       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 08:33:59.032    backend   ctrl  14449  14456                   app.backend_session - Starting session (deskrt, clipboard, chat, audio, input, tcp_tunnel).
-   info 2022-11-12 08:33:59.033    backend   timr  14449  25861          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 08:33:59.033    backend   ctrl  14449  14456                       desk_rt.encoder - 4 segments.
-   info 2022-11-12 08:33:59.041    backend    x11  14449  14452                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 08:33:59.041    backend    x11  14449  14452                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 08:33:59.041    backend    x11  14449  14452                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 08:33:59.043    backend   ctrl  14449  14456                   app.backend_session - Continueing session start.
-   info 2022-11-12 08:33:59.043    backend   ctrl  14449  14456             desk_rt.capture_component - Starting capture.
-   info 2022-11-12 08:33:59.048    backend    x11  14449  14452                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 08:33:59.048    backend    x11  14449  14452                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 08:33:59.048    backend    x11  14449  14452                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 08:33:59.051    backend   ctrl  14449  14456                   app.keybd_sink_comp - Keyboard layout changed to: en_us
-   info 2022-11-12 08:33:59.051    backend   ctrl  14449  14456                        app.mouse_sink - Starting mouse sink.
-   info 2022-11-12 08:33:59.051    backend   wrk0  14449  14457             desk_rt.capture_component - Keyboard layout changed to: en_us
-   info 2022-11-12 08:33:59.055    backend   wrk1  14449  14458                   desk_rt.auto_adjust - Route type: direct (internet)
-  error 2022-11-12 08:33:59.056    backend   wrk0  14449  14457              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 08:33:59.056    backend   wrk0  14449  14457                        hub_ipc_socket - IPC packet deserialization failed.
-  error 2022-11-12 08:33:59.056       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
-  error 2022-11-12 08:33:59.056       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 08:33:59.064    backend   wrk0  14449  14457             desk_rt.capture_component - Keyboard layout changed to: en_us
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending input (11) permissions (enabled allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending audio (11) permissions (enabled allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending clipboard (11) permissions (enabled allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending block input (9) permissions (allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending SAS (0) permissions (forbidden unsupported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending file manager (11) permissions (enabled allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending lock account (9) permissions (allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending record session (9) permissions (allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending whiteboard (9) permissions (allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending TCP tunneling (10) permissions (enabled forbidden supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending VPN (11) permissions (enabled allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending privacy (12) permissions (disabled forbidden supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending clilpboard files (11) permissions (enabled allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending restart (9) permissions (allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending sysinfo (11) permissions (enabled allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Sending mouse pointer (9) permissions (allowed supported)
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 08:33:59.071    backend   ctrl  14449  14456                   app.backend_session - Session started (ok).
-   info 2022-11-12 08:33:59.299    backend   wrk1  14449  14458                   app.backend_session - Received new mouse cursor parameters (2).
-   info 2022-11-12 08:33:59.299    backend   wrk1  14449  14458           desk_rt.system_event_source - Enabled mouse cursor
-   info 2022-11-12 08:33:59.300    backend   wrk2  14449  14459                   app.backend_session - Received new gui feedback parameters (0).
-   info 2022-11-12 08:33:59.300    backend   wrk1  14449  14458                   app.backend_session - Received new audio parameters (1).
-   info 2022-11-12 08:33:59.300    backend   wrk2  14449  14459           desk_rt.system_event_source - Disabled gui feedback
-   info 2022-11-12 08:33:59.300    backend   wrk1  14449  14458                   app.backend_session - Received new image quality (7).
-   info 2022-11-12 08:33:59.300    backend   wrk1  14449  14458                   app.backend_session - Received new auto-quality preset (2).
-   info 2022-11-12 08:33:59.300    backend   wrk2  14449  14459                   app.backend_session - Received new video quality (20).
-   info 2022-11-12 08:33:59.300    backend   wrk1  14449  14458                   desk_rt.auto_adjust - New preset: 1.
-   info 2022-11-12 08:33:59.300    backend   wrk2  14449  14459                   app.backend_session - Enabling capture.
-   info 2022-11-12 08:33:59.320    backend   wrk0  14449  14457                       desk_rt.encoder - Format changed to 1366x768 (X8R8G8B8).
-   info 2022-11-12 08:34:00.218    backend   wrk1  14449  14458                   app.backend_session - Received a thumbnail request.
-  error 2022-11-12 08:34:00.219    backend   wrk1  14449  14458                   app.backend_session - Couldn't retrieve the wallpaper (Not implemented.).
-   info 2022-11-12 08:34:28.880    backend   main  14449  14449                       clipbrd.capture - Clipboard changed.
-   info 2022-11-12 08:34:28.884    backend   main  14449  14449                       clipbrd.capture - Requesting utf8 text.
-   info 2022-11-12 08:35:06.096    backend   wrk1  14449  14458                   desk_rt.auto_adjust - Adjusting for a direct connection (366.38 kb/s).
-   info 2022-11-12 08:35:06.096    backend   wrk1  14449  14458                   desk_rt.auto_adjust - Adjusting for 250-500 kb/s
-   info 2022-11-12 08:36:13.452    backend   wrk1  14449  14458                      app.clipbrd_comp - Got a text offer (42 b).
-   info 2022-11-12 08:36:13.452    backend   main  14449  14449                          clipbrd.sink - Putting text data on the clipboard (20).
-   info 2022-11-12 08:36:13.453    backend   main  14449  14449                       clipbrd.capture - Ignoring own data.
-   info 2022-11-12 08:36:39.882    backend   wrk1  14449  14458                      app.clipbrd_comp - Got a text offer (30 b).
-   info 2022-11-12 08:36:39.882    backend   main  14449  14449                          clipbrd.sink - Putting text data on the clipboard (14).
-   info 2022-11-12 08:36:39.883    backend   main  14449  14449                       clipbrd.capture - Ignoring own data.
-   info 2022-11-12 08:43:51.994    backend   main  14449  14449                       clipbrd.capture - Clipboard changed.
-   info 2022-11-12 08:43:52.358    backend   main  14449  14449                       clipbrd.capture - Requesting utf8 text.
-   info 2022-11-12 09:06:06.827    backend   main  14449  14449                       clipbrd.capture - Clipboard changed.
-   info 2022-11-12 09:06:07.147    backend   main  14449  14449                       clipbrd.capture - Requesting utf8 text.
-   info 2022-11-12 09:13:50.434    backend   main  14449  14449                       clipbrd.capture - Clipboard changed.
-   info 2022-11-12 09:13:50.755    backend   main  14449  14449                       clipbrd.capture - Requesting utf8 text.
-  error 2022-11-12 09:28:09.487    backend   wrk0  14449  14457              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-   info 2022-11-12 09:28:09.487    backend   wrk1  14449  14458                   app.backend_session - The user has requested a connection quit.
-  error 2022-11-12 09:28:09.487    backend   wrk0  14449  14457                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 09:28:09.487    backend   wrk0  14449  14457                   app.backend_session - The socket was closed remotely.
-   info 2022-11-12 09:28:09.487    backend   ctrl  14449  14456                   app.backend_session - Stopping session.
-  error 2022-11-12 09:28:09.487       tray   wrk0  10017  10031                    app.tunnel_ft_comp - Invalid session id in cancel operation (231).
-   info 2022-11-12 09:28:09.490    backend   timr  14449  25861          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 09:28:09.492    backend   ctrl  14449  14456                      app.clipbrd_comp - Closing clipboard.
-   info 2022-11-12 09:28:09.492    backend   ctrl  14449  14456                      app.clipbrd_comp - Clearing clipboard.
-   info 2022-11-12 09:28:09.493    backend   main  14449  14449                       clipbrd.capture - Ignoring own data.
-   info 2022-11-12 09:28:09.493    backend   main  14449  14449                       clipbrd.capture - Unregistered clipboard notification.
-   info 2022-11-12 09:28:09.493    backend   ctrl  14449  14456                      app.clipbrd_comp - Clipboard closed.
-   info 2022-11-12 09:28:09.493    backend   ctrl  14449  14456                   app.backend_session - Session stopped.
-   info 2022-11-12 09:28:11.127    backend   ctrl  14449  14456                   app.backend_session - Destroyed.
-   info 2022-11-12 09:28:11.128    backend   timr  14449  25855          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 09:28:11.128    backend   ctrl  14449  14456              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 09:28:11.128    backend   timr  14449  25854          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 09:28:11.128    backend   ctrl  14449  14456                      unix_app.backend - Session count: 0 (0)
-   info 2022-11-12 11:27:41.382    backend   ctrl  14449  14456                      unix_app.backend - Backend is shutting down.
-   info 2022-11-12 11:27:41.385    backend   ctrl  14449  14456                   desk_rt.x11_capture - Stopping capture.
-   info 2022-11-12 11:27:41.385    backend   ctrl  14449  14456                   desk_rt.x11_capture - Capture stopped.
-   info 2022-11-12 11:27:41.385    backend   ctrl  14449  14456                      unix_app.backend - Backend has been stopped.
-   info 2022-11-12 11:27:41.385    backend   main  14449  14449                      unix_app.backend - Deleting backend.
-   info 2022-11-12 11:27:41.385    backend   ctrl  14449  14456                       base.signal.hub - Control quit.
-   info 2022-11-12 11:27:41.386    backend   timr  14449  14455          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:27:41.386    backend   timr  14449  14453          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:27:41.386    backend   main  14449  14449              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:27:41.386    backend   main  14449  14449              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:27:41.388    backend   main  14449  14449                                  main - Exiting normally.
-  error 2022-11-12 11:29:13.012       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=24, 0 bytes).
-  error 2022-11-12 11:29:13.012       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:29:13.077         ad   main  27807  27807                         impl_selector - using avx2
- * * * * * * * * * * * * * * * * * *
-   info 2022-11-12 11:29:13.077         ad   main  27807  27807                                  main - * AnyDesk Linux Startup *
-   info 2022-11-12 11:29:13.078         ad   main  27807  27807                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
-   info 2022-11-12 11:29:13.078         ad   main  27807  27807                                  main - * Build 20221102123558
-   info 2022-11-12 11:29:13.078         ad   main  27807  27807                                  main - * Prefix ad
-   info 2022-11-12 11:29:13.078         ad   main  27807  27807                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
-   info 2022-11-12 11:29:13.078         ad   main  27807  27807                                  main - 
-   info 2022-11-12 11:29:13.078         ad   main  27807  27807                                  main - Distribution Info: Ubuntu 20.04.3 LTS
-   info 2022-11-12 11:29:13.078         ad   main  27807  27807                                  main - Found GLib Version: 2.64.
-   info 2022-11-12 11:29:13.090         ad   main  27807  27807                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
-
-   info 2022-11-12 11:29:13.090         ad   main  27807  27807                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
-   info 2022-11-12 11:29:13.091         ad   main  27807  27807                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
-
-   info 2022-11-12 11:29:13.091         ad   main  27807  27807                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
-   info 2022-11-12 11:29:13.091         ad   main  27807  27807                                  main - Starting backend process (27807).
-   info 2022-11-12 11:29:13.095    backend   main  27807  27807                           gui.gui_app - DPI scaling: 1.00 / 1.00
-   info 2022-11-12 11:29:13.095    backend   main  27807  27807                           gui.gui_app - Using std-resolution bitmaps.
-warning 2022-11-12 11:29:13.121    backend   main  27807  27807                          account_info - Could not read account info from config.
-   info 2022-11-12 11:29:13.121    backend   main  27807  27807                       base.signal.hub - 8 threads.
-   info 2022-11-12 11:29:13.122    backend    x11  27807  27810                          unix_app.xkb - Building charcode translation table.
-   info 2022-11-12 11:29:13.123    backend   timr  27807  27811          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:29:13.129    backend    x11  27807  27810                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:29:13.129    backend    x11  27807  27810                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:29:13.129    backend    x11  27807  27810                     base.monitor_info - Monitor 0 output=66
-warning 2022-11-12 11:29:13.129    backend   main  27807  27807           desk_rt.system_event_source - Harddrive status not working, this system has no support.
-   info 2022-11-12 11:29:13.132    backend   main  27807  27807                      audio.pa_wrapper - Connecting to PulseAudio server
-warning 2022-11-12 11:29:13.132    backend   main  27807  27807                      audio.pa_wrapper - Connection to PulseAudio server failed
-   info 2022-11-12 11:29:13.133    backend   timr  27807  27813          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:29:13.160    backend   ctrl  27807  27814                      unix_app.backend - Backend is starting up.
-  error 2022-11-12 11:29:13.196    backend   wrk0  27807  27815              base.prot.packet_factory - Invalid packet received (type=42, 0 bytes).
-  error 2022-11-12 11:29:13.196    backend   wrk0  27807  27815                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:29:13.197    backend   wrk0  27807  27815                      unix_app.backend - Incoming IPC connection.
-   info 2022-11-12 11:29:13.197    backend   timr  27807  27825          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:29:13.197    backend   ctrl  27807  27814                   desk_rt.x11_capture - Starting capture.
-   info 2022-11-12 11:29:13.198    backend   timr  27807  27826          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:29:13.199    backend   wrk0  27807  27815                   app.backend_session - Initializing session.
-   info 2022-11-12 11:29:13.223    backend   wrk0  27807  27815                      unix_app.backend - Session count: 1
-   info 2022-11-12 11:29:13.224    backend   ctrl  27807  27814                      unix_app.backend - Backend startup finished.
-   info 2022-11-12 11:29:13.224    backend   ctrl  27807  27814                   app.backend_session - Starting sockets.
-   info 2022-11-12 11:29:13.226    backend   wrk1  27807  27816                   app.backend_session - Incoming session request: vincent (169886870)
-   info 2022-11-12 11:29:13.227    backend   wrk1  27807  27816                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, filetransfer_server, filetransfer_client, whiteboard, tcp_tunnel, privacy_feature, vpn, encoder_reset, two_factor_auth, force_remote_restart, lossless_codec, report_kbd_focus, string_input, quality_adaptive
-   info 2022-11-12 11:29:13.227    backend   wrk1  27807  27816                   app.backend_session - Remote OS: Linux, Connection flags: direct paid 3 
-   info 2022-11-12 11:29:13.227    backend   wrk1  27807  27816                   app.backend_session - Remote version: 6.2.1
-   info 2022-11-12 11:29:13.227    backend   wrk1  27807  27816                   app.backend_session - Trying to register a new backend session.
-   info 2022-11-12 11:29:13.286    backend   wrk1  27807  27816                   app.backend_session - Requesting to restore permissions.
-   info 2022-11-12 11:29:13.287    backend   wrk1  27807  27816                   app.backend_session - Restoring permissions. (action: 3; state: 3)
-   info 2022-11-12 11:29:13.287    backend   wrk1  27807  27816                   app.backend_session - Initializing permissions.
-   info 2022-11-12 11:29:13.311    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.312    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.313    backend   wrk1  27807  27816                   app.backend_session - Enabling local clipboard.
-   info 2022-11-12 11:29:13.313    backend   wrk1  27807  27816                      app.clipbrd_comp - Engaging clipboard.
-   info 2022-11-12 11:29:13.313    backend   wrk1  27807  27816                      app.clipbrd_comp - Ready.
-   info 2022-11-12 11:29:13.314    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.316    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.317    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.322    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.334    backend   main  27807  27807                       clipbrd.capture - Clipboard capture running.
-   info 2022-11-12 11:29:13.351    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.357    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.359    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.362    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.363    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.364    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.365    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.366    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.367    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.368    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:13.368    backend   wrk1  27807  27816                   app.backend_session - Checking capabilities.
-   info 2022-11-12 11:29:13.386    backend   wrk1  27807  27816                   app.backend_session - Acknowledging session.
-   info 2022-11-12 11:29:13.386    backend   wrk1  27807  27816                   desk_rt.auto_adjust - Route type: tunnel (internet)
-warning 2022-11-12 11:29:19.613    backend   main  27807  27807        base.signal.global.shared_file - open (/etc/anydesk/system.conf) failed (13): Permission denied 
-warning 2022-11-12 11:29:19.613    backend   main  27807  27807           base.data.file_config_layer - Could not open config file: /etc/anydesk/system.conf.
-  error 2022-11-12 11:29:19.615       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=104, 0 bytes).
-  error 2022-11-12 11:29:19.615       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:29:19.615    backend   ctrl  27807  27814                   app.backend_session - Starting session (deskrt, clipboard, chat, audio, input, tcp_tunnel).
-   info 2022-11-12 11:29:19.616    backend   timr  27807  27829          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:29:19.618    backend   ctrl  27807  27814                       desk_rt.encoder - 4 segments.
-   info 2022-11-12 11:29:19.626    backend    x11  27807  27810                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:29:19.626    backend    x11  27807  27810                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:29:19.626    backend    x11  27807  27810                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 11:29:19.627    backend   ctrl  27807  27814                   app.backend_session - Continueing session start.
-   info 2022-11-12 11:29:19.627    backend   ctrl  27807  27814             desk_rt.capture_component - Starting capture.
-   info 2022-11-12 11:29:19.645    backend    x11  27807  27810                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:29:19.645    backend    x11  27807  27810                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:29:19.645    backend    x11  27807  27810                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 11:29:19.648    backend   ctrl  27807  27814                   app.keybd_sink_comp - Keyboard layout changed to: unknown
-   info 2022-11-12 11:29:19.648    backend   ctrl  27807  27814                        app.mouse_sink - Starting mouse sink.
-   info 2022-11-12 11:29:19.666    backend   wrk0  27807  27815             desk_rt.capture_component - Keyboard layout changed to: unknown
-   info 2022-11-12 11:29:19.666    backend   wrk0  27807  27815             desk_rt.capture_component - Focused monitor changed: 0 (crtc_66)
-   info 2022-11-12 11:29:19.666    backend   wrk1  27807  27816             desk_rt.capture_component - Keyboard layout changed to: unknown
-   info 2022-11-12 11:29:19.670    backend   wrk1  27807  27816                   desk_rt.auto_adjust - Route type: direct (internet)
-  error 2022-11-12 11:29:19.670    backend   wrk0  27807  27815              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 11:29:19.670    backend   wrk0  27807  27815                        hub_ipc_socket - IPC packet deserialization failed.
-  error 2022-11-12 11:29:19.670       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
-  error 2022-11-12 11:29:19.670       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending input (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending audio (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending clipboard (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending block input (9) permissions (allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending SAS (0) permissions (forbidden unsupported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending file manager (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending lock account (9) permissions (allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending record session (9) permissions (allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending whiteboard (9) permissions (allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending TCP tunneling (10) permissions (enabled forbidden supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending VPN (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending privacy (12) permissions (disabled forbidden supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending clilpboard files (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending restart (9) permissions (allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending sysinfo (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Sending mouse pointer (9) permissions (allowed supported)
-   info 2022-11-12 11:29:19.687    backend   ctrl  27807  27814                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:29:19.688    backend   ctrl  27807  27814                   app.backend_session - Session started (ok).
-   info 2022-11-12 11:29:19.934    backend    x11  27807  27810                          unix_app.xkb - Building charcode translation table.
-   info 2022-11-12 11:29:19.936    backend   wrk0  27807  27815             desk_rt.capture_component - Keyboard layout changed to: en_us
-   info 2022-11-12 11:29:20.299    backend   wrk1  27807  27816                   app.backend_session - Received new mouse cursor parameters (2).
-   info 2022-11-12 11:29:20.299    backend   wrk1  27807  27816           desk_rt.system_event_source - Enabled mouse cursor
-   info 2022-11-12 11:29:20.299    backend   wrk1  27807  27816                   app.backend_session - Received new gui feedback parameters (0).
-   info 2022-11-12 11:29:20.299    backend   wrk1  27807  27816           desk_rt.system_event_source - Disabled gui feedback
-   info 2022-11-12 11:29:20.299    backend   wrk1  27807  27816                   app.backend_session - Received new audio parameters (1).
-   info 2022-11-12 11:29:20.299    backend   wrk3  27807  27818                   app.backend_session - Received new image quality (7).
-   info 2022-11-12 11:29:20.299    backend   wrk1  27807  27816                   app.backend_session - Received new video quality (20).
-   info 2022-11-12 11:29:20.299    backend   wrk3  27807  27818                   app.backend_session - Received new auto-quality preset (2).
-   info 2022-11-12 11:29:20.299    backend   wrk1  27807  27816                   app.backend_session - Enabling capture.
-   info 2022-11-12 11:29:20.299    backend   wrk3  27807  27818                   desk_rt.auto_adjust - New preset: 1.
-   info 2022-11-12 11:29:20.323    backend   wrk1  27807  27816                       desk_rt.encoder - Format changed to 1366x768 (X8R8G8B8).
-   info 2022-11-12 11:29:43.568    backend   wrk1  27807  27816                   app.backend_session - Received a thumbnail request.
-  error 2022-11-12 11:29:43.568    backend   wrk1  27807  27816                   app.backend_session - Couldn't retrieve the wallpaper (Not implemented.).
-   info 2022-11-12 11:31:08.041   frontend   ctrl  14422  14431                     unix_app.frontend - Frontend shutdown.
-   info 2022-11-12 11:31:08.954   frontend   ctrl  14422  14431                       base.signal.hub - Control quit.
-   info 2022-11-12 11:31:08.955   frontend   timr  14422  14428          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:31:08.957   frontend   main  14422  14422               app.local_file_transfer - Stopping.
-   info 2022-11-12 11:31:08.957   frontend   main  14422  14422               app.local_file_transfer - File transfer stopped.
-   info 2022-11-12 11:31:08.968   frontend   main  14422  14422              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:31:08.968   frontend   main  14422  14422                                  main - Exiting normally.
-  error 2022-11-12 11:31:23.692    backend   wrk0  27807  27815              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 11:31:23.692    backend   wrk0  27807  27815                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:31:23.692    backend   wrk0  27807  27815                   app.backend_session - The socket was closed remotely.
-   info 2022-11-12 11:31:23.692    backend   ctrl  27807  27814                   app.backend_session - Stopping session.
-  error 2022-11-12 11:31:23.694       tray   wrk0  10017  10031                    app.tunnel_ft_comp - Invalid session id in cancel operation (240).
-   info 2022-11-12 11:31:23.700    backend   timr  27807  27829          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:31:23.700    backend   ctrl  27807  27814                      app.clipbrd_comp - Closing clipboard.
-   info 2022-11-12 11:31:23.700    backend   ctrl  27807  27814                      app.clipbrd_comp - Clearing clipboard.
-   info 2022-11-12 11:31:23.700    backend   main  27807  27807                       clipbrd.capture - Ignoring own data.
-   info 2022-11-12 11:31:23.701    backend   main  27807  27807                       clipbrd.capture - Unregistered clipboard notification.
-   info 2022-11-12 11:31:23.702    backend   ctrl  27807  27814                      app.clipbrd_comp - Clipboard closed.
-   info 2022-11-12 11:31:23.702    backend   ctrl  27807  27814                   app.backend_session - Session stopped.
-   info 2022-11-12 11:31:23.709    backend   ctrl  27807  27814                   app.backend_session - Destroyed.
-   info 2022-11-12 11:31:23.709    backend   timr  27807  27826          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:31:23.709    backend   ctrl  27807  27814              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:31:23.710    backend   timr  27807  27825          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:31:23.710    backend   ctrl  27807  27814                      unix_app.backend - Session count: 0 (0)
-   info 2022-11-12 11:31:29.216    backend   wrk0  27807  27815                      unix_app.backend - Incoming IPC connection.
-   info 2022-11-12 11:31:29.216    backend   timr  27807  27843          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:31:29.216    backend   timr  27807  27844          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:31:29.216    backend   wrk0  27807  27815                   app.backend_session - Initializing session.
-   info 2022-11-12 11:31:29.217    backend   ctrl  27807  27814                   app.backend_session - Starting sockets.
-  error 2022-11-12 11:31:29.219       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=24, 0 bytes).
-  error 2022-11-12 11:31:29.219       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:31:29.235    backend   wrk0  27807  27815                      unix_app.backend - Session count: 1
-   info 2022-11-12 11:31:29.237    backend   wrk1  27807  27816                   app.backend_session - Incoming session request: vincent (169886870)
-   info 2022-11-12 11:31:29.237    backend   wrk1  27807  27816                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, filetransfer_server, filetransfer_client, whiteboard, tcp_tunnel, privacy_feature, vpn, encoder_reset, two_factor_auth, force_remote_restart, lossless_codec, report_kbd_focus, string_input, quality_adaptive
-   info 2022-11-12 11:31:29.237    backend   wrk1  27807  27816                   app.backend_session - Remote OS: Linux, Connection flags: direct paid 3 
-   info 2022-11-12 11:31:29.237    backend   wrk1  27807  27816                   app.backend_session - Remote version: 6.2.1
-   info 2022-11-12 11:31:29.237    backend   wrk1  27807  27816                   app.backend_session - Trying to register a new backend session.
-   info 2022-11-12 11:31:29.241    backend   wrk1  27807  27816                   app.backend_session - Requesting to restore permissions.
-   info 2022-11-12 11:31:29.243    backend   wrk1  27807  27816                   app.backend_session - Restoring permissions. (action: 3; state: 3)
-   info 2022-11-12 11:31:29.243    backend   wrk1  27807  27816                   app.backend_session - Initializing permissions.
-   info 2022-11-12 11:31:29.263    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.271    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.271    backend   wrk1  27807  27816                   app.backend_session - Enabling local clipboard.
-   info 2022-11-12 11:31:29.271    backend   wrk1  27807  27816                      app.clipbrd_comp - Engaging clipboard.
-   info 2022-11-12 11:31:29.271    backend   wrk1  27807  27816                      app.clipbrd_comp - Ready.
-   info 2022-11-12 11:31:29.272    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.279    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.279    backend   main  27807  27807                       clipbrd.capture - Clipboard capture running.
-   info 2022-11-12 11:31:29.280    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.281    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.282    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.284    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.285    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.286    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.287    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.288    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.289    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.290    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.291    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.292    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:29.293    backend   wrk1  27807  27816                   app.backend_session - Checking capabilities.
-   info 2022-11-12 11:31:29.308    backend   wrk1  27807  27816                   app.backend_session - Acknowledging session.
-   info 2022-11-12 11:31:29.309    backend   wrk1  27807  27816                   desk_rt.auto_adjust - Route type: direct (internet)
-  error 2022-11-12 11:31:32.076       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=104, 0 bytes).
-  error 2022-11-12 11:31:32.076       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:31:32.076    backend   ctrl  27807  27814                   app.backend_session - Starting session (deskrt, clipboard, chat, audio, input, tcp_tunnel).
-   info 2022-11-12 11:31:32.077    backend   timr  27807  27846          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:31:32.079    backend   ctrl  27807  27814                       desk_rt.encoder - 4 segments.
-   info 2022-11-12 11:31:32.087    backend    x11  27807  27810                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:31:32.087    backend    x11  27807  27810                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:31:32.087    backend    x11  27807  27810                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 11:31:32.089    backend   ctrl  27807  27814                   app.backend_session - Continueing session start.
-   info 2022-11-12 11:31:32.089    backend   ctrl  27807  27814             desk_rt.capture_component - Starting capture.
-   info 2022-11-12 11:31:32.095    backend    x11  27807  27810                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:31:32.095    backend    x11  27807  27810                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:31:32.095    backend    x11  27807  27810                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 11:31:32.101    backend   ctrl  27807  27814                   app.keybd_sink_comp - Keyboard layout changed to: en_us
-   info 2022-11-12 11:31:32.101    backend   ctrl  27807  27814                        app.mouse_sink - Starting mouse sink.
-  error 2022-11-12 11:31:32.105    backend   wrk0  27807  27815              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 11:31:32.105    backend   wrk0  27807  27815                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:31:32.105    backend   wrk1  27807  27816                   desk_rt.auto_adjust - Route type: direct (internet)
-  error 2022-11-12 11:31:32.105       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
-  error 2022-11-12 11:31:32.105       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:31:32.109    backend   wrk0  27807  27815             desk_rt.capture_component - Keyboard layout changed to: en_us
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending input (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending audio (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending clipboard (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending block input (9) permissions (allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending SAS (0) permissions (forbidden unsupported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending file manager (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending lock account (9) permissions (allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending record session (9) permissions (allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending whiteboard (9) permissions (allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending TCP tunneling (10) permissions (enabled forbidden supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending VPN (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending privacy (12) permissions (disabled forbidden supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending clilpboard files (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending restart (9) permissions (allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending sysinfo (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Sending mouse pointer (9) permissions (allowed supported)
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:32.127    backend   ctrl  27807  27814                   app.backend_session - Session started (ok).
-  error 2022-11-12 11:31:52.667    backend   wrk0  27807  27815              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 11:31:52.667    backend   wrk0  27807  27815                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:31:52.667    backend   wrk1  27807  27816                   app.backend_session - The user has requested a connection quit.
-   info 2022-11-12 11:31:52.667    backend   ctrl  27807  27814                   app.backend_session - Stopping session.
-   info 2022-11-12 11:31:52.667    backend   wrk0  27807  27815                   app.backend_session - The socket was closed remotely.
-  error 2022-11-12 11:31:52.668       tray   wrk0  10017  10031                    app.tunnel_ft_comp - Invalid session id in cancel operation (251).
-   info 2022-11-12 11:31:52.673    backend   timr  27807  27846          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:31:52.673    backend   ctrl  27807  27814                      app.clipbrd_comp - Closing clipboard.
-   info 2022-11-12 11:31:52.673    backend   ctrl  27807  27814                      app.clipbrd_comp - Clearing clipboard.
-   info 2022-11-12 11:31:52.673    backend   main  27807  27807                       clipbrd.capture - Ignoring own data.
-   info 2022-11-12 11:31:52.674    backend   main  27807  27807                       clipbrd.capture - Unregistered clipboard notification.
-   info 2022-11-12 11:31:52.674    backend   ctrl  27807  27814                      app.clipbrd_comp - Clipboard closed.
-   info 2022-11-12 11:31:52.675    backend   ctrl  27807  27814                   app.backend_session - Session stopped.
-   info 2022-11-12 11:31:53.252    backend   ctrl  27807  27814                   app.backend_session - Destroyed.
-   info 2022-11-12 11:31:53.252    backend   timr  27807  27844          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:31:53.252    backend   ctrl  27807  27814              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:31:53.252    backend   timr  27807  27843          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:31:53.252    backend   ctrl  27807  27814                      unix_app.backend - Session count: 0 (0)
-   info 2022-11-12 11:31:57.303    backend   wrk0  27807  27815                      unix_app.backend - Incoming IPC connection.
-   info 2022-11-12 11:31:57.303    backend   timr  27807  27854          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:31:57.303    backend   timr  27807  27855          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:31:57.304    backend   wrk0  27807  27815                   app.backend_session - Initializing session.
-   info 2022-11-12 11:31:57.304    backend   ctrl  27807  27814                   app.backend_session - Starting sockets.
-  error 2022-11-12 11:31:57.307       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=24, 0 bytes).
-  error 2022-11-12 11:31:57.307       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:31:57.323    backend   wrk0  27807  27815                      unix_app.backend - Session count: 1
-   info 2022-11-12 11:31:57.325    backend   wrk1  27807  27816                   app.backend_session - Incoming session request: vincent (169886870)
-   info 2022-11-12 11:31:57.325    backend   wrk1  27807  27816                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, filetransfer_server, filetransfer_client, whiteboard, tcp_tunnel, privacy_feature, vpn, encoder_reset, two_factor_auth, force_remote_restart, lossless_codec, report_kbd_focus, string_input, quality_adaptive
-   info 2022-11-12 11:31:57.325    backend   wrk1  27807  27816                   app.backend_session - Remote OS: Linux, Connection flags: direct paid 3 
-   info 2022-11-12 11:31:57.325    backend   wrk1  27807  27816                   app.backend_session - Remote version: 6.2.1
-   info 2022-11-12 11:31:57.325    backend   wrk1  27807  27816                   app.backend_session - Trying to register a new backend session.
-   info 2022-11-12 11:31:57.330    backend   wrk1  27807  27816                   app.backend_session - Requesting to restore permissions.
-   info 2022-11-12 11:31:57.331    backend   wrk1  27807  27816                   app.backend_session - Restoring permissions. (action: 3; state: 3)
-   info 2022-11-12 11:31:57.331    backend   wrk1  27807  27816                   app.backend_session - Initializing permissions.
-   info 2022-11-12 11:31:57.351    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.352    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.352    backend   wrk1  27807  27816                   app.backend_session - Enabling local clipboard.
-   info 2022-11-12 11:31:57.352    backend   wrk1  27807  27816                      app.clipbrd_comp - Engaging clipboard.
-   info 2022-11-12 11:31:57.352    backend   wrk1  27807  27816                      app.clipbrd_comp - Ready.
-   info 2022-11-12 11:31:57.353    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.355    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.356    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.357    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.367    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.372    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.375    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.376    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.378    backend   main  27807  27807                       clipbrd.capture - Clipboard capture running.
-   info 2022-11-12 11:31:57.381    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.383    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.384    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.385    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.386    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.387    backend   wrk1  27807  27816                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:31:57.387    backend   wrk1  27807  27816                   app.backend_session - Checking capabilities.
-   info 2022-11-12 11:31:57.405    backend   wrk1  27807  27816                   app.backend_session - Acknowledging session.
-   info 2022-11-12 11:31:57.405    backend   wrk1  27807  27816                   desk_rt.auto_adjust - Route type: direct (internet)
-  error 2022-11-12 11:32:03.885       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=104, 0 bytes).
-  error 2022-11-12 11:32:03.885       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:32:03.885    backend   ctrl  27807  27814                   app.backend_session - Starting session (deskrt, clipboard, chat, audio, input, tcp_tunnel).
-   info 2022-11-12 11:32:03.886    backend   timr  27807  27857          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:32:03.887    backend   ctrl  27807  27814                       desk_rt.encoder - 4 segments.
-   info 2022-11-12 11:32:03.896    backend    x11  27807  27810                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:32:03.896    backend    x11  27807  27810                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:32:03.896    backend    x11  27807  27810                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 11:32:03.897    backend   ctrl  27807  27814                   app.backend_session - Continueing session start.
-   info 2022-11-12 11:32:03.897    backend   ctrl  27807  27814             desk_rt.capture_component - Starting capture.
-   info 2022-11-12 11:32:03.904    backend    x11  27807  27810                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:32:03.904    backend    x11  27807  27810                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:32:03.904    backend    x11  27807  27810                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 11:32:03.906    backend   ctrl  27807  27814                   app.keybd_sink_comp - Keyboard layout changed to: en_us
-   info 2022-11-12 11:32:03.906    backend   ctrl  27807  27814                        app.mouse_sink - Starting mouse sink.
-   info 2022-11-12 11:32:03.907    backend   wrk0  27807  27815             desk_rt.capture_component - Keyboard layout changed to: en_us
-   info 2022-11-12 11:32:03.913    backend   wrk1  27807  27816                   desk_rt.auto_adjust - Route type: direct (internet)
-  error 2022-11-12 11:32:03.913       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
-  error 2022-11-12 11:32:03.913       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-  error 2022-11-12 11:32:03.913    backend   wrk0  27807  27815              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 11:32:03.913    backend   wrk0  27807  27815                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:32:03.916    backend   wrk0  27807  27815             desk_rt.capture_component - Keyboard layout changed to: en_us
-   info 2022-11-12 11:32:03.926    backend   ctrl  27807  27814                   app.backend_session - Sending input (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:03.926    backend   ctrl  27807  27814                   app.backend_session - Sending audio (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending clipboard (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending block input (9) permissions (allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending SAS (0) permissions (forbidden unsupported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending file manager (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending lock account (9) permissions (allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending record session (9) permissions (allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending whiteboard (9) permissions (allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending TCP tunneling (10) permissions (enabled forbidden supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending VPN (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending privacy (12) permissions (disabled forbidden supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending clilpboard files (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending restart (9) permissions (allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending sysinfo (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Sending mouse pointer (9) permissions (allowed supported)
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:03.927    backend   ctrl  27807  27814                   app.backend_session - Session started (ok).
-  error 2022-11-12 11:32:15.079    backend   wrk0  27807  27815              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 11:32:15.079    backend   wrk0  27807  27815                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:32:15.079    backend   wrk0  27807  27815                   app.backend_session - The socket was closed remotely.
-   info 2022-11-12 11:32:15.079    backend   ctrl  27807  27814                   app.backend_session - Stopping session.
-  error 2022-11-12 11:32:15.080       tray   wrk0  10017  10031                    app.tunnel_ft_comp - Invalid session id in cancel operation (253).
-   info 2022-11-12 11:32:15.085    backend   timr  27807  27857          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:32:15.085    backend   ctrl  27807  27814                      app.clipbrd_comp - Closing clipboard.
-   info 2022-11-12 11:32:15.085    backend   ctrl  27807  27814                      app.clipbrd_comp - Clearing clipboard.
-   info 2022-11-12 11:32:15.085    backend   main  27807  27807                       clipbrd.capture - Ignoring own data.
-   info 2022-11-12 11:32:15.085    backend   main  27807  27807                       clipbrd.capture - Unregistered clipboard notification.
-   info 2022-11-12 11:32:15.085    backend   ctrl  27807  27814                      app.clipbrd_comp - Clipboard closed.
-   info 2022-11-12 11:32:15.085    backend   ctrl  27807  27814                   app.backend_session - Session stopped.
-   info 2022-11-12 11:32:15.095    backend   ctrl  27807  27814                   app.backend_session - Destroyed.
-   info 2022-11-12 11:32:15.095    backend   timr  27807  27855          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:32:15.095    backend   ctrl  27807  27814              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:32:15.095    backend   timr  27807  27854          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:32:15.096    backend   ctrl  27807  27814                      unix_app.backend - Session count: 0 (0)
-   info 2022-11-12 11:32:16.615    backend   ctrl  27807  27814                      unix_app.backend - Backend is shutting down.
-   info 2022-11-12 11:32:16.618    backend   ctrl  27807  27814                   desk_rt.x11_capture - Stopping capture.
-   info 2022-11-12 11:32:16.618    backend   ctrl  27807  27814                   desk_rt.x11_capture - Capture stopped.
-   info 2022-11-12 11:32:16.618    backend   ctrl  27807  27814                      unix_app.backend - Backend has been stopped.
-   info 2022-11-12 11:32:16.618    backend   main  27807  27807                      unix_app.backend - Deleting backend.
-   info 2022-11-12 11:32:16.618    backend   ctrl  27807  27814                       base.signal.hub - Control quit.
-   info 2022-11-12 11:32:16.622    backend   timr  27807  27813          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:32:22.284         ad   main  27865  27865                         impl_selector - using avx2
- * * * * * * * * * * * * * * * * * *
-   info 2022-11-12 11:32:22.284         ad   main  27865  27865                                  main - * AnyDesk Linux Startup *
-   info 2022-11-12 11:32:22.284         ad   main  27865  27865                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
-   info 2022-11-12 11:32:22.284         ad   main  27865  27865                                  main - * Build 20221102123558
-   info 2022-11-12 11:32:22.284         ad   main  27865  27865                                  main - * Prefix ad
-   info 2022-11-12 11:32:22.284         ad   main  27865  27865                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
-   info 2022-11-12 11:32:22.284         ad   main  27865  27865                                  main - 
-   info 2022-11-12 11:32:22.284         ad   main  27865  27865                                  main - Distribution Info: Ubuntu 20.04.3 LTS
-   info 2022-11-12 11:32:22.284         ad   main  27865  27865                                  main - Found GLib Version: 2.64.
-   info 2022-11-12 11:32:22.298         ad   main  27865  27865                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
-
-   info 2022-11-12 11:32:22.298         ad   main  27865  27865                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
-   info 2022-11-12 11:32:22.299         ad   main  27865  27865                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
-
-   info 2022-11-12 11:32:22.299         ad   main  27865  27865                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
-   info 2022-11-12 11:32:22.299         ad   main  27865  27865                                  main - Starting frontend process (27865).
-   info 2022-11-12 11:32:22.302   frontend   main  27865  27865                           gui.gui_app - DPI scaling: 1.00 / 1.00
-   info 2022-11-12 11:32:22.302   frontend   main  27865  27865                           gui.gui_app - Using std-resolution bitmaps.
-warning 2022-11-12 11:32:22.327   frontend   main  27865  27865                          account_info - Could not read account info from config.
-   info 2022-11-12 11:32:22.327   frontend   main  27865  27865                       base.signal.hub - 8 threads.
-warning 2022-11-12 11:32:22.327   frontend   main  27865  27865        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
-warning 2022-11-12 11:32:22.327   frontend   main  27865  27865                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
-   info 2022-11-12 11:32:22.331   frontend   timr  27865  27870          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:32:22.393   frontend filetransfer  27865  27872                       base.task_queue - Waiting for commands.
-   info 2022-11-12 11:32:22.453   frontend   ctrl  27865  27873                     unix_app.frontend - Frontend startup.
-   info 2022-11-12 11:32:22.453   frontend   ctrl  27865  27873                     unix_app.frontend - Logging the frontend in.
-warning 2022-11-12 11:32:22.453   frontend   ctrl  27865  27873        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
-warning 2022-11-12 11:32:22.454   frontend   ctrl  27865  27873                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
-warning 2022-11-12 11:32:22.511   frontend   wrk1  27865  27875        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
-warning 2022-11-12 11:32:22.511   frontend   wrk1  27865  27875                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
-   info 2022-11-12 11:32:22.511   frontend   wrk3  27865  27877                          app.frontend - Error help should be shown for anynet_success
-   info 2022-11-12 11:32:23.185   frontend    x11  27865  27869                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:32:23.185   frontend    x11  27865  27869                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:32:23.185   frontend    x11  27865  27869                     base.monitor_info - Monitor 0 output=66
-  error 2022-11-12 11:32:40.103       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=24, 0 bytes).
-  error 2022-11-12 11:32:40.103       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:32:40.165         ad   main  27889  27889                         impl_selector - using avx2
- * * * * * * * * * * * * * * * * * *
-   info 2022-11-12 11:32:40.165         ad   main  27889  27889                                  main - * AnyDesk Linux Startup *
-   info 2022-11-12 11:32:40.165         ad   main  27889  27889                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
-   info 2022-11-12 11:32:40.165         ad   main  27889  27889                                  main - * Build 20221102123558
-   info 2022-11-12 11:32:40.165         ad   main  27889  27889                                  main - * Prefix ad
-   info 2022-11-12 11:32:40.165         ad   main  27889  27889                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
-   info 2022-11-12 11:32:40.165         ad   main  27889  27889                                  main - 
-   info 2022-11-12 11:32:40.165         ad   main  27889  27889                                  main - Distribution Info: Ubuntu 20.04.3 LTS
-   info 2022-11-12 11:32:40.165         ad   main  27889  27889                                  main - Found GLib Version: 2.64.
-   info 2022-11-12 11:32:40.178         ad   main  27889  27889                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
-
-   info 2022-11-12 11:32:40.178         ad   main  27889  27889                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
-   info 2022-11-12 11:32:40.178         ad   main  27889  27889                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
-
-   info 2022-11-12 11:32:40.178         ad   main  27889  27889                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
-   info 2022-11-12 11:32:40.178         ad   main  27889  27889                                  main - Starting backend process (27889).
-   info 2022-11-12 11:32:40.182    backend   main  27889  27889                           gui.gui_app - DPI scaling: 1.00 / 1.00
-   info 2022-11-12 11:32:40.182    backend   main  27889  27889                           gui.gui_app - Using std-resolution bitmaps.
-warning 2022-11-12 11:32:40.212    backend   main  27889  27889                          account_info - Could not read account info from config.
-   info 2022-11-12 11:32:40.212    backend   main  27889  27889                       base.signal.hub - 8 threads.
-   info 2022-11-12 11:32:40.213    backend    x11  27889  27892                          unix_app.xkb - Building charcode translation table.
-   info 2022-11-12 11:32:40.214    backend   timr  27889  27893          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:32:40.220    backend    x11  27889  27892                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:32:40.220    backend    x11  27889  27892                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:32:40.220    backend    x11  27889  27892                     base.monitor_info - Monitor 0 output=66
-warning 2022-11-12 11:32:40.220    backend   main  27889  27889           desk_rt.system_event_source - Harddrive status not working, this system has no support.
-   info 2022-11-12 11:32:40.224    backend   main  27889  27889                      audio.pa_wrapper - Connecting to PulseAudio server
-warning 2022-11-12 11:32:40.224    backend   main  27889  27889                      audio.pa_wrapper - Connection to PulseAudio server failed
-   info 2022-11-12 11:32:40.225    backend   timr  27889  27895          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:32:40.255    backend   ctrl  27889  27896                      unix_app.backend - Backend is starting up.
-  error 2022-11-12 11:32:40.288    backend   wrk0  27889  27897              base.prot.packet_factory - Invalid packet received (type=42, 0 bytes).
-  error 2022-11-12 11:32:40.288    backend   wrk0  27889  27897                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:32:40.289    backend   wrk0  27889  27897                      unix_app.backend - Incoming IPC connection.
-   info 2022-11-12 11:32:40.289    backend   timr  27889  27907          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:32:40.289    backend   ctrl  27889  27896                   desk_rt.x11_capture - Starting capture.
-   info 2022-11-12 11:32:40.289    backend   timr  27889  27908          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:32:40.291    backend   wrk0  27889  27897                   app.backend_session - Initializing session.
-   info 2022-11-12 11:32:40.311    backend   wrk0  27889  27897                      unix_app.backend - Session count: 1
-   info 2022-11-12 11:32:40.312    backend   ctrl  27889  27896                      unix_app.backend - Backend startup finished.
-   info 2022-11-12 11:32:40.312    backend   ctrl  27889  27896                   app.backend_session - Starting sockets.
-   info 2022-11-12 11:32:40.314    backend   wrk1  27889  27898                   app.backend_session - Incoming session request: vincent (169886870)
-   info 2022-11-12 11:32:40.314    backend   wrk1  27889  27898                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, filetransfer_server, filetransfer_client, whiteboard, tcp_tunnel, privacy_feature, vpn, encoder_reset, two_factor_auth, force_remote_restart, lossless_codec, report_kbd_focus, string_input, quality_adaptive
-   info 2022-11-12 11:32:40.314    backend   wrk1  27889  27898                   app.backend_session - Remote OS: Linux, Connection flags: direct paid 3 
-   info 2022-11-12 11:32:40.314    backend   wrk1  27889  27898                   app.backend_session - Remote version: 6.2.1
-   info 2022-11-12 11:32:40.314    backend   wrk1  27889  27898                   app.backend_session - Trying to register a new backend session.
-   info 2022-11-12 11:32:40.362    backend   wrk1  27889  27898                   app.backend_session - Requesting to restore permissions.
-   info 2022-11-12 11:32:40.363    backend   wrk1  27889  27898                   app.backend_session - Restoring permissions. (action: 3; state: 3)
-   info 2022-11-12 11:32:40.363    backend   wrk1  27889  27898                   app.backend_session - Initializing permissions.
-   info 2022-11-12 11:32:40.383    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.384    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.385    backend   wrk1  27889  27898                   app.backend_session - Enabling local clipboard.
-   info 2022-11-12 11:32:40.386    backend   wrk1  27889  27898                      app.clipbrd_comp - Engaging clipboard.
-   info 2022-11-12 11:32:40.386    backend   wrk1  27889  27898                      app.clipbrd_comp - Ready.
-   info 2022-11-12 11:32:40.387    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.389    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.400    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.401    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.403    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.404    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.405    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.407    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.409    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.409    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.411    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.412    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.420    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.427    backend   wrk1  27889  27898                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:40.427    backend   wrk1  27889  27898                   app.backend_session - Checking capabilities.
-   info 2022-11-12 11:32:40.447    backend   wrk1  27889  27898                   app.backend_session - Acknowledging session.
-   info 2022-11-12 11:32:40.448    backend   wrk1  27889  27898                   desk_rt.auto_adjust - Route type: direct (internet)
-   info 2022-11-12 11:32:40.472    backend   main  27889  27889                       clipbrd.capture - Clipboard capture running.
-warning 2022-11-12 11:32:45.211    backend   main  27889  27889        base.signal.global.shared_file - open (/etc/anydesk/system.conf) failed (13): Permission denied 
-warning 2022-11-12 11:32:45.211    backend   main  27889  27889           base.data.file_config_layer - Could not open config file: /etc/anydesk/system.conf.
-  error 2022-11-12 11:32:45.212       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=104, 0 bytes).
-  error 2022-11-12 11:32:45.213       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:32:45.213    backend   ctrl  27889  27896                   app.backend_session - Starting session (deskrt, clipboard, chat, audio, input, tcp_tunnel).
-   info 2022-11-12 11:32:45.214    backend   timr  27889  27911          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:32:45.215    backend   ctrl  27889  27896                       desk_rt.encoder - 4 segments.
-   info 2022-11-12 11:32:45.232    backend    x11  27889  27892                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:32:45.232    backend    x11  27889  27892                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:32:45.232    backend    x11  27889  27892                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 11:32:45.233    backend   ctrl  27889  27896                   app.backend_session - Continueing session start.
-   info 2022-11-12 11:32:45.233    backend   ctrl  27889  27896             desk_rt.capture_component - Starting capture.
-   info 2022-11-12 11:32:45.243    backend    x11  27889  27892                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:32:45.243    backend    x11  27889  27892                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:32:45.243    backend    x11  27889  27892                     base.monitor_info - Monitor 0 output=66
-   info 2022-11-12 11:32:45.246    backend   ctrl  27889  27896                   app.keybd_sink_comp - Keyboard layout changed to: unknown
-   info 2022-11-12 11:32:45.246    backend   ctrl  27889  27896                        app.mouse_sink - Starting mouse sink.
-   info 2022-11-12 11:32:45.246    backend   wrk0  27889  27897             desk_rt.capture_component - Keyboard layout changed to: unknown
-   info 2022-11-12 11:32:45.246    backend   wrk0  27889  27897             desk_rt.capture_component - Focused monitor changed: 0 (crtc_66)
-   info 2022-11-12 11:32:45.250    backend   wrk1  27889  27898                   desk_rt.auto_adjust - Route type: direct (internet)
-  error 2022-11-12 11:32:45.250       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
-  error 2022-11-12 11:32:45.250       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-  error 2022-11-12 11:32:45.250    backend   wrk0  27889  27897              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 11:32:45.250    backend   wrk0  27889  27897                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:32:45.259    backend   wrk0  27889  27897             desk_rt.capture_component - Keyboard layout changed to: unknown
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending input (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending audio (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending clipboard (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending block input (9) permissions (allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending SAS (0) permissions (forbidden unsupported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending file manager (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending lock account (9) permissions (allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending record session (9) permissions (allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending whiteboard (9) permissions (allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending TCP tunneling (10) permissions (enabled forbidden supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending VPN (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending privacy (12) permissions (disabled forbidden supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending clilpboard files (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending restart (9) permissions (allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending sysinfo (11) permissions (enabled allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Sending mouse pointer (9) permissions (allowed supported)
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Requesting to store permissions.
-   info 2022-11-12 11:32:45.267    backend   ctrl  27889  27896                   app.backend_session - Session started (ok).
-   info 2022-11-12 11:32:45.529    backend    x11  27889  27892                          unix_app.xkb - Building charcode translation table.
-   info 2022-11-12 11:32:45.531    backend   wrk0  27889  27897             desk_rt.capture_component - Keyboard layout changed to: en_us
-   info 2022-11-12 11:34:10.225   frontend   ctrl  27865  27873                     unix_app.frontend - Frontend shutdown.
-   info 2022-11-12 11:34:10.617   frontend   ctrl  27865  27873                       base.signal.hub - Control quit.
-   info 2022-11-12 11:34:10.618   frontend   timr  27865  27870          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:34:10.620   frontend   main  27865  27865               app.local_file_transfer - Stopping.
-   info 2022-11-12 11:34:10.620   frontend   main  27865  27865               app.local_file_transfer - File transfer stopped.
-   info 2022-11-12 11:34:10.631   frontend   main  27865  27865              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:34:10.632   frontend   main  27865  27865                                  main - Exiting normally.
-  error 2022-11-12 11:34:56.983    backend   wrk0  27889  27897              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
-  error 2022-11-12 11:34:56.983    backend   wrk0  27889  27897                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:34:56.983    backend   wrk0  27889  27897                   app.backend_session - The socket was closed remotely.
-   info 2022-11-12 11:34:56.983    backend   ctrl  27889  27896                   app.backend_session - Stopping session.
-  error 2022-11-12 11:34:56.983       tray   wrk0  10017  10031                    app.tunnel_ft_comp - Invalid session id in cancel operation (258).
-   info 2022-11-12 11:34:56.988    backend   timr  27889  27911          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:34:56.988    backend   ctrl  27889  27896                      app.clipbrd_comp - Closing clipboard.
-   info 2022-11-12 11:34:56.988    backend   ctrl  27889  27896                      app.clipbrd_comp - Clearing clipboard.
-   info 2022-11-12 11:34:56.989    backend   main  27889  27889                       clipbrd.capture - Ignoring own data.
-   info 2022-11-12 11:34:56.989    backend   main  27889  27889                       clipbrd.capture - Unregistered clipboard notification.
-   info 2022-11-12 11:34:56.989    backend   ctrl  27889  27896                      app.clipbrd_comp - Clipboard closed.
-   info 2022-11-12 11:34:56.989    backend   ctrl  27889  27896                   app.backend_session - Session stopped.
-   info 2022-11-12 11:34:56.996    backend   ctrl  27889  27896                   app.backend_session - Destroyed.
-   info 2022-11-12 11:34:56.996    backend   timr  27889  27908          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:34:56.996    backend   ctrl  27889  27896              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:34:56.996    backend   timr  27889  27907          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:34:56.996    backend   ctrl  27889  27896                      unix_app.backend - Session count: 0 (0)
-   info 2022-11-12 11:34:58.140    backend   ctrl  27889  27896                      unix_app.backend - Backend is shutting down.
-   info 2022-11-12 11:34:58.151    backend   ctrl  27889  27896                   desk_rt.x11_capture - Stopping capture.
-   info 2022-11-12 11:34:58.151    backend   ctrl  27889  27896                   desk_rt.x11_capture - Capture stopped.
-   info 2022-11-12 11:34:58.152    backend   ctrl  27889  27896                      unix_app.backend - Backend has been stopped.
-   info 2022-11-12 11:34:58.152    backend   main  27889  27889                      unix_app.backend - Deleting backend.
-   info 2022-11-12 11:34:58.152    backend   ctrl  27889  27896                       base.signal.hub - Control quit.
-   info 2022-11-12 11:34:58.155    backend   timr  27889  27895          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:34:58.155    backend   timr  27889  27893          base.signal.local.timer_impl - Timer wants to quit.
-   info 2022-11-12 11:34:58.156    backend   main  27889  27889              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:34:58.156    backend   main  27889  27889              base.prot.job_dispatcher - 0 undelivered packets.
-   info 2022-11-12 11:34:58.157    backend   main  27889  27889                                  main - Exiting normally.
-  error 2022-11-12 11:35:02.437       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=24, 0 bytes).
-  error 2022-11-12 11:35:02.437       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:35:02.503         ad   main  29448  29448                         impl_selector - using avx2
- * * * * * * * * * * * * * * * * * *
-   info 2022-11-12 11:35:02.503         ad   main  29448  29448                                  main - * AnyDesk Linux Startup *
-   info 2022-11-12 11:35:02.503         ad   main  29448  29448                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
-   info 2022-11-12 11:35:02.503         ad   main  29448  29448                                  main - * Build 20221102123558
-   info 2022-11-12 11:35:02.503         ad   main  29448  29448                                  main - * Prefix ad
-   info 2022-11-12 11:35:02.503         ad   main  29448  29448                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
-   info 2022-11-12 11:35:02.503         ad   main  29448  29448                                  main - 
-   info 2022-11-12 11:35:02.503         ad   main  29448  29448                                  main - Distribution Info: Ubuntu 20.04.3 LTS
-   info 2022-11-12 11:35:02.503         ad   main  29448  29448                                  main - Found GLib Version: 2.64.
-   info 2022-11-12 11:35:02.519         ad   main  29448  29448                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
-
-   info 2022-11-12 11:35:02.520         ad   main  29448  29448                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
-   info 2022-11-12 11:35:02.520         ad   main  29448  29448                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
-
-   info 2022-11-12 11:35:02.520         ad   main  29448  29448                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
-   info 2022-11-12 11:35:02.520         ad   main  29448  29448                                  main - Starting backend process (29448).
-   info 2022-11-12 11:35:02.523    backend   main  29448  29448                           gui.gui_app - DPI scaling: 1.00 / 1.00
-   info 2022-11-12 11:35:02.523    backend   main  29448  29448                           gui.gui_app - Using std-resolution bitmaps.
-warning 2022-11-12 11:35:02.549    backend   main  29448  29448                          account_info - Could not read account info from config.
-   info 2022-11-12 11:35:02.549    backend   main  29448  29448                       base.signal.hub - 8 threads.
-   info 2022-11-12 11:35:02.550    backend    x11  29448  29451                          unix_app.xkb - Building charcode translation table.
-   info 2022-11-12 11:35:02.551    backend   timr  29448  29452          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:35:02.557    backend    x11  29448  29451                     base.monitor_info - Monitor 0: x/y : 0/0
-   info 2022-11-12 11:35:02.557    backend    x11  29448  29451                     base.monitor_info - Monitor 0: w/h : 1366/768
-   info 2022-11-12 11:35:02.557    backend    x11  29448  29451                     base.monitor_info - Monitor 0 output=66
-warning 2022-11-12 11:35:02.558    backend   main  29448  29448           desk_rt.system_event_source - Harddrive status not working, this system has no support.
-   info 2022-11-12 11:35:02.564    backend   main  29448  29448                      audio.pa_wrapper - Connecting to PulseAudio server
-warning 2022-11-12 11:35:02.564    backend   main  29448  29448                      audio.pa_wrapper - Connection to PulseAudio server failed
-   info 2022-11-12 11:35:02.565    backend   timr  29448  29454          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:35:02.624    backend   ctrl  29448  29455                      unix_app.backend - Backend is starting up.
-  error 2022-11-12 11:35:02.644    backend   wrk0  29448  29456              base.prot.packet_factory - Invalid packet received (type=42, 0 bytes).
-  error 2022-11-12 11:35:02.644    backend   wrk0  29448  29456                        hub_ipc_socket - IPC packet deserialization failed.
-   info 2022-11-12 11:35:02.644    backend   wrk0  29448  29456                      unix_app.backend - Incoming IPC connection.
-   info 2022-11-12 11:35:02.644    backend   timr  29448  29466          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:35:02.645    backend   timr  29448  29467          base.signal.local.timer_impl - Initialized master timer.
-   info 2022-11-12 11:35:02.645    backend   wrk0  29448  29456                   app.backend_session - Initializing session.
-   info 2022-11-12 11:35:02.646    backend   ctrl  29448  29455                   desk_rt.x11_capture - Starting capture.
-   info 2022-11-12 11:35:02.671    backend   wrk0  29448  29456                      unix_app.backend - Session count: 1
-   info 2022-11-12 11:35:02.671    backend   ctrl  29448  29455                      unix_app.backend - Backend startup finished.
-   info 2022-11-12 11:35:02.672    backend   ctrl  29448  29455                   app.backend_session - Starting sockets.
-   info 2022-11-12 11:35:02.675    backend   wrk1  29448  29457                   app.backend_session - Incoming session request: vincent (169886870)
-   info 2022-11-12 11:35:02.675    backend   wrk1  29448  29457                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, filetransfer_server, filetransfer_client, whiteboard, tcp_tunnel, privacy_feature, vpn, encoder_reset, two_factor_auth, force_remote_restart, lossless_codec, report_kbd_focus, string_input, quality_adaptive
-   info 2022-11-12 11:35:02.675    backend   wrk1  29448  29457                   app.backend_session - Remote OS: Linux, Connection flags: direct paid 3 
-   info 2022-11-12 11:35:02.675    backend   wrk1  29448  29457                   app.backend_session - Remote version: 6.2.1
+.675    backend   wrk1  29448  29457                   app.backend_session - Remote version: 6.2.1
    info 2022-11-12 11:35:02.675    backend   wrk1  29448  29457                   app.backend_session - Trying to register a new backend session.
    info 2022-11-12 11:35:02.748    backend   wrk1  29448  29457                   app.backend_session - Requesting to restore permissions.
    info 2022-11-12 11:35:02.749    backend   wrk1  29448  29457                   app.backend_session - Restoring permissions. (action: 3; state: 3)
@@ -7148,3 +6392,341 @@ warning 2022-11-13 09:56:48.442    backend   main  32851  32851           base.d
    info 2022-11-13 11:59:07.656    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
    info 2022-11-13 11:59:53.925    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
    info 2022-11-13 11:59:53.926    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:00:16.454    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:00:16.456    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:00:36.444    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:00:36.446    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:01:00.704    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:01:00.707    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:08:18.567    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:08:18.571    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:09:05.183    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:09:05.185    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:11:30.487    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:11:30.491    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:11:45.533    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:11:45.534    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:11:54.947    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:11:54.949    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+  error 2022-11-13 12:12:09.185    backend   wrk0  32851  32859              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
+   info 2022-11-13 12:12:09.185    backend   wrk1  32851  32860                   app.backend_session - The user has requested a connection quit.
+  error 2022-11-13 12:12:09.185    backend   wrk0  32851  32859                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2022-11-13 12:12:09.185    backend   wrk0  32851  32859                   app.backend_session - The socket was closed remotely.
+   info 2022-11-13 12:12:09.186    backend   ctrl  32851  32858                   app.backend_session - Stopping session.
+  error 2022-11-13 12:12:09.186       tray   wrk0  10017  10031                    app.tunnel_ft_comp - Invalid session id in cancel operation (749).
+   info 2022-11-13 12:12:09.192    backend   timr  32851  51590          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-11-13 12:12:09.193    backend   ctrl  32851  32858                      app.clipbrd_comp - Closing clipboard.
+   info 2022-11-13 12:12:09.193    backend   ctrl  32851  32858                      app.clipbrd_comp - Clearing clipboard.
+   info 2022-11-13 12:12:09.198    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 12:12:09.199    backend   main  32851  32851                       clipbrd.capture - Unregistered clipboard notification.
+   info 2022-11-13 12:12:09.199    backend   ctrl  32851  32858                      app.clipbrd_comp - Clipboard closed.
+   info 2022-11-13 12:12:09.199    backend   ctrl  32851  32858                   app.backend_session - Session stopped.
+   info 2022-11-13 12:12:09.735    backend   ctrl  32851  32858                   app.backend_session - Destroyed.
+   info 2022-11-13 12:12:09.735    backend   timr  32851  51583          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-11-13 12:12:09.735    backend   ctrl  32851  32858              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2022-11-13 12:12:09.735    backend   timr  32851  51582          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-11-13 12:12:09.735    backend   ctrl  32851  32858                      unix_app.backend - Session count: 0 (0)
+   info 2022-11-13 12:12:47.042    backend   wrk0  32851  32859                      unix_app.backend - Incoming IPC connection.
+   info 2022-11-13 12:12:47.042    backend   timr  32851  58186          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-11-13 12:12:47.042    backend   timr  32851  58187          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-11-13 12:12:47.043    backend   wrk0  32851  32859                   app.backend_session - Initializing session.
+   info 2022-11-13 12:12:47.043    backend   ctrl  32851  32858                   app.backend_session - Starting sockets.
+  error 2022-11-13 12:12:47.046       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=24, 0 bytes).
+  error 2022-11-13 12:12:47.046       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2022-11-13 12:12:47.063    backend   wrk0  32851  32859                      unix_app.backend - Session count: 1
+   info 2022-11-13 12:12:47.065    backend   wrk1  32851  32860                   app.backend_session - Incoming session request: vincent (169886870)
+   info 2022-11-13 12:12:47.065    backend   wrk1  32851  32860                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, filetransfer_server, filetransfer_client, whiteboard, tcp_tunnel, privacy_feature, vpn, encoder_reset, two_factor_auth, force_remote_restart, lossless_codec, report_kbd_focus, string_input, quality_adaptive
+   info 2022-11-13 12:12:47.065    backend   wrk1  32851  32860                   app.backend_session - Remote OS: Linux, Connection flags: direct paid 3 
+   info 2022-11-13 12:12:47.065    backend   wrk1  32851  32860                   app.backend_session - Remote version: 6.2.1
+   info 2022-11-13 12:12:47.065    backend   wrk1  32851  32860                   app.backend_session - Trying to register a new backend session.
+   info 2022-11-13 12:12:47.071    backend   wrk1  32851  32860                   app.backend_session - Requesting to restore permissions.
+   info 2022-11-13 12:12:47.072    backend   wrk1  32851  32860                   app.backend_session - Restoring permissions. (action: 3; state: 3)
+   info 2022-11-13 12:12:47.072    backend   wrk1  32851  32860                   app.backend_session - Initializing permissions.
+   info 2022-11-13 12:12:47.090    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.095    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.095    backend   wrk1  32851  32860                   app.backend_session - Enabling local clipboard.
+   info 2022-11-13 12:12:47.096    backend   wrk1  32851  32860                      app.clipbrd_comp - Engaging clipboard.
+   info 2022-11-13 12:12:47.096    backend   wrk1  32851  32860                      app.clipbrd_comp - Ready.
+   info 2022-11-13 12:12:47.099    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.100    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.101    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.102    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.104    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.105    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.108    backend   main  32851  32851                       clipbrd.capture - Clipboard capture running.
+   info 2022-11-13 12:12:47.111    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.113    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.115    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.116    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.118    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.119    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.121    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.122    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:12:47.123    backend   wrk1  32851  32860                   app.backend_session - Checking capabilities.
+   info 2022-11-13 12:12:47.142    backend   wrk1  32851  32860                   app.backend_session - Acknowledging session.
+   info 2022-11-13 12:12:47.143    backend   wrk1  32851  32860                   desk_rt.auto_adjust - Route type: direct (internet)
+  error 2022-11-13 12:13:10.887       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=104, 0 bytes).
+  error 2022-11-13 12:13:10.887       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2022-11-13 12:13:10.888    backend   ctrl  32851  32858                   app.backend_session - Starting session (deskrt, clipboard, chat, audio, input, tcp_tunnel).
+   info 2022-11-13 12:13:10.888    backend   timr  32851  58193          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-11-13 12:13:10.888    backend   ctrl  32851  32858                       desk_rt.encoder - 4 segments.
+   info 2022-11-13 12:13:10.896    backend    x11  32851  32854                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2022-11-13 12:13:10.896    backend    x11  32851  32854                     base.monitor_info - Monitor 0: w/h : 1366/768
+   info 2022-11-13 12:13:10.896    backend    x11  32851  32854                     base.monitor_info - Monitor 0 output=66
+   info 2022-11-13 12:13:10.900    backend   ctrl  32851  32858                   app.backend_session - Continueing session start.
+   info 2022-11-13 12:13:10.900    backend   ctrl  32851  32858             desk_rt.capture_component - Starting capture.
+   info 2022-11-13 12:13:10.910    backend    x11  32851  32854                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2022-11-13 12:13:10.910    backend    x11  32851  32854                     base.monitor_info - Monitor 0: w/h : 1366/768
+   info 2022-11-13 12:13:10.910    backend    x11  32851  32854                     base.monitor_info - Monitor 0 output=66
+   info 2022-11-13 12:13:10.913    backend   wrk0  32851  32859             desk_rt.capture_component - Keyboard layout changed to: en_us
+   info 2022-11-13 12:13:10.914    backend   ctrl  32851  32858                   app.keybd_sink_comp - Keyboard layout changed to: en_us
+   info 2022-11-13 12:13:10.914    backend   ctrl  32851  32858                        app.mouse_sink - Starting mouse sink.
+   info 2022-11-13 12:13:10.917    backend   wrk1  32851  32860                   desk_rt.auto_adjust - Route type: direct (internet)
+  error 2022-11-13 12:13:10.917    backend   wrk0  32851  32859              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
+  error 2022-11-13 12:13:10.917    backend   wrk0  32851  32859                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2022-11-13 12:13:10.918       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2022-11-13 12:13:10.918       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2022-11-13 12:13:10.922    backend   wrk0  32851  32859             desk_rt.capture_component - Keyboard layout changed to: en_us
+   info 2022-11-13 12:13:10.934    backend   ctrl  32851  32858                   app.backend_session - Sending input (11) permissions (enabled allowed supported)
+   info 2022-11-13 12:13:10.934    backend   ctrl  32851  32858                   app.backend_session - Sending audio (11) permissions (enabled allowed supported)
+   info 2022-11-13 12:13:10.935    backend   ctrl  32851  32858                   app.backend_session - Sending clipboard (11) permissions (enabled allowed supported)
+   info 2022-11-13 12:13:10.935    backend   ctrl  32851  32858                   app.backend_session - Sending block input (9) permissions (allowed supported)
+   info 2022-11-13 12:13:10.935    backend   ctrl  32851  32858                   app.backend_session - Sending SAS (0) permissions (forbidden unsupported)
+   info 2022-11-13 12:13:10.935    backend   ctrl  32851  32858                   app.backend_session - Sending file manager (11) permissions (enabled allowed supported)
+   info 2022-11-13 12:13:10.935    backend   ctrl  32851  32858                   app.backend_session - Sending lock account (9) permissions (allowed supported)
+   info 2022-11-13 12:13:10.935    backend   ctrl  32851  32858                   app.backend_session - Sending record session (9) permissions (allowed supported)
+   info 2022-11-13 12:13:10.935    backend   ctrl  32851  32858                   app.backend_session - Sending whiteboard (9) permissions (allowed supported)
+   info 2022-11-13 12:13:10.935    backend   ctrl  32851  32858                   app.backend_session - Sending TCP tunneling (10) permissions (enabled forbidden supported)
+   info 2022-11-13 12:13:10.935    backend   ctrl  32851  32858                   app.backend_session - Sending VPN (11) permissions (enabled allowed supported)
+   info 2022-11-13 12:13:10.936    backend   ctrl  32851  32858                   app.backend_session - Sending privacy (12) permissions (disabled forbidden supported)
+   info 2022-11-13 12:13:10.936    backend   ctrl  32851  32858                   app.backend_session - Sending clilpboard files (11) permissions (enabled allowed supported)
+   info 2022-11-13 12:13:10.936    backend   ctrl  32851  32858                   app.backend_session - Sending restart (9) permissions (allowed supported)
+   info 2022-11-13 12:13:10.936    backend   ctrl  32851  32858                   app.backend_session - Sending sysinfo (11) permissions (enabled allowed supported)
+   info 2022-11-13 12:13:10.936    backend   ctrl  32851  32858                   app.backend_session - Sending mouse pointer (9) permissions (allowed supported)
+   info 2022-11-13 12:13:10.936    backend   ctrl  32851  32858                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 12:13:10.936    backend   ctrl  32851  32858                   app.backend_session - Session started (ok).
+   info 2022-11-13 12:13:11.175    backend   wrk3  32851  32862                   app.backend_session - Received new mouse cursor parameters (2).
+   info 2022-11-13 12:13:11.176    backend   wrk3  32851  32862           desk_rt.system_event_source - Enabled mouse cursor
+   info 2022-11-13 12:13:11.176    backend   wrk3  32851  32862                   app.backend_session - Received new gui feedback parameters (0).
+   info 2022-11-13 12:13:11.176    backend   wrk3  32851  32862           desk_rt.system_event_source - Disabled gui feedback
+   info 2022-11-13 12:13:11.176    backend   wrk3  32851  32862                   app.backend_session - Received new audio parameters (1).
+   info 2022-11-13 12:13:11.176    backend   wrk3  32851  32862                   app.backend_session - Received new image quality (7).
+   info 2022-11-13 12:13:11.176    backend   wrk3  32851  32862                   app.backend_session - Received new video quality (20).
+   info 2022-11-13 12:13:11.176    backend   wrk3  32851  32862                   app.backend_session - Received new auto-quality preset (2).
+   info 2022-11-13 12:13:11.176    backend   wrk3  32851  32862                   desk_rt.auto_adjust - New preset: 1.
+   info 2022-11-13 12:13:11.176    backend   wrk3  32851  32862                   app.backend_session - Enabling capture.
+   info 2022-11-13 12:13:11.177    backend   wrk0  32851  32859                       desk_rt.encoder - Format changed to 1366x768 (X8R8G8B8).
+   info 2022-11-13 12:13:12.919    backend   wrk1  32851  32860                   desk_rt.auto_adjust - Adjusting for a direct connection (81.27 kb/s).
+   info 2022-11-13 12:13:12.920    backend   wrk1  32851  32860                   desk_rt.auto_adjust - Adjusting for < 90 kb/s
+   info 2022-11-13 12:13:18.110    backend   wrk1  32851  32860                   app.backend_session - Received a thumbnail request.
+  error 2022-11-13 12:13:18.110    backend   wrk1  32851  32860                   app.backend_session - Couldn't retrieve the wallpaper (Not implemented.).
+   info 2022-11-13 12:13:26.801    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:13:26.802    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:13:48.643    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:13:48.646    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:14:19.148    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:14:19.151    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:14:44.325    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:14:44.327    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:19:51.867    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:19:51.869    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:26:13.891    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:26:13.892    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:30:17.013    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:30:17.015    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:38:51.798    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:38:51.803    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:41:40.471    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:41:40.473    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:42:03.572    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:42:03.574    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:42:53.349    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:42:53.355    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:42:53.849    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:42:53.853    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:42:54.312    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:42:54.314    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:43:37.880    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:43:37.884    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:52:16.826    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:52:17.008    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 12:58:42.688    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 12:58:42.994    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 13:01:14.057    backend   wrk0  32851  32859                      unix_app.backend - Incoming IPC connection.
+   info 2022-11-13 13:01:14.057    backend   timr  32851  66016          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-11-13 13:01:14.058    backend   timr  32851  66017          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-11-13 13:01:14.058    backend   wrk0  32851  32859                   app.backend_session - Initializing session.
+   info 2022-11-13 13:01:14.058    backend   ctrl  32851  32858                   app.backend_session - Starting sockets.
+  error 2022-11-13 13:01:14.060       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=24, 0 bytes).
+  error 2022-11-13 13:01:14.060       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2022-11-13 13:01:14.079    backend   wrk0  32851  32859                      unix_app.backend - Session count: 2
+   info 2022-11-13 13:01:14.081    backend   wrk2  32851  32861                   app.backend_session - Incoming session request: vincent (169886870)
+   info 2022-11-13 13:01:14.081    backend   wrk2  32851  32861                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, filetransfer_server, filetransfer_client, whiteboard, tcp_tunnel, privacy_feature, vpn, encoder_reset, two_factor_auth, force_remote_restart, lossless_codec, report_kbd_focus, string_input, quality_adaptive
+   info 2022-11-13 13:01:14.081    backend   wrk2  32851  32861                   app.backend_session - Remote OS: Linux, Connection flags: direct paid 3 
+   info 2022-11-13 13:01:14.081    backend   wrk2  32851  32861                   app.backend_session - Remote version: 6.2.1
+   info 2022-11-13 13:01:14.081    backend   wrk2  32851  32861                   app.backend_session - Trying to register a new backend session.
+   info 2022-11-13 13:01:14.088    backend   wrk2  32851  32861                   app.backend_session - Requesting to restore permissions.
+   info 2022-11-13 13:01:14.089    backend   wrk1  32851  32860                   app.backend_session - Restoring permissions. (action: 3; state: 3)
+   info 2022-11-13 13:01:14.089    backend   wrk1  32851  32860                   app.backend_session - Initializing permissions.
+   info 2022-11-13 13:01:14.091    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.101    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.101    backend   wrk1  32851  32860                   app.backend_session - Enabling local clipboard.
+   info 2022-11-13 13:01:14.101    backend   wrk1  32851  32860                      app.clipbrd_comp - Engaging clipboard.
+   info 2022-11-13 13:01:14.101    backend   wrk1  32851  32860                      app.clipbrd_comp - Ready.
+   info 2022-11-13 13:01:14.108    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.417    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.425    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.426    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.428    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.429    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.430    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.431    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.432    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.433    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.434    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.435    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.437    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.438    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:01:14.438    backend   wrk1  32851  32860                   app.backend_session - Checking capabilities.
+   info 2022-11-13 13:01:14.452    backend   wrk1  32851  32860                   app.backend_session - Acknowledging session.
+   info 2022-11-13 13:01:14.452    backend   wrk1  32851  32860                   desk_rt.auto_adjust - Route type: direct (internet)
+   info 2022-11-13 13:02:11.519    backend   wrk1  32851  32860                   app.backend_session - The user has requested a connection quit.
+   info 2022-11-13 13:02:11.519    backend   wrk0  32851  32859                   app.backend_session - The socket was closed remotely.
+   info 2022-11-13 13:02:11.519    backend   ctrl  32851  32858                   app.backend_session - Stopping session.
+   info 2022-11-13 13:02:11.519    backend   ctrl  32851  32858                      app.clipbrd_comp - Closing clipboard.
+   info 2022-11-13 13:02:11.519    backend   ctrl  32851  32858                      app.clipbrd_comp - Clearing clipboard.
+   info 2022-11-13 13:02:11.521    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 13:02:11.521    backend   ctrl  32851  32858                      app.clipbrd_comp - Clipboard closed.
+   info 2022-11-13 13:02:11.525    backend   ctrl  32851  32858                   app.backend_session - Session stopped.
+   info 2022-11-13 13:02:11.533    backend   ctrl  32851  32858                   app.backend_session - Destroyed.
+   info 2022-11-13 13:02:11.534    backend   timr  32851  66017          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-11-13 13:02:11.534    backend   ctrl  32851  32858              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2022-11-13 13:02:11.534    backend   timr  32851  66016          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-11-13 13:02:11.534    backend   ctrl  32851  32858                      unix_app.backend - Session count: 1 (0)
+  error 2022-11-13 13:04:38.659    backend   wrk0  32851  32859              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
+   info 2022-11-13 13:04:38.659    backend   wrk1  32851  32860                   app.backend_session - The user has requested a connection quit.
+  error 2022-11-13 13:04:38.659    backend   wrk0  32851  32859                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2022-11-13 13:04:38.659    backend   ctrl  32851  32858                   app.backend_session - Stopping session.
+   info 2022-11-13 13:04:38.659    backend   wrk0  32851  32859                   app.backend_session - The socket was closed remotely.
+  error 2022-11-13 13:04:38.660       tray   wrk0  10017  10031                    app.tunnel_ft_comp - Invalid session id in cancel operation (751).
+   info 2022-11-13 13:04:38.664    backend   timr  32851  58193          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-11-13 13:04:38.666    backend   ctrl  32851  32858                      app.clipbrd_comp - Closing clipboard.
+   info 2022-11-13 13:04:38.666    backend   ctrl  32851  32858                      app.clipbrd_comp - Clearing clipboard.
+   info 2022-11-13 13:04:38.670    backend   main  32851  32851                       clipbrd.capture - Ignoring own data.
+   info 2022-11-13 13:04:38.671    backend   main  32851  32851                       clipbrd.capture - Unregistered clipboard notification.
+   info 2022-11-13 13:04:38.671    backend   ctrl  32851  32858                      app.clipbrd_comp - Clipboard closed.
+   info 2022-11-13 13:04:38.671    backend   ctrl  32851  32858                   app.backend_session - Session stopped.
+   info 2022-11-13 13:04:39.959    backend   ctrl  32851  32858                   app.backend_session - Destroyed.
+   info 2022-11-13 13:04:39.959    backend   timr  32851  58187          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-11-13 13:04:39.959    backend   ctrl  32851  32858              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2022-11-13 13:04:39.959    backend   timr  32851  58186          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-11-13 13:04:39.959    backend   ctrl  32851  32858                      unix_app.backend - Session count: 0 (0)
+   info 2022-11-13 13:06:11.657    backend   wrk0  32851  32859                      unix_app.backend - Incoming IPC connection.
+   info 2022-11-13 13:06:11.657    backend   timr  32851  66204          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-11-13 13:06:11.658    backend   timr  32851  66205          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-11-13 13:06:11.658    backend   wrk0  32851  32859                   app.backend_session - Initializing session.
+   info 2022-11-13 13:06:11.659    backend   ctrl  32851  32858                   app.backend_session - Starting sockets.
+  error 2022-11-13 13:06:11.661       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=24, 0 bytes).
+  error 2022-11-13 13:06:11.661       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2022-11-13 13:06:11.679    backend   wrk0  32851  32859                      unix_app.backend - Session count: 1
+   info 2022-11-13 13:06:11.681    backend   wrk1  32851  32860                   app.backend_session - Incoming session request: vincent (169886870)
+   info 2022-11-13 13:06:11.681    backend   wrk1  32851  32860                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, filetransfer_server, filetransfer_client, whiteboard, tcp_tunnel, privacy_feature, vpn, encoder_reset, two_factor_auth, force_remote_restart, lossless_codec, report_kbd_focus, string_input, quality_adaptive
+   info 2022-11-13 13:06:11.681    backend   wrk1  32851  32860                   app.backend_session - Remote OS: Linux, Connection flags: direct paid 3 
+   info 2022-11-13 13:06:11.681    backend   wrk1  32851  32860                   app.backend_session - Remote version: 6.2.1
+   info 2022-11-13 13:06:11.681    backend   wrk1  32851  32860                   app.backend_session - Trying to register a new backend session.
+   info 2022-11-13 13:06:11.687    backend   wrk1  32851  32860                   app.backend_session - Requesting to restore permissions.
+   info 2022-11-13 13:06:11.688    backend   wrk1  32851  32860                   app.backend_session - Restoring permissions. (action: 3; state: 3)
+   info 2022-11-13 13:06:11.688    backend   wrk1  32851  32860                   app.backend_session - Initializing permissions.
+   info 2022-11-13 13:06:11.710    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.720    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.720    backend   wrk1  32851  32860                   app.backend_session - Enabling local clipboard.
+   info 2022-11-13 13:06:11.720    backend   wrk1  32851  32860                      app.clipbrd_comp - Engaging clipboard.
+   info 2022-11-13 13:06:11.720    backend   wrk1  32851  32860                      app.clipbrd_comp - Ready.
+   info 2022-11-13 13:06:11.722    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.727    backend   main  32851  32851                       clipbrd.capture - Clipboard capture running.
+   info 2022-11-13 13:06:11.730    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.731    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.732    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.734    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.735    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.736    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.737    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.738    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.740    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.741    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.742    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.743    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.744    backend   wrk1  32851  32860                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:11.744    backend   wrk1  32851  32860                   app.backend_session - Checking capabilities.
+   info 2022-11-13 13:06:11.760    backend   wrk1  32851  32860                   app.backend_session - Acknowledging session.
+   info 2022-11-13 13:06:11.761    backend   wrk1  32851  32860                   desk_rt.auto_adjust - Route type: tunnel (internet)
+  error 2022-11-13 13:06:15.474       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=104, 0 bytes).
+  error 2022-11-13 13:06:15.474       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2022-11-13 13:06:15.475    backend   ctrl  32851  32858                   app.backend_session - Starting session (deskrt, clipboard, chat, audio, input, tcp_tunnel).
+   info 2022-11-13 13:06:15.476    backend   ctrl  32851  32858                       desk_rt.encoder - 4 segments.
+   info 2022-11-13 13:06:15.476    backend   timr  32851  66213          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-11-13 13:06:15.484    backend    x11  32851  32854                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2022-11-13 13:06:15.484    backend    x11  32851  32854                     base.monitor_info - Monitor 0: w/h : 1366/768
+   info 2022-11-13 13:06:15.484    backend    x11  32851  32854                     base.monitor_info - Monitor 0 output=66
+   info 2022-11-13 13:06:15.486    backend   ctrl  32851  32858                   app.backend_session - Continueing session start.
+   info 2022-11-13 13:06:15.486    backend   ctrl  32851  32858             desk_rt.capture_component - Starting capture.
+   info 2022-11-13 13:06:15.492    backend    x11  32851  32854                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2022-11-13 13:06:15.493    backend    x11  32851  32854                     base.monitor_info - Monitor 0: w/h : 1366/768
+   info 2022-11-13 13:06:15.493    backend    x11  32851  32854                     base.monitor_info - Monitor 0 output=66
+   info 2022-11-13 13:06:15.497    backend   ctrl  32851  32858                   app.keybd_sink_comp - Keyboard layout changed to: en_us
+   info 2022-11-13 13:06:15.497    backend   ctrl  32851  32858                        app.mouse_sink - Starting mouse sink.
+   info 2022-11-13 13:06:15.498    backend   wrk0  32851  32859             desk_rt.capture_component - Keyboard layout changed to: en_us
+  error 2022-11-13 13:06:15.503    backend   wrk0  32851  32859              base.prot.packet_factory - Invalid packet received (type=78, 2 bytes).
+  error 2022-11-13 13:06:15.503    backend   wrk0  32851  32859                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2022-11-13 13:06:15.504       tray   wrk0  10017  10031              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2022-11-13 13:06:15.504       tray   wrk0  10017  10031                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2022-11-13 13:06:15.504    backend   wrk1  32851  32860                   desk_rt.auto_adjust - Route type: tunnel (internet)
+   info 2022-11-13 13:06:15.508    backend   wrk0  32851  32859             desk_rt.capture_component - Keyboard layout changed to: en_us
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending input (11) permissions (enabled allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending audio (11) permissions (enabled allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending clipboard (11) permissions (enabled allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending block input (9) permissions (allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending SAS (0) permissions (forbidden unsupported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending file manager (11) permissions (enabled allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending lock account (9) permissions (allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending record session (9) permissions (allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending whiteboard (9) permissions (allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending TCP tunneling (10) permissions (enabled forbidden supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending VPN (11) permissions (enabled allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending privacy (12) permissions (disabled forbidden supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending clilpboard files (11) permissions (enabled allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending restart (9) permissions (allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending sysinfo (11) permissions (enabled allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Sending mouse pointer (9) permissions (allowed supported)
+   info 2022-11-13 13:06:15.522    backend   ctrl  32851  32858                   app.backend_session - Requesting to store permissions.
+   info 2022-11-13 13:06:15.523    backend   ctrl  32851  32858                   app.backend_session - Session started (ok).
+   info 2022-11-13 13:06:15.937    backend   wrk2  32851  32861                   app.backend_session - Received new mouse cursor parameters (2).
+   info 2022-11-13 13:06:15.937    backend   wrk2  32851  32861           desk_rt.system_event_source - Enabled mouse cursor
+   info 2022-11-13 13:06:15.937    backend   wrk1  32851  32860                   app.backend_session - Received new gui feedback parameters (0).
+   info 2022-11-13 13:06:15.937    backend   wrk1  32851  32860           desk_rt.system_event_source - Disabled gui feedback
+   info 2022-11-13 13:06:15.937    backend   wrk3  32851  32862                   app.backend_session - Received new image quality (7).
+   info 2022-11-13 13:06:15.937    backend   wrk2  32851  32861                   app.backend_session - Received new audio parameters (1).
+   info 2022-11-13 13:06:15.937    backend   wrk3  32851  32862                   app.backend_session - Received new video quality (20).
+   info 2022-11-13 13:06:15.937    backend   wrk2  32851  32861                   app.backend_session - Received new auto-quality preset (2).
+   info 2022-11-13 13:06:15.937    backend   wrk3  32851  32862                   app.backend_session - Enabling capture.
+   info 2022-11-13 13:06:15.937    backend   wrk2  32851  32861                   desk_rt.auto_adjust - New preset: 1.
+   info 2022-11-13 13:06:15.952    backend   wrk0  32851  32859                       desk_rt.encoder - Format changed to 1366x768 (X8R8G8B8).
+   info 2022-11-13 13:06:17.402    backend   wrk1  32851  32860                   app.backend_session - Received a thumbnail request.
+  error 2022-11-13 13:06:17.402    backend   wrk1  32851  32860                   app.backend_session - Couldn't retrieve the wallpaper (Not implemented.).
+   info 2022-11-13 13:06:26.996    backend   wrk1  32851  32860                   desk_rt.auto_adjust - Route type: direct (internet)
+   info 2022-11-13 13:21:40.598    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 13:21:40.600    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 13:21:48.112    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 13:21:48.115    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 13:22:19.120    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 13:22:19.123    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 13:24:02.119    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 13:24:02.123    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 13:24:48.332    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 13:24:48.333    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 13:28:03.694    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 13:28:03.696    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 13:30:06.886    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 13:30:06.887    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
+   info 2022-11-13 13:30:27.778    backend   main  32851  32851                       clipbrd.capture - Clipboard changed.
+   info 2022-11-13 13:30:27.779    backend   main  32851  32851                       clipbrd.capture - Requesting utf8 text.
