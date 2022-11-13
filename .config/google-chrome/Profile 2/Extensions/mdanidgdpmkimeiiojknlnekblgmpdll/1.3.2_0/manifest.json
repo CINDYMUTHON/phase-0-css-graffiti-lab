@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "b4g_19.png",
+         "38": "b4g_38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Boomerang - Send this page later"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "css/b4g_message_ui.css" ],
+      "js": [ "b4g_message_ui.js", "b4g.js" ],
+      "matches": [ "https://mail.google.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Meeting scheduling and email management tool trusted by millions. Schedule meetings, track responses, send later, and more.",
+   "icons": {
+      "128": "b4g_128.png",
+      "16": "b4g_16.png",
+      "48": "b4g_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCOOy8sdOfAZSG6yaC04QxPpC4vrGG7rdyfM7kJq9qE2+Uzvbe5XELHCNpatSzoZ6mahMiruq1ToAfaOijZtH3s4BduG6nVNTSI3gcdF+9Bto29a3xN/ySg9ectFMIfopSfkGbfrwtzzk9DHrF0GvoKhOu1p+peHzhMSjSyYRluwIDAQAB",
+   "manifest_version": 3,
+   "name": "Boomerang for Gmail",
+   "permissions": [ "management", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.2",
+   "web_accessible_resources": [ {
+      "matches": [ "https://mail.google.com/*" ],
+      "resources": [ "b4g_128.png", "b4g_bookmarklet_1.3.0.js", "css/extensionsafejqueryui_1.3.0.css", "css/extensionsafestyle_1.3.0.css", "b4g_bookmarklet_1.3.2.js", "css/extensionsafejqueryui_1.3.2.css", "css/extensionsafestyle_1.3.2.css" ]
+   } ]
+}

@@ -1,0 +1,86 @@
+{
+   "checksum": "73d1a8fab493259b7fed9dec7c49fb7a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13298780501854755",
+            "date_last_used": "0",
+            "guid": "2c4e5553-70a6-4654-b12f-002b8eb583af",
+            "id": "9",
+            "name": "Development 101: Cindy - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1YApzDJjPVY9a874g6QdE6J0duI4NdfSn2iwLZrdaLP8/edit"
+         }, {
+            "date_added": "13298780960413366",
+            "date_last_used": "0",
+            "guid": "26aabf9f-082e-4c02-8ca4-387c8585c95b",
+            "id": "10",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13312388356304245",
+            "date_last_used": "13312448916453128",
+            "guid": "921bdf83-d4b9-47cc-bc0b-0f5f2d11fc9a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13312388356305248",
+            "date_last_used": "0",
+            "guid": "2940f56d-aa2b-4938-bfc0-052b9995502b",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13312388356307885",
+            "date_last_used": "0",
+            "guid": "8bdceebe-71ae-4c48-9c8c-87d70b27ed4b",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         } ],
+         "date_added": "13312388160588722",
+         "date_last_used": "0",
+         "date_modified": "13312390466232614",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13312388160588724",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13312388160588725",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtYBCrUBCIiBAhKuARJSCAISTgoGCgJibRABEDMaEgmAWNRNA+0FACGAWNRNA+0FACIUCSaQRF4D7QUAEAgZjJCFT1PPnN8yGAoWCAIRIXhhXgPtBQAYACEAAAAAAAAAACAASKHh5dfFMHCh4eXXxTCSAUcKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmA7Y5YA+0FABGA7Y5YA+0FACm+o2FeA+0FADCA27vEtaD7AhIAIAEqGEdrazAySlJNY2RNemhCdCtjd2UzN1E9PRLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWndreTdWZk9JemlzRHNGVmZGNjJMTmI3UUJHWHBUb0FvRjhGMlJaS1pMczlGTGladDVPUzc4bVFFMWtHY0Q4U01yUUhqeHROdU9GU1hWYml2NUlHekZ6K3MzbWZnPT0YACAAKAAwwPvJ8LWg+wI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnppc0ZuUENpZzVTRUdnaVhGY2pubnFJbnJqQVJ0aDZTbXc3b2dMbnE5bWNZeDJSNWFIREozZU9xK0RrNmhJRnBFVnFqRnMYACAAKAAwwPvJ8LWg+wI4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLsAQgKEucBChxIYnAzRkIzOFpUajlZUUR5alpGZjZPNXYvUVk9EmZaOkFEcXRBWnd4eWVaWnA0dE1RTTVjVmFzUWJBYjlka1VrRlp5T1BYMVJ3NU45MmFFekJVeGo4cGZTM3RPRlBqMUhSMEh4ZnJ4djhoTXZWVlhOV3g1bC9YNExaL0JHS1dITkdBPT0YACACKAIwpaCS8rWg+wI4np2c45IwQJTL5dfFMEocRjZYR3BaUFFHTWJNYmQ4N3Z6bXRDc2pCQnlzPVofIh2pN0Zuak42WWh6ZGVYSHZwcWVzTmRnWnBoVWRFPWUo0OGpEuwBCAcS5wEKHGZ1cjJHT1lSaTF2ZklRQnJxT3pYTUIrS3lzbz0SZlo6QURxdEFad3h5ZVpacDR0TVFNNWNWYXNRYkFiOWhUU3pjVkNzSlBUSkhiVmh1OHZ6aW1ibVZZOWhPRGFnaFo1eXdHREZzNTJXay90SUVKZ01qTXI1ZkNoM3lvWGQyc2d4NUE9PRgAIAEoATCloJLytaD7AjijyuXXxTBAo8rl18UwShw0dzFKZGhnb0hsRlU1c2VlWHkycHZObDhjSFk9Wh8iHfV4ZWpGbmJpU0RSRm9QdmVLWEpJdndDSUhGeGc9ZaT76JgS6wEICRLmAQoceUxQVVBqWmtLenYzZC9xMzdTbTdPUDRsTjFVPRJmWjpBRHF0QVp3eHllWlpwNHRNUU01Y1Zhc1FiQWI5NzhPNWh5VFJzTjZxbG1FTS9nczA0eTBFckpyVnJPNUJmcjZOemlORFJzWjg1SkgwOUFKV2hQaURoS2RzOXE0SC8zV3JPQT09GAAgAigCMKWgkvK1oPsCOOGegOOSMECTy+XXxTBKHElQREpad3NwWGxoWWNERklVNUlsN3plV1g5ND1aHiIcUlhBZi9ZeDk4NFFEZ3hZdDJubW9VWmxJU1JFPWXVR000EsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeUIvMXNlVjl4RGVIT1ZCNDVpQTdjVFZPSkhrd2dGU1hLdlJwRGR4VGNXb00xZDEvTTh0azFOREZiYjNoaVlId2IwY3pvMHFlVjcyYlduSERNOVg2MGtxT1FQTWc9PRgAIAAoADDA+8nwtaD7AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCAUS5wEKHDYwWnM3S0hTQ0NEQjkzVXNGWXZERDh3cmEzaz0SZlo6QURxdEFad3h5ZVpacDR0TVFNNWNWYXNRYkFiOVZSaCtCYU5qdGRVRGcybGtqZUdIN0FaOUI1M2diMkJ0U2N2cExQY3Q3K0lJeThuQ2JYbkJYZmJoNVVIYld2WWFoU0dXK3c9PRgAIAIoATCloJLytaD7AjijyuXXxTBA8taT2MUwShwvdHhicngrRU1uc1VDaWhCUUhKb3RDN0pPeDg9Wh8iHdRhc2Z0YzJJMEQzUmF6a0UrWlJuTTBQK3djNFE9ZYugjNES7AEIBhLnAQocM0hta2lFS25PV0Fxei82ZkRtSzVtNFNzUEZBPRJmWjpBRHF0QVp3eHllWlpwNHRNUU01Y1Zhc1FiQWI5UW0wZ1RjM3JJd3lHNlozaVdXVGprY3RmRVpDUzM0ZXB0UHd6OGhFVzJkbFk4bFNUT3RpTDR5N1F1MGdYVzNpTHdGQ2Jndz09GAAgASgBMKWgkvK1oPsCOKPK5dfFMECjyuXXxTBKHGNtWFpwWTBobC9Ka2RZVzN4dTFjNENsYWNyUT1aHyId6ldZeFhDbmNVa2pNNXFqQ21ZeGhrdDhES2ZMZz1lrBJiAjABOAA=",
+   "version": 1
+}

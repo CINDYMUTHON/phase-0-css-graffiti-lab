@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="libreoffice-writer.desktop" score="1" last-seen="1667975969"/>
+    <application id="org.remmina.Remmina.desktop" score="0" last-seen="1668166464"/>
+    <application id="google-chrome.desktop" score="23837.5" last-seen="1668329398"/>
+    <application id="gnome-control-center.desktop" score="12.5" last-seen="1667996762"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1667918112"/>
+    <application id="update-manager.desktop" score="0" last-seen="1667913311"/>
+    <application id="org.gnome.Nautilus.desktop" score="710.5" last-seen="1668333439"/>
+    <application id="org.gnome.gedit.desktop" score="62" last-seen="1668327258"/>
+    <application id="anydesk.desktop" score="7744.5" last-seen="1668333408"/>
+    <application id="snap-store_ubuntu-software.desktop" score="58.5" last-seen="1668188178"/>
+    <application id="gnome-initial-setup.desktop" score="0.5" last-seen="1667899560"/>
+    <application id="firefox.desktop" score="576" last-seen="1668160486"/>
+    <application id="org.gnome.Terminal.desktop" score="3261" last-seen="1668329396"/>
+    <application id="slack_slack.desktop" score="89" last-seen="1668166538"/>
+    <application id="yelp.desktop" score="4" last-seen="1667975973"/>
+  </context>
+</application-state>

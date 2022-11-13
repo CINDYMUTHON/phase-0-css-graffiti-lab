@@ -1,0 +1,99 @@
+.inboxsdk__compose_actionToolbar .mm-send-button,
+.inboxsdk__compose_actionToolbar .mm-settings-button {
+  background-color: #7f5bbb;
+  height: 36px;
+  border-radius: 4px;
+  width: 36px;
+  padding: 0px;
+}
+.inboxsdk__compose_actionToolbar .mm-send-button.mm-send-button-sending {
+  opacity: 0.5;
+}
+.inboxsdk__compose_actionToolbar .mm-send-button .inboxsdk__button_icon,
+.inboxsdk__compose_actionToolbar .mm-settings-button .inboxsdk__button_icon {
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+}
+.inboxsdk__compose_actionToolbar .mm-send-button .inboxsdk__button_icon img,
+.inboxsdk__compose_actionToolbar .mm-settings-button .inboxsdk__button_icon img {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.mm-settings-menu-content {
+  padding: 12px 14px;
+  background: #fff;
+  font-size: 13px;
+  font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+}
+.mm-settings-menu-content .mt-0 {
+  margin-top: 0;
+}
+.mm-settings-menu-content .mb-10 {
+  margin-bottom: 10px;
+}
+.mm-settings-menu-content .mb-20 {
+  margin-bottom: 20px;
+}
+.mm-settings-menu-content h3 a {
+  color: #333;
+}
+.mm-settings-menu-content button {
+  background-color: #7f5bbb;
+  color: #fff;
+  border: 0;
+  font-size: 14px;
+  padding: 7px 9px;
+  font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.mm-load-template-select {
+  margin-right: 5px;
+  max-width: 100px;
+  min-width: 70px;
+}
+.mm-settings-menu-content button.mm-button-sm {
+  padding: 3px 6px;
+  font-size: 12px;
+}
+.mm-settings-menu-content h3 {
+  margin-bottom: 4px;
+  margin-top: 8px;
+}
+.mm-settings-menu-content select {
+  background-color: #fff;
+  font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  border: 1px solid #ccc;
+}
+.mm-popover th {
+  text-align: left;
+}
+.mm-popover td, .mm-popover th {
+  padding: 3px 5px 3px 0px;
+}
+.mm-hide {
+  display: none;
+}
+
+
+.mm-button {
+  background-color: #7f5bbb;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border: 0;
+  font-size: 14px;
+  padding: 9px 11px;
+  font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+body a.mm-button {
+  color: #fff !important;
+}

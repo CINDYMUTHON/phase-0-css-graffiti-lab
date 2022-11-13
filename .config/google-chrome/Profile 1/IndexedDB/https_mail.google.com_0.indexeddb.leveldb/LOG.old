@@ -1,0 +1,9 @@
+2022/11/12-01:56:49.228 3425 Reusing MANIFEST /home/student/.config/google-chrome/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/12-01:56:49.228 3425 Recovering log #34
+2022/11/12-01:56:49.230 3425 Reusing old log /home/student/.config/google-chrome/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000034.log 
+2022/11/12-01:56:58.919 33ae Compacting 1@1 + 1@2 files
+2022/11/12-01:56:59.004 33ae Generated table #37@1: 181 keys, 333264 bytes
+2022/11/12-01:56:59.004 33ae Compacted 1@1 + 1@2 files => 333264 bytes
+2022/11/12-01:56:59.067 33ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/12-01:56:59.068 33ae Delete type=2 #35
+2022/11/12-01:56:59.068 33ae Delete type=2 #32

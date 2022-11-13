@@ -1,0 +1,6 @@
+2022/11/09-01:28:36.402 449e Reusing MANIFEST /home/student/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/09-01:28:36.402 449e Recovering log #3
+2022/11/09-01:28:36.413 449e Reusing old log /home/student/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/11/09-01:28:51.440 449e Level-0 table #5: started
+2022/11/09-01:28:51.601 449e Level-0 table #5: 1807704 bytes OK
+2022/11/09-01:28:51.738 449e Delete type=0 #3

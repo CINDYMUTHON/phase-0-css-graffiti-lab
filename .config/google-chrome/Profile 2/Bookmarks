@@ -1,0 +1,93 @@
+{
+   "checksum": "58c3849ac2e6be07a2eced2fc974af66",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13308161722152078",
+            "date_last_used": "0",
+            "guid": "2988f3c5-4200-4e05-b6cd-c4f08b367447",
+            "id": "5",
+            "name": "Softskills 02",
+            "type": "url",
+            "url": "https://moringa.instructure.com/courses/148?invitation=b3omjrUpRtH3mcyB8pYBWqr0QOPPYzOppvogJ6lR"
+         }, {
+            "date_added": "13308162238194295",
+            "date_last_used": "0",
+            "guid": "6e2cd422-3fba-4bac-b5bc-fa7212c43e06",
+            "id": "6",
+            "name": "Inbox - cindy.muthoni@student.moringaschool.com - Moringa School Mail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13308228618859406",
+            "date_last_used": "13311241366655353",
+            "guid": "d3296c59-4c78-43fb-9fed-fa68625d6f51",
+            "id": "7",
+            "name": "Slack | Slackbot | Moringa Classroom | 2 new items",
+            "type": "url",
+            "url": "https://app.slack.com/client/T0101L740P4/D04338K4W4A"
+         }, {
+            "date_added": "13308934543561963",
+            "date_last_used": "0",
+            "guid": "ee25134a-64b3-48d0-9447-43765cb90e2c",
+            "id": "8",
+            "name": "LinkedIn Presentation Slides - Google Slides",
+            "type": "url",
+            "url": "https://docs.google.com/presentation/d/1b__cmwm3caetNSpIAQxStN8scox66SD9JOhirGe7d7I/edit#slide=id.p13"
+         }, {
+            "date_added": "13309279705447034",
+            "date_last_used": "0",
+            "guid": "798dd5f4-9ab0-43b1-b09c-50bf3f60d641",
+            "id": "9",
+            "name": "Grammarly",
+            "type": "url",
+            "url": "https://app.grammarly.com/"
+         }, {
+            "date_added": "13309981474838835",
+            "date_last_used": "0",
+            "guid": "bb063236-dc1a-47ee-8ed5-e0d9371d685e",
+            "id": "10",
+            "name": "Login | Slack",
+            "type": "url",
+            "url": "https://slack.com/get-started?redir=%2Fgantry%2Fauth%3Fselected_team_id%3DTJ83SA0BW%26app%3Dclient%26lc%3D1665507788%26return_to%3D%252Fclient%252FT0101L740P4%252FD04338K4W4A%253Fselected_team_id%253DTJ83SA0BW%26teams%3D#/landing"
+         }, {
+            "date_added": "13310571883289243",
+            "date_last_used": "0",
+            "guid": "df81ceb6-7216-4dbd-9a88-353019709b10",
+            "id": "11",
+            "name": "Search birthday - Canva",
+            "type": "url",
+            "url": "https://www.canva.com/search/templates?q=birthday"
+         } ],
+         "date_added": "13312449808441041",
+         "date_last_used": "0",
+         "date_modified": "13310571883289243",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13312449808441043",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13312449808441047",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtYBCrUBCIiBAhKuARJSCAISTgoGCgJibRABEDMaEgkAyWXpA+0FACEAyWXpA+0FACIUCe6E3fkD7QUAEAoZfxeHKzYVINgyGAoWCAIRlkXp+QPtBQAYACEAAAAAAAAAACAASPuChdnFMHD7goXZxTCSAUcKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAXiD0A+0FABEAXiD0A+0FACnCZen5A+0FADCAvIGhv6D7AhIAIAEqGEVMS0daZEsyRmZHTXdIdHlkZ0NBeUE9PRLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlZQ0VXV0tjRVhtQ3RSNUtsZmdhVjFLMXdZT1hMbm5IbmJTUGlwQkhIaTBWYjFhQU1LY3pCNm9PenlOb2J3UTE4bTNPQW1XQ0pMS2Z5bHRnQzBqZHg4dE1paGRnPT0YACAAKAAwvdP/zb+g+wI4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgJEucBChxKWTVBMlNaeThPSTNRRUdQdmNIdmc2Si8xVVE9EmZaOkFEcXRBWnpuU1N3UEoyeU1GTEVhYkdxbGFTTG01NmRHL21NMWxzNWs3S3JIcnFBcFZIK2VVT3REbHJUQjdSc2IvR3UvQXNRd3dJL0Z2T2dwSFRkVjg0RG5PT0U1QXg0T2d3PT0YACACKAIw7Yn2zr+g+wI46OK08bkwQKvxhNnFMEocQ1JNakx5enFSSERaZmlNVDcvcDlnNGZIVzBzPVofIh33cU1OUlJZWkcyRDVHeFhCTXp3QURpTnRtcDJBPWWQPygAEuwBCAsS5wEKHDFGZWRZd1haQjkwNkJraGZXeUQxakExUk9WUT0SZlo6QURxdEFaem5TU3dQSjJ5TUZMRWFiR3FsYVNMbWdVb0taNitxdG9DTnY1WmNhd2N1RlFpTUJlNUE4Q0FpYjNlU1ZmdktVMmlublZRalZxWjJ2SkwvUWZPamU1Q0lQWHV1WFE9PRgAIAIoAjDtifbOv6D7AjixhsnZvjBArPGE2cUwShxMMlpUM2VlWVpIQTJBQWtZeTBLSnBZbUNIckk9Wh8iHf1NTWFONFZzRlozTUM2b01wclNhNlVPSStGVmc9Zc7lSloS7AEIBxLnAQocQ3NzZEh2Qm9SdnVRZ05oUUluRm55UGYwNDNBPRJmWjpBRHF0QVp6blNTd1BKMnlNRkxFYWJHcWxhU0xtalYxbUFHRWxZays5YWcxTjdlT1I4bkpLazJCdE5jT0FIVllZSEZVQjA1UTZWWWNreWF4eExaU2dWVHZaR0FBc2VsbXN3Zz09GAAgAigCMO2J9s6/oPsCOO3Em/y1MECq8YTZxTBKHG1kbHFqZlZONDNzdERJNnZjUkRqeGxsUVFWVT1aHyId3VpBN3hyaURZblNvbkp3QlpOVmxHbFlud1BVQT1lJcmQHRLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnphSWhQOGtQU1VIVDVISk1WN29ZTFpLWmxMK3dFVmJoV2kxUkZFT3lEUnM0MisyNVA1Rkk3L2p0RGlSdXhrL1FGdFJHWEVFOUhKL1I1ejV6MW1XMG82TExqMWl3PT0YACAAKAAwvdP/zb+g+wI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLsAQgGEucBChxkOXJORkhlNHhKaldkeXA5S0J5NGhEUU5NQ289EmZaOkFEcXRBWnpuU1N3UEoyeU1GTEVhYkdxbGFTTG1LVkZkMG00SzBDTHVUeWRnZXhxdUxqMFBFY0QrREVoV3V1aXR5RkF6NE5mZXdUa3ZHeXM0SDlvZDZIUFBweU1SV21ybHd3PT0YACACKAIw7Yn2zr+g+wI48/3H3LUwQKrxhNnFMEoccm11d0krOEhJL0lxUGRKbDI5TjIzUGp5U1ZzPVofIh27TklpQjR2TzNFV1FiMU12TThqanhjUVN0VzVZPWWLoIzREqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaenhwZjBxZSswakRZaHNzenBZZUd0Rkt2bWhQczBkSDI5TENmd0xWTSs2R1pyRDcxSk5Kdk9EV0dPVllISVRuVG5OTnJQbRgAIAAoADC90//Nv6D7AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEuwBCAgS5wEKHE1mOFV6N1NHd2lhZk1lbXd5MUpTcDVEWDlnWT0SZlo6QURxdEFaem5TU3dQSjJ5TUZMRWFiR3FsYVNMbWNhV2RLSWs1T3liVTNoRlVDWDlxNVFLbUlsWWtaY2lhTWZpQmFxRjVPTlkxVHoxTEJ5V1VaVWc5NUJ6OU8vV1JsNktQd2c9PRgAIAIoAjDtifbOv6D7AjiD4unMuDBAqvGE2cUwShxuYTg2S3JPVEJ1eE4vTmdvQi9ZUXY3QmxpLzQ9Wh8iHe50aHNXelFDTVdhUG9WcGhZcDkvRXoyclQ0bDg9ZaqITE4S7AEIChLnAQocQ0laK3Juemg5dlpGZTh0aElXZmVkRklRL3MwPRJmWjpBRHF0QVp6blNTd1BKMnlNRkxFYWJHcWxhU0xtbXd6dks0cTQ5VzNIU25KdjliTGRzRXVpbEZxcE9jT0lxOGlVazRPMTMxZ2RxZWdSVWRMQk9CLy9HTExUNHJDSFBQQ0lDQT09GAAgAigCMO2J9s6/oPsCOJewhcC8MECr8YTZxTBKHFUwaFhEcUtBMmNQbG5UWldVY0pqV3JGeUxVOD1aHyId+ys1RE1sU3lrMGYwYTA3MjV3eStFVDQxMUdLOD1lKKP8nRLrAQgFEuYBChw4M2xDcHBReHNrNEovQThUZlNHQzJ6aG9NMDA9EmZaOkFEcXRBWnpuU1N3UEoyeU1GTEVhYkdxbGFTTG0zZDZMSHE0MWdVV1YydlI4Qk9SblhZd3ZyeFhjRXhnZWxKcnRxRlNkU1o0UE8rekNjQ1AzT1JYTXREdk5qK1FtZjljTE53PT0YACACKAIw7Yn2zr+g+wI4qb6o3LUwQKnxhNnFMEocbFowVUh6UVNMQmhpU0l5bHZYUk9BYnlpZHpjPVoeIhx2cVpQYkRCbkRSRFg4aEZSSnlhL1FXcUJQRzg9ZR2p8rUwATgA",
+   "version": 1
+}

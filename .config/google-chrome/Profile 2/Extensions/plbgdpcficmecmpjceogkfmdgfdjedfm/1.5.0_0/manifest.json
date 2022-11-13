@@ -1,0 +1,33 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "img/icon.png",
+      "default_popup": "popup.html",
+      "default_title": "MergeMail"
+   },
+   "content_scripts": [ {
+      "css": [ "css/content/style.css" ],
+      "js": [ "js/content/jquery.js", "js/content/inboxsdk.js", "js/content.js" ],
+      "matches": [ "*://mail.google.com/*" ]
+   } ],
+   "description": "Mail merge for Gmail",
+   "externally_connectable": {
+      "matches": [ "*://www.mergemail.co/*" ]
+   },
+   "homepage_url": "https://www.mergemail.co/",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAki/Is9QqfnrT+VvWMW71Y/PWy9lRU7GQNjWjr6Gc4iTU6zU4OyUXoI9K8vh50BV8tAPZhUxXrrlJXWaGQus/nILhOY4JyiFYNJitLS34l+MWGGmelTqkDYCAHQKScj8rX0F3S5HRPLkHJ0jred1ciyCLUEQW2zGcdpz2YjzBpyaC9smhvsCIIjF3o980GUqffRRDiRg/CxoA3jDuu14ZInbpjOizS14NNp/hZqPKoN2X3HKiLOuS10Axc2u9JMYH96F/X4VsJsMdKCZvb1EWMt+IY2+XqwbAyIiQF9q8J0YlbXLSmCfuKJVMS3XFFD+GIn6pU5IGsSgwX3PaKqNIuwIDAQAB",
+   "manifest_version": 2,
+   "name": "MergeMail",
+   "permissions": [ "http://mail.google.com/", "https://mail.google.com/", "https://www.mergemail.co/*" ],
+   "short_name": "MergeMail",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.0",
+   "web_accessible_resources": [ "img/*", "js/vendor/jquery-2.0.3.min.js", "frame.html", "frame_loading.html" ]
+}

@@ -1,0 +1,13 @@
+9
+
+https://www.wefindanswers.co/
+https://www.wefindanswers.co/aimtell-worker.js
+false
+{ebf8facf-17b2-4bce-9621-900a905d21fb}
+0
+1668157384481932
+1668157384491586
+1668157383802911
+0
+true
+#
