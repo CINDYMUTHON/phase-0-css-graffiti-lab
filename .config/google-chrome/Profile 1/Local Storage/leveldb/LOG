@@ -1,6 +1,3 @@
-2022/11/12-02:11:21.912 5 Reusing MANIFEST /home/student/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
-2022/11/12-02:11:21.913 5 Recovering log #26
-2022/11/12-02:11:21.914 5 Reusing old log /home/student/.config/google-chrome/Profile 1/Local Storage/leveldb/000026.log 
-2022/11/12-10:19:21.187 3d Level-0 table #30: started
-2022/11/12-10:19:21.237 3d Level-0 table #30: 14606 bytes OK
-2022/11/12-10:19:21.272 3d Delete type=0 #26
+2022/11/15-13:03:10.467 3 Reusing MANIFEST /home/student/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2022/11/15-13:03:10.468 3 Recovering log #45
+2022/11/15-13:03:10.469 3 Reusing old log /home/student/.config/google-chrome/Profile 1/Local Storage/leveldb/000045.log 

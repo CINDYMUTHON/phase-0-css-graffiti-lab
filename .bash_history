@@ -216,3 +216,177 @@ rspec
 add .
 commit -m "Completed assignment"
 add .
+code .
+npm install
+addEventListener() click
+input#input,
+index.js
+git add .
+git commit -m "Completed assignment"
+git push
+git push https://github.com/CINDYMUTHON/phase-0-javascript-events-event-listening-lab
+code .
+npm install
+npm install -g npm
+moveDodgerLeft() moveDodgerRight()
+dodger.style.left
+dodger.style.bottom
+ls
+ruby -v
+cd ~
+mkdir Development
+cd Development
+mkdir code
+cd code
+gem install learn- lab
+gem install learn-lab
+rvm group add rvm $USER
+rvm fix-permissions
+cd ~
+cd Development
+cd code
+gem install learn-lab
+rvm fix-permissions
+git clone git@github.com:CINDYMUTHON/phase-0-git-basics-lab.git
+cd phase-0-git-basics-lab.
+phase-0-git-basics-lab
+cd phase-0-git-basics-lab
+npm install
+npm test
+mkdir my-repository
+npm test
+cd
+npm test
+touch README.md
+git status
+git add
+npm test
+git clone git@github.com:CINDYMUTHON/phase-0-html-tag-lab.git
+code
+bundle
+git@github.com:CINDYMUTHON/phase-0-html-tables-lab.git
+<table></table>
+<table>
+</table>
+<tr>
+<th>city</th>
+git@github.com:CINDYMUTHON/phase-0-completing-assignments-learn-lab-gem.git
+cd~
+mkdir Development
+cd Development
+mkdir code
+git@github.com:CINDYMUTHON/phase-0-html-issue-bot-9000-lab.git
+bundle
+learn-lab
+learn -lab
+gem install learn-co
+learn hello
+touch ~/.netrc
+chmod 0600 ~/.netrc
+sudo apt-get install default-jre default-jdk ant
+sudo apt-get install -y libssl-dev libreadline-dev zlib1g-dev
+sudo apt-get install git
+sudo apt-get update
+git@github.com:CINDYMUTHON/phase-0-html-tag-lab.git
+git@github.com:CINDYMUTHON/phase-0-html-tag-lab.gitgit@github.com:CINDYMUTHON/phase-0-html-tag-lab.gitgit@github.com:CINDYMUTHON/phase-0-html-tag-lab.git
+cd Development
+ls
+pwd
+cd Development
+mkdir phase0
+ls
+mkdir phase1
+mkdir phase2
+ls
+mkdir phase3
+mkdir phase4
+mkdir phase5
+ls
+cd phase0
+ls
+cd Development
+ls
+cd phase0
+ls
+git clone
+git clone git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
+ls
+cd <pre>phase-0-git-basics-lab.git</pre>
+ls
+mkdir phase-0-git-basics-lab.git
+ls
+cd phase-0-git-basics-lab.git
+
+npm test
+npm install
+cd phase-0-git-basics-lab.git
+npm install
+npm test
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash 
+nvm
+sudo apt-get install software-properties-common
+sudo apt-add-repository -y ppa:rael-gc/rvm
+sudo apt-add-repository -y ppa:rael-gc/rv
+sudo apt-get install rvm
+sudo usermod -a -G rvm $USER 
+nvm list
+nvm
+nvm test
+rvm test
+rvm
+rvm list
+rvm install
+rvm install ruby-2.7.4 --default
+rvm install ruby-2.7.4 --default curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/wsl-phase-0-manual-setup-validator.sh | bash 2> /dev/null
+nvm list
+nvm install node
+cd Development
+ls
+cd phase0
+ls
+git clone git@github.com:FS-Moringa/phase-0-completing-assignments-learn-lab-gem.git
+ls
+cd phase-0-git-basics-lab.git
+ssh-keygen
+cd ~
+ls -a
+cd .ssh
+ls
+cat id_rsa.pub
+nano
+nano id_rsa.pub
+cat id_rsa.pub
+code .
+cd Development
+ls
+cd phase0
+ls
+learn lab test
+learn-lab test
+gem install learn-lab
+learn-lab config.
+learn - config
+cd phase-0-git-basics-lab.git
+gem install learn-lab
+learn - config
+cd Development
+ls
+cd phase0
+ls
+cd phase-0-git-basics-lab.git
+ls
+gem install learn-lab
+learn-lab config
+npm install
+npm test
+cd Development
+ls
+cd phase0
+ls
+git clone git@github.com:FS-Moringa/phase-0-completing-assignments-learn-lab-gem.git
+mkdir phase-0-completing-assignments-learn-lab-gem.git
+cd phase-0-completing-assignments-learn-lab-gem.git
+gem install learn-lab
+learn-lab config
+cd ~
+https://moringa.instructure.com/courses/169/pages/verify-and-troubleshoot-your-wsl2-environment-setup-2?module_item_id=34659#:~:text=curl%20%2Dso%2D%20https%3A//raw.githubusercontent.com/learn%2Dco%2Dcurriculum/flatiron%2Dmanual%2Dsetup%2Dvalidator/master/wsl%2Dphase%2D0%2Dmanual%2Dsetup%2Dvalidator.sh%20%7C%20bash%202%3E%20/dev/null
