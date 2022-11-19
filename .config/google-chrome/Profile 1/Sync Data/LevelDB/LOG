@@ -1,3 +1,3 @@
-2022/11/15-13:03:10.471 6d02 Reusing MANIFEST /home/student/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
-2022/11/15-13:03:10.472 6d02 Recovering log #3
-2022/11/15-13:03:10.472 6d02 Reusing old log /home/student/.config/google-chrome/Profile 1/Sync Data/LevelDB/000003.log 
+2022/11/18-12:23:03.623 1385a Reusing MANIFEST /home/student/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2022/11/18-12:23:03.623 1385a Recovering log #3
+2022/11/18-12:23:03.624 1385a Reusing old log /home/student/.config/google-chrome/Profile 1/Sync Data/LevelDB/000003.log 

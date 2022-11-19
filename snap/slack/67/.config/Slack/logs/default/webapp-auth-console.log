@@ -108,3 +108,69 @@
   "PACKAGE_MANIFEST.commit": "d0e84ec",
   "PACKAGE_MANIFEST.branch": "HEAD"
 }
+[11/17/22, 12:50:56:262] info: 
+╔══════════════════════════════════════════════════════════════════╗
+║      Slack 4.28.184, linux (Store) 5.11.0-27-generic on x64      ║
+╚══════════════════════════════════════════════════════════════════╝ 
+[11/17/22, 12:50:56:262] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-auth-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 3
+}
+[11/17/22, 12:50:56:263] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Nairobi",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.28.184",
+  "PACKAGE_MANIFEST.commit": "d0e84ec",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[11/18/22, 08:32:12:320] info: 
+╔══════════════════════════════════════════════════════════════════╗
+║      Slack 4.28.184, linux (Store) 5.11.0-27-generic on x64      ║
+╚══════════════════════════════════════════════════════════════════╝ 
+[11/18/22, 08:32:12:320] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-auth-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 3
+}
+[11/18/22, 08:32:12:322] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Nairobi",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.28.184",
+  "PACKAGE_MANIFEST.commit": "d0e84ec",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[11/18/22, 08:49:27:238] info: 
+╔══════════════════════════════════════════════════════════════════╗
+║      Slack 4.28.184, linux (Store) 5.11.0-27-generic on x64      ║
+╚══════════════════════════════════════════════════════════════════╝ 
+[11/18/22, 08:49:27:238] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-auth-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 3
+}
+[11/18/22, 08:49:27:239] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Nairobi",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.28.184",
+  "PACKAGE_MANIFEST.commit": "d0e84ec",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}

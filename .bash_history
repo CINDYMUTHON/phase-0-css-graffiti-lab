@@ -390,3 +390,422 @@ gem install learn-lab
 learn-lab config
 cd ~
 https://moringa.instructure.com/courses/169/pages/verify-and-troubleshoot-your-wsl2-environment-setup-2?module_item_id=34659#:~:text=curl%20%2Dso%2D%20https%3A//raw.githubusercontent.com/learn%2Dco%2Dcurriculum/flatiron%2Dmanual%2Dsetup%2Dvalidator/master/wsl%2Dphase%2D0%2Dmanual%2Dsetup%2Dvalidator.sh%20%7C%20bash%202%3E%20/dev/null
+cd Development
+ls
+cd phase0
+ls
+cd phase-0-completing-assignments-learn-lab-gem 
+gem install learn-lab
+cd ~
+gem update --system
+sudo apt gem install learn-lab
+gem install learn-lab
+sudo gem install learn-lab
+learn-lab config
+npm install
+npm test
+npm install
+learn-lab test
+git add .
+git commit -m"learn lab test"
+git push
+cd Development
+ls
+cd phase0
+ls
+git
+cd Development
+ls
+cd phase 0
+cd phase0
+ls
+cdphase-0-completing-assignments
+cd phase-0-completing-assignments
+ls
+cd phase-0-completing-assignments-learn-lab-gem
+npm test
+npm test install
+cd Development
+ls
+cd phase0
+ls
+git clone phase-0-completing-assignments-learn-lab-gem
+mkdir phase-0-completing-assignments-learn-lab-gem
+cd phase-0-completing-assignments-learn-lab-gem
+npm install
+npm test
+learn-lab test
+git add .
+git commit -m "completed assignment"
+git push
+git commit -m 'completed assignment'
+git push
+npm install
+npm test
+cd Development
+ls
+cd phase0
+ls
+git clone git@github.com:learn-co-curriculum/phase-0-git-basics-lab.git
+npm install
+npm test
+my-repository
+npm test
+my-repository
+cd my-repository
+cd repository
+ls
+mkdirmy-repository
+mkdir my - repository
+npm test
+mkdir my-repository
+ls
+cd my-repository
+git init
+mkdir README.md
+ls
+npm test
+cd README.md
+git add .
+npm test
+ls
+git add .
+git commit -m 'completed git basic lab'
+git push
+npm test
+git commit -m "completed git basic assignment"
+npm test
+npm install
+npm test
+git commit -m 'completed git basic assignment'
+cd ../
+git commit -m 'completed git basic assignment'
+npm test
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:CINDYMUTHON/my-repository.git
+git push -u origin main
+git remote add origin git@github.com:CINDYMUTHON/my-repository.git
+git branch -M main
+git push -u origin main
+npm test
+cd Development/
+ls
+cd phase0
+ls
+cd phase-0-git-basics-lab
+npm install
+npm test
+git remote add origin git@github.com:CINDYMUTHON/my-repository.git
+git branch -M main
+git push -u origin main
+npm test
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:CINDYMUTHON/my-repository.git
+git push -u origin main
+npm test
+cd Development/
+ls
+cd phase0
+ls
+cd phase-0-git-basics-lab
+ls
+cd my-repository
+npm install
+npm test
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:CINDYMUTHON/my-repository.git
+git push -u origin main
+git remote add origin git@github.com:CINDYMUTHON/my-repository.git
+git push -u origin main
+npm test
+git status
+git init
+git add .
+git comit
+ls
+git commit -m "create readme file"
+rm -rf  README .md
+to README.md
+touch README .md
+git.add
+gir add
+git add README.md
+git commit -m "create readme file"
+On branch master
+git commit -m "create readme file"
+touch README.md
+git add README.md
+git commit -m "create readme file"
+rm -rf .md
+rm -rf README
+git add .
+git commit -m "create readme file"
+LS
+ls
+cd ..
+rm -rf my-repository
+git remote -v
+git remote remove origin
+git remote -v
+ls
+git remote add origin git@github.com:CINDYMUTHON/my-repository.git
+git remote -v
+mkdir my-repository
+cd my-repository
+cd ..
+npm test
+cd my-repository
+git init
+npm test
+touch README.md
+ls
+npm test
+git add .
+npm test
+git commit -m
+git commit -m "create readme file"
+npm test
+git remote -v
+git push
+git  push origin main
+git branch
+git push origin master
+npm test
+cd Developmemt
+ls
+cd Desktop
+ls
+cd Development
+ls
+cd phase0
+ls
+git clone git@github.com:learn-co-curriculum/phase-0-html-tag-lab.git
+cd phase-0-git-basics-lab
+code .
+git add .
+npm install
+npm test
+git commit -m"html assigment"
+git push
+git push --set-upstream origin main
+cd
+cd Development
+ls
+cd phase0
+ls
+git clonegit@github.com:learn-co-curriculum/phase-0-html-tables-lab.git
+cd Development
+ls
+cd phase0
+ls
+git clonegit@github.com:learn-co-curriculum/phase-0-html-tables-lab.git
+git clone git@github.com:learn-co-curriculum/phase-0-html-tables-lab.git
+ls
+git@github.com:learn-co-curriculum/phase-0-html-tables-lab.git 
+cd  phase-0-html-tables-lab
+code .
+git add .
+git commit -m"html table"
+git push
+npm install
+npm test
+cd Development
+ls
+mkdir letures
+ls
+cd lectures
+mkidr README
+mkdir lectures
+ls
+mkdir README
+ls
+cd README
+touch README.md
+git add .
+ls
+git commit -m"README md"
+git branch -M main
+git remote add origin https://github.com/CINDYMUTHON/Basic-README#:~:text=remote%20add%20origin-,git%40github.com%3ACINDYMUTHON/Basic%2DREADME.git,-git%20push%20%2Du
+git branch -M main
+git remote add origin git@github.com:CINDYMUTHON/Basic-README.git
+git push -u origin
+git push -u origin main
+git push -u origin
+git init
+git push -u origin main
+code .
+cd Development
+ls
+cd ~
+cd development
+cd Development
+ls
+cd Development
+ls
+mkdir phase0
+ls
+mkdir phase1
+mkdir phase2
+mkdir phase3
+mkdir phase4
+mkdir phase5
+ls
+cd Development
+ls
+cd phase0
+ls
+git clone git@github.com:learn-co-curriculum/phase-0-html-tables-lab.git
+cd phase-0-html-tables-lab
+code .
+npm test
+npm tesr
+npm help
+npm test
+LS
+ls
+cd ..
+code .
+cd Development
+ls
+cd phase0
+ls
+cd phase-0-html-tables-lab
+code .
+<html>
+<body>
+<table>
+<tr>
+<th> City </th>
+<th>State</th>
+<th>2017 estimate</th>
+</tr>
+<tr>
+<th> New York </th>
+<th> New York</th>
+<th>8,622,698</th>
+</tr>
+<tr>
+<th>Los Angles</th>
+<th>California</th>
+<th>3,999,759</th>
+</tr>
+<tr>
+<th>Chicago</th>
+<th>Illinois</th>
+<th>2,716,450</th>
+</tr>
+<tr>
+<th>Huoston</th>
+<th>Texas</th>
+<th>2,312,717</th>
+</tr>
+</table>
+</body>
+cd Development
+ls
+cd phase0
+ls
+cd phase-0-html-tables-lab
+cd
+code .
+cd phase-0-html-tables-lab
+cd ../
+cd Development
+ls
+cd phase0
+ls
+git clone git@github.com:CINDYMUTHON/phase-0-html-tables-lab.git
+mkdir phase-0-html-tables-lab.git
+cd phase-0-html-tables-lab.git
+code .
+cd Development
+ls
+cd phase0
+ls
+cd phase-0-html-tables-lab
+ls
+code .
+npm install
+npm test
+git add .
+git commit -m "completed html tables"
+git push
+git remote -v
+git remote remove origin
+git remote -v
+git clone git@github.com:CINDYMUTHON/phase-0-html-tables-lab.git
+git push
+git checkout -main
+npm test
+git add .
+git commit -m "completed html tables lab"
+git push
+git status
+git help
+cd Development
+ls
+cd phase0
+ls
+cd phase-0-html-tables-lab 
+ls
+code .
+npm test
+git add .
+git commit "completed html tables"
+git commit -m "completed html tables"
+git push
+git push origin master
+git remote -v
+git add
+git add .
+git commit -m "completed html tables"
+code .
+npm test
+git add .
+git commit -m "completed html table assignment"
+git push
+cd Development
+ls
+learn-lab test
+git add .
+git commit -m'completed assignment'
+git push
+cd Development
+ls
+cd phase0
+ls
+git clone  https://github.com/learn-co-curriculum/phase-0-html-images-lab.git
+cd phase-0-html-images-lab.git
+code .
+cd phase-0-html-images-lab
+npm install
+code .
+cd Development
+ls
+cd phase0
+ls
+git clone git@github.com:CINDYMUTHON/phase-0-html-issue-bot-9000-lab.git
+code .
+rspec. 
+rspec
+git init -b main
+cd
+git init
+git@github.com:CINDYMUTHON/phase-0-html-issue-bot-9000-lab.git
+git commit -m git@github.com:CINDYMUTHON/phase-0-html-issue-bot-9000-lab.git
+git commit -a file:///home/student/Development/phase0/phase-0-html-issue-bot-9000-lab/bot9000.html
+cd Development
+ls
+cd phase0
+ls
+git clone https://github.com/learn-co-curriculum/phase-0-html-issue-bot-9000-lab.git
+code .
+code
+bundle
+SOURCE.md
+SOURCE.md 

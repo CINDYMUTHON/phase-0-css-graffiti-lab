@@ -4,10 +4,44 @@
         "workspaces": [],
         "folders": [
             {
+                "folderUri": "file:///home/student/Development/phase0/phase-0-html-tables-lab.git"
+            },
+            {
                 "folderUri": "file:///home/student"
+            },
+            {
+                "folderUri": "file:///home/student/Development/phase0"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1668785605422"
+            },
+            {
+                "backupFolder": "1668879661309"
+            },
+            {
+                "backupFolder": "1668879964071"
+            },
+            {
+                "backupFolder": "1668880153028"
+            },
+            {
+                "backupFolder": "1668880185594"
+            },
+            {
+                "backupFolder": "1668880367736"
+            },
+            {
+                "backupFolder": "1668881458891"
+            },
+            {
+                "backupFolder": "1668883392815"
+            },
+            {
+                "backupFolder": "1668883931137"
+            }
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -47,11 +81,21 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/phase0/phase-0-html-tables-lab.git",
+                                        "path": "/home/student/Development/phase0/phase-0-html-tables-lab.git",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/phase0/phase-0-html-tables-lab.git"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -65,7 +109,161 @@
                                     "label": "/home/student"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/phase0",
+                                        "path": "/home/student/Development/phase0",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/phase0"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/phase0/phase-0-html-images-lab",
+                                        "path": "/home/student/Development/phase0/phase-0-html-images-lab",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/phase0/phase-0-html-images-lab"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/phase0/phase-0-html-tables-lab",
+                                        "path": "/home/student/Development/phase0/phase-0-html-tables-lab",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/phase0/phase-0-html-tables-lab"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/README",
+                                        "path": "/home/student/Development/README",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/README"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/phase0/phase-0-git-basics-lab",
+                                        "path": "/home/student/Development/phase0/phase-0-git-basics-lab",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/phase0/phase-0-git-basics-lab"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/index.html",
+                                        "path": "/home/student/Development/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/phase0/phase-0-html-tables-lab/index.%20html%201",
+                                        "path": "/home/student/Development/phase0/phase-0-html-tables-lab/index. html 1",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/phase0/phase-0-html-tables-lab/index. html 1"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/phase0/phase-0-html-issue-bot-9000-lab/bot9000.html",
+                                        "path": "/home/student/Development/phase0/phase-0-html-issue-bot-9000-lab/bot9000.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/phase0/phase-0-html-issue-bot-9000-lab/bot9000.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/phase0/phase-0-html-issue-bot-9000-lab/index.html",
+                                        "path": "/home/student/Development/phase0/phase-0-html-issue-bot-9000-lab/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/phase0/phase-0-html-issue-bot-9000-lab/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Development/phase0/phase-0-html-images-lab/index.html",
+                                        "path": "/home/student/Development/phase0/phase-0-html-images-lab/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Development/phase0/phase-0-html-images-lab/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/game.html",
+                                        "path": "/home/student/game.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/game.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/index4.html",
+                                        "path": "/home/student/index4.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/index4.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/my_list.html",
+                                        "path": "/home/student/my_list.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/my_list.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/Downloads/phase-0-html-album-cover-lab-master/index.html",
+                                        "path": "/home/student/Downloads/phase-0-html-album-cover-lab-master/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/phase-0-html-album-cover-lab-master/index.html"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -429,8 +627,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -676,8 +873,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -686,8 +882,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1591,7 +1786,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -1601,10 +1796,10 @@
             "folder": "file:///home/student",
             "backupPath": "/home/student/.config/Code/Backups/71f1d26b02d71b7c145aae6482afac9b",
             "uiState": {
-                "mode": 0,
-                "x": 46,
-                "y": 64,
-                "width": 1320,
+                "mode": 1,
+                "x": 202,
+                "y": 108,
+                "width": 1154,
                 "height": 704
             }
         },

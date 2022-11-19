@@ -99,7 +99,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/index3.html" added="2022-11-13T12:15:05Z" modified="2022-11-13T12:15:05Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/student/index3.html" added="2022-11-13T12:15:05Z" modified="2022-11-13T12:15:05Z" visited="2022-11-16T06:15:16Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -109,7 +109,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/Pictures/Screenshot%20from%202022-11-13%2016-04-11.png" added="2022-11-13T13:04:12Z" modified="2022-11-13T13:04:12Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/student/Pictures/Screenshot%20from%202022-11-13%2016-04-11.png" added="2022-11-13T13:04:12Z" modified="2022-11-13T13:04:12Z" visited="2022-11-16T06:15:16Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -119,12 +119,88 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/game.html" added="2022-11-13T13:40:58Z" modified="2022-11-13T13:43:23Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/student/game.html" added="2022-11-13T13:40:58Z" modified="2022-11-13T13:43:23Z" visited="2022-11-16T06:15:16Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
           <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-11-13T13:43:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Development/phase0/phase-0-git-basics-lab/index.html" added="2022-11-16T06:15:16Z" modified="2022-11-16T06:15:16Z" visited="2022-11-16T06:15:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-11-16T06:15:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Development/README/README.md" added="2022-11-16T11:01:55Z" modified="2022-11-16T12:13:08Z" visited="2022-11-16T11:17:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-11-16T11:01:55Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-16T12:13:08Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Development/phase0/phase-0-html-tables-lab/index.%20html%201" added="2022-11-16T11:17:24Z" modified="2022-11-16T11:17:24Z" visited="2022-11-16T11:17:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-11-16T11:17:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Development/phase0/phase-0-html-issue-bot-9000-lab/bot9000.html" added="2022-11-18T10:44:57Z" modified="2022-11-18T10:44:57Z" visited="2022-11-18T11:54:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-11-18T10:44:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Development/index.html" added="2022-11-18T11:54:21Z" modified="2022-11-18T12:06:07Z" visited="2022-11-18T11:54:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-11-18T11:54:21Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-11-18T12:06:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Downloads/phase-0-html-album-cover-lab-master.zip" added="2022-11-18T12:09:47Z" modified="2022-11-18T12:09:47Z" visited="2022-11-18T15:32:58.277273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-11-18T12:09:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Downloads/phase-0-html-album-cover-lab-master/index.html" added="2022-11-18T12:12:18Z" modified="2022-11-18T15:32:58Z" visited="2022-11-18T15:32:58.277287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env --unity-launch %F&apos;" modified="2022-11-18T12:24:13Z" count="2"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-11-18T15:32:58Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

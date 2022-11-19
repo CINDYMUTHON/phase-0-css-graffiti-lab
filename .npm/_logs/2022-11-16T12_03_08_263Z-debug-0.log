@@ -1,0 +1,599 @@
+0 verbose cli /home/student/.nvm/versions/node/v19.1.0/bin/node /home/student/.nvm/versions/node/v19.1.0/bin/npm
+1 info using npm@8.19.3
+2 info using node@v19.1.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/home/student/.nvm/versions/node/v19.1.0/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/student/Development/phase0/phase-0-html-tables-lab/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 12ms
+11 timing config:load:file:/home/student/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/home/student/.nvm/versions/node/v19.1.0/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 20ms
+19 timing npm:load:configload Completed in 20ms
+20 timing npm:load:mkdirpcache Completed in 1ms
+21 timing npm:load:mkdirplogs Completed in 0ms
+22 verbose title npm install
+23 verbose argv "install"
+24 timing npm:load:setTitle Completed in 1ms
+25 timing config:load:flatten Completed in 3ms
+26 timing npm:load:display Completed in 5ms
+27 verbose logfile logs-max:10 dir:/home/student/.npm/_logs
+28 verbose logfile /home/student/.npm/_logs/2022-11-16T12_03_08_263Z-debug-0.log
+29 timing npm:load:logFile Completed in 6ms
+30 timing npm:load:timers Completed in 0ms
+31 timing npm:load:configScope Completed in 0ms
+32 timing npm:load Completed in 35ms
+33 timing arborist:ctor Completed in 1ms
+34 silly logfile start cleaning logs, removing 1 files
+35 silly logfile done cleaning log files
+36 timing idealTree:init Completed in 133ms
+37 timing idealTree:userRequests Completed in 0ms
+38 silly idealTree buildDeps
+39 timing idealTree:#root Completed in 0ms
+40 timing idealTree:buildDeps Completed in 1ms
+41 timing idealTree:fixDepFlags Completed in 0ms
+42 timing idealTree Completed in 141ms
+43 timing reify:loadTrees Completed in 148ms
+44 timing reify:diffTrees Completed in 3ms
+45 silly reify moves {}
+46 timing reify:retireShallow Completed in 1ms
+47 timing reify:createSparse Completed in 28ms
+48 timing reify:loadBundles Completed in 0ms
+49 silly audit bulk request {
+49 silly audit   '@tootallnate/once': [ '2.0.0' ],
+49 silly audit   '@ungap/promise-all-settled': [ '1.1.2' ],
+49 silly audit   abab: [ '2.0.5' ],
+49 silly audit   acorn: [ '8.5.0', '7.4.1' ],
+49 silly audit   'acorn-globals': [ '6.0.0' ],
+49 silly audit   'acorn-walk': [ '7.2.0' ],
+49 silly audit   'agent-base': [ '6.0.2' ],
+49 silly audit   'ansi-colors': [ '4.1.1' ],
+49 silly audit   'ansi-regex': [ '5.0.1' ],
+49 silly audit   'ansi-styles': [ '4.3.0' ],
+49 silly audit   anymatch: [ '3.1.2' ],
+49 silly audit   argparse: [ '2.0.1' ],
+49 silly audit   'assertion-error': [ '1.1.0' ],
+49 silly audit   asynckit: [ '0.4.0' ],
+49 silly audit   'balanced-match': [ '1.0.2' ],
+49 silly audit   'binary-extensions': [ '2.2.0' ],
+49 silly audit   'brace-expansion': [ '1.1.11' ],
+49 silly audit   braces: [ '3.0.2' ],
+49 silly audit   'browser-process-hrtime': [ '1.0.0' ],
+49 silly audit   'browser-stdout': [ '1.3.1' ],
+49 silly audit   camelcase: [ '6.2.1' ],
+49 silly audit   chai: [ '4.3.4' ],
+49 silly audit   'chai-dom': [ '1.10.0' ],
+49 silly audit   chalk: [ '4.1.2' ],
+49 silly audit   'supports-color': [ '7.2.0', '8.1.1' ],
+49 silly audit   'check-error': [ '1.0.2' ],
+49 silly audit   chokidar: [ '3.5.2' ],
+49 silly audit   cliui: [ '7.0.4' ],
+49 silly audit   'color-convert': [ '2.0.1' ],
+49 silly audit   'color-name': [ '1.1.4' ],
+49 silly audit   'combined-stream': [ '1.0.8' ],
+49 silly audit   'concat-map': [ '0.0.1' ],
+49 silly audit   cssom: [ '0.5.0', '0.3.8' ],
+49 silly audit   cssstyle: [ '2.3.0' ],
+49 silly audit   'data-urls': [ '3.0.1' ],
+49 silly audit   debug: [ '4.3.2' ],
+49 silly audit   decamelize: [ '4.0.0' ],
+49 silly audit   'decimal.js': [ '10.3.1' ],
+49 silly audit   'deep-eql': [ '3.0.1' ],
+49 silly audit   'deep-is': [ '0.1.4' ],
+49 silly audit   'delayed-stream': [ '1.0.0' ],
+49 silly audit   diff: [ '5.0.0' ],
+49 silly audit   domexception: [ '4.0.0' ],
+49 silly audit   'emoji-regex': [ '8.0.0' ],
+49 silly audit   escalade: [ '3.1.1' ],
+49 silly audit   'escape-string-regexp': [ '4.0.0' ],
+49 silly audit   escodegen: [ '2.0.0' ],
+49 silly audit   esprima: [ '4.0.1' ],
+49 silly audit   estraverse: [ '5.3.0' ],
+49 silly audit   esutils: [ '2.0.3' ],
+49 silly audit   'fast-levenshtein': [ '2.0.6' ],
+49 silly audit   'fill-range': [ '7.0.1' ],
+49 silly audit   'find-up': [ '5.0.0' ],
+49 silly audit   flat: [ '5.0.2' ],
+49 silly audit   'form-data': [ '4.0.0' ],
+49 silly audit   'fs.realpath': [ '1.0.0' ],
+49 silly audit   fsevents: [ '2.3.2' ],
+49 silly audit   'get-caller-file': [ '2.0.5' ],
+49 silly audit   'get-func-name': [ '2.0.0' ],
+49 silly audit   glob: [ '7.1.7' ],
+49 silly audit   'glob-parent': [ '5.1.2' ],
+49 silly audit   'global-jsdom': [ '8.3.0' ],
+49 silly audit   growl: [ '1.10.5' ],
+49 silly audit   'has-flag': [ '4.0.0' ],
+49 silly audit   'has-symbols': [ '1.0.2' ],
+49 silly audit   'has-tostringtag': [ '1.0.0' ],
+49 silly audit   he: [ '1.2.0' ],
+49 silly audit   'html-encoding-sniffer': [ '3.0.0' ],
+49 silly audit   'http-proxy-agent': [ '5.0.0' ],
+49 silly audit   'https-proxy-agent': [ '5.0.0' ],
+49 silly audit   'iconv-lite': [ '0.6.3' ],
+49 silly audit   inflight: [ '1.0.6' ],
+49 silly audit   inherits: [ '2.0.4' ],
+49 silly audit   'is-binary-path': [ '2.1.0' ],
+49 silly audit   'is-extglob': [ '2.1.1' ],
+49 silly audit   'is-fullwidth-code-point': [ '3.0.0' ],
+49 silly audit   'is-glob': [ '4.0.3' ],
+49 silly audit   'is-number': [ '7.0.0' ],
+49 silly audit   'is-plain-obj': [ '2.1.0' ],
+49 silly audit   'is-potential-custom-element-name': [ '1.0.1' ],
+49 silly audit   'is-string': [ '1.0.7' ],
+49 silly audit   'is-unicode-supported': [ '0.1.0' ],
+49 silly audit   isexe: [ '2.0.0' ],
+49 silly audit   'js-yaml': [ '4.1.0' ],
+49 silly audit   jsdom: [ '18.1.0' ],
+49 silly audit   levn: [ '0.3.0' ],
+49 silly audit   'locate-path': [ '6.0.0' ],
+49 silly audit   'lodash.once': [ '4.1.1' ],
+49 silly audit   'log-symbols': [ '4.1.0' ],
+49 silly audit   'mime-db': [ '1.51.0' ],
+49 silly audit   'mime-types': [ '2.1.34' ],
+49 silly audit   minimatch: [ '3.0.4' ],
+49 silly audit   minimist: [ '1.2.6' ],
+49 silly audit   mkdirp: [ '0.5.5' ],
+49 silly audit   mocha: [ '9.1.3' ],
+49 silly audit   'mocha-multi': [ '1.1.5' ],
+49 silly audit   ms: [ '2.1.3', '2.1.2' ],
+49 silly audit   nanoid: [ '3.1.25' ],
+49 silly audit   'normalize-path': [ '3.0.0' ],
+49 silly audit   nwsapi: [ '2.2.0' ],
+49 silly audit   'object-assign': [ '4.1.1' ],
+49 silly audit   once: [ '1.4.0' ],
+49 silly audit   optionator: [ '0.8.3' ],
+49 silly audit   'p-limit': [ '3.1.0' ],
+49 silly audit   'p-locate': [ '5.0.0' ],
+49 silly audit   parse5: [ '6.0.1' ],
+49 silly audit   'path-exists': [ '4.0.0' ],
+49 silly audit   'path-is-absolute': [ '1.0.1' ],
+49 silly audit   pathval: [ '1.1.1' ],
+49 silly audit   picomatch: [ '2.3.0' ],
+49 silly audit   'prelude-ls': [ '1.1.2' ],
+49 silly audit   psl: [ '1.8.0' ],
+49 silly audit   punycode: [ '2.1.1' ],
+49 silly audit   randombytes: [ '2.1.0' ],
+49 silly audit   readdirp: [ '3.6.0' ],
+49 silly audit   'require-directory': [ '2.1.1' ],
+49 silly audit   'safe-buffer': [ '5.2.1' ],
+49 silly audit   'safer-buffer': [ '2.1.2' ],
+49 silly audit   saxes: [ '5.0.1' ],
+49 silly audit   'serialize-javascript': [ '6.0.0' ],
+49 silly audit   'source-map': [ '0.6.1' ],
+49 silly audit   'string-width': [ '4.2.3' ],
+49 silly audit   'strip-ansi': [ '6.0.1' ],
+49 silly audit   'strip-json-comments': [ '3.1.1' ],
+49 silly audit   'symbol-tree': [ '3.2.4' ],
+49 silly audit   'to-regex-range': [ '5.0.1' ],
+49 silly audit   'tough-cookie': [ '4.0.0' ],
+49 silly audit   tr46: [ '3.0.0' ],
+49 silly audit   'type-check': [ '0.3.2' ],
+49 silly audit   'type-detect': [ '4.0.8' ],
+49 silly audit   universalify: [ '0.1.2' ],
+49 silly audit   'w3c-hr-time': [ '1.0.2' ],
+49 silly audit   'w3c-xmlserializer': [ '3.0.0' ],
+49 silly audit   'webidl-conversions': [ '7.0.0' ],
+49 silly audit   'whatwg-encoding': [ '2.0.0' ],
+49 silly audit   'whatwg-mimetype': [ '3.0.0' ],
+49 silly audit   'whatwg-url': [ '10.0.0' ],
+49 silly audit   which: [ '2.0.2' ],
+49 silly audit   'word-wrap': [ '1.2.3' ],
+49 silly audit   workerpool: [ '6.1.5' ],
+49 silly audit   'wrap-ansi': [ '7.0.0' ],
+49 silly audit   wrappy: [ '1.0.2' ],
+49 silly audit   ws: [ '8.2.3' ],
+49 silly audit   'xml-name-validator': [ '4.0.0' ],
+49 silly audit   xmlchars: [ '2.2.0' ],
+49 silly audit   y18n: [ '5.0.8' ],
+49 silly audit   yargs: [ '16.2.0' ],
+49 silly audit   'yargs-parser': [ '20.2.4' ],
+49 silly audit   'yargs-unparser': [ '2.0.0' ],
+49 silly audit   'yocto-queue': [ '0.1.0' ]
+49 silly audit }
+50 verbose reify failed optional dependency /home/student/Development/phase0/phase-0-html-tables-lab/node_modules/fsevents
+51 silly reify mark deleted [
+51 silly reify   '/home/student/Development/phase0/phase-0-html-tables-lab/node_modules/fsevents'
+51 silly reify ]
+52 timing reifyNode:node_modules/fsevents Completed in 87ms
+53 timing reifyNode:node_modules/wrap-ansi Completed in 555ms
+54 timing reifyNode:node_modules/wrappy Completed in 555ms
+55 timing reifyNode:node_modules/universalify Completed in 556ms
+56 timing reifyNode:node_modules/path-is-absolute Completed in 556ms
+57 timing reifyNode:node_modules/once Completed in 557ms
+58 timing reifyNode:node_modules/object-assign Completed in 557ms
+59 timing reifyNode:node_modules/normalize-path Completed in 557ms
+60 timing reifyNode:node_modules/ms Completed in 558ms
+61 timing reifyNode:node_modules/lodash.once Completed in 558ms
+62 timing reifyNode:node_modules/is-potential-custom-element-name Completed in 559ms
+63 timing reifyNode:node_modules/is-number Completed in 558ms
+64 timing reifyNode:node_modules/is-extglob Completed in 558ms
+65 timing reifyNode:node_modules/inflight Completed in 558ms
+66 timing reifyNode:node_modules/fast-levenshtein Completed in 559ms
+67 timing reifyNode:node_modules/color-name Completed in 561ms
+68 timing reifyNode:node_modules/browser-stdout Completed in 559ms
+69 timing reifyNode:node_modules/brace-expansion Completed in 559ms
+70 timing reifyNode:node_modules/acorn-globals Completed in 561ms
+71 timing reifyNode:node_modules/mocha/node_modules/ms Completed in 568ms
+72 timing reifyNode:node_modules/yocto-queue Completed in 573ms
+73 timing reifyNode:node_modules/xml-name-validator Completed in 572ms
+74 timing reifyNode:node_modules/word-wrap Completed in 573ms
+75 timing reifyNode:node_modules/supports-color Completed in 572ms
+76 timing reifyNode:node_modules/to-regex-range Completed in 573ms
+77 timing reifyNode:node_modules/strip-ansi Completed in 572ms
+78 timing reifyNode:node_modules/strip-json-comments Completed in 573ms
+79 timing reifyNode:node_modules/string-width Completed in 573ms
+80 timing reifyNode:node_modules/serialize-javascript Completed in 573ms
+81 timing reifyNode:node_modules/p-locate Completed in 573ms
+82 timing reifyNode:node_modules/path-exists Completed in 573ms
+83 timing reifyNode:node_modules/p-limit Completed in 574ms
+84 timing reifyNode:node_modules/locate-path Completed in 574ms
+85 timing reifyNode:node_modules/is-unicode-supported Completed in 574ms
+86 timing reifyNode:node_modules/is-plain-obj Completed in 573ms
+87 timing reifyNode:node_modules/is-glob Completed in 573ms
+88 timing reifyNode:node_modules/is-fullwidth-code-point Completed in 574ms
+89 timing reifyNode:node_modules/inherits Completed in 574ms
+90 timing reifyNode:node_modules/is-binary-path Completed in 574ms
+91 timing reifyNode:node_modules/html-encoding-sniffer Completed in 575ms
+92 timing reifyNode:node_modules/has-flag Completed in 574ms
+93 timing reifyNode:node_modules/glob-parent Completed in 575ms
+94 timing reifyNode:node_modules/get-func-name Completed in 575ms
+95 timing reifyNode:node_modules/find-up Completed in 575ms
+96 timing reifyNode:node_modules/fill-range Completed in 575ms
+97 timing reifyNode:node_modules/escape-string-regexp Completed in 575ms
+98 timing reifyNode:node_modules/decamelize Completed in 576ms
+99 timing reifyNode:node_modules/camelcase Completed in 575ms
+100 timing reifyNode:node_modules/browser-process-hrtime Completed in 574ms
+101 timing reifyNode:node_modules/anymatch Completed in 575ms
+102 timing reifyNode:node_modules/ansi-regex Completed in 575ms
+103 timing reifyNode:node_modules/assertion-error Completed in 577ms
+104 timing reifyNode:node_modules/yargs-unparser Completed in 589ms
+105 timing reifyNode:node_modules/chalk/node_modules/supports-color Completed in 580ms
+106 timing reifyNode:node_modules/pathval Completed in 589ms
+107 timing reifyNode:node_modules/minimatch Completed in 587ms
+108 timing reifyNode:node_modules/log-symbols Completed in 588ms
+109 timing reifyNode:node_modules/get-caller-file Completed in 588ms
+110 timing reifyNode:node_modules/fs.realpath Completed in 588ms
+111 timing reifyNode:node_modules/data-urls Completed in 589ms
+112 timing reifyNode:node_modules/combined-stream Completed in 590ms
+113 timing reifyNode:node_modules/balanced-match Completed in 592ms
+114 timing reifyNode:node_modules/ansi-styles Completed in 592ms
+115 timing reifyNode:node_modules/which Completed in 604ms
+116 timing reifyNode:node_modules/webidl-conversions Completed in 604ms
+117 timing reifyNode:node_modules/readdirp Completed in 604ms
+118 timing reifyNode:node_modules/mkdirp Completed in 604ms
+119 timing reifyNode:node_modules/mime-types Completed in 604ms
+120 timing reifyNode:node_modules/delayed-stream Completed in 603ms
+121 timing reifyNode:node_modules/check-error Completed in 603ms
+122 timing reifyNode:node_modules/binary-extensions Completed in 603ms
+123 timing reifyNode:node_modules/whatwg-encoding Completed in 614ms
+124 timing reifyNode:node_modules/type-detect Completed in 615ms
+125 timing reifyNode:node_modules/safe-buffer Completed in 615ms
+126 timing reifyNode:node_modules/require-directory Completed in 615ms
+127 timing reifyNode:node_modules/randombytes Completed in 615ms
+128 timing reifyNode:node_modules/punycode Completed in 615ms
+129 timing reifyNode:node_modules/w3c-xmlserializer Completed in 623ms
+130 timing reifyNode:node_modules/type-check Completed in 624ms
+131 timing reifyNode:node_modules/http-proxy-agent Completed in 622ms
+132 timing reifyNode:node_modules/deep-eql Completed in 622ms
+133 timing reifyNode:node_modules/debug Completed in 623ms
+134 timing reifyNode:node_modules/concat-map Completed in 624ms
+135 timing reifyNode:node_modules/color-convert Completed in 624ms
+136 timing reifyNode:node_modules/ansi-colors Completed in 622ms
+137 timing reifyNode:node_modules/abab Completed in 623ms
+138 timing reifyNode:node_modules/safer-buffer Completed in 632ms
+139 timing reifyNode:node_modules/isexe Completed in 632ms
+140 timing reifyNode:node_modules/flat Completed in 631ms
+141 timing reifyNode:node_modules/estraverse Completed in 631ms
+142 timing reifyNode:node_modules/@ungap/promise-all-settled Completed in 633ms
+143 timing reifyNode:node_modules/whatwg-mimetype Completed in 644ms
+144 timing reifyNode:node_modules/escalade Completed in 642ms
+145 timing reifyNode:node_modules/deep-is Completed in 642ms
+146 timing reifyNode:node_modules/chalk Completed in 642ms
+147 timing reifyNode:node_modules/symbol-tree Completed in 651ms
+148 timing reifyNode:node_modules/optionator Completed in 650ms
+149 timing reifyNode:node_modules/glob Completed in 649ms
+150 timing reifyNode:node_modules/global-jsdom Completed in 649ms
+151 timing reifyNode:node_modules/form-data Completed in 649ms
+152 timing reifyNode:node_modules/emoji-regex Completed in 649ms
+153 timing reifyNode:node_modules/w3c-hr-time Completed in 657ms
+154 timing reifyNode:node_modules/levn Completed in 656ms
+155 timing reifyNode:node_modules/escodegen Completed in 654ms
+156 timing reifyNode:node_modules/@tootallnate/once Completed in 652ms
+157 timing reifyNode:node_modules/mocha-multi Completed in 661ms
+158 timing reifyNode:node_modules/y18n Completed in 664ms
+159 timing reifyNode:node_modules/saxes Completed in 663ms
+160 timing reifyNode:node_modules/is-string Completed in 662ms
+161 timing reifyNode:node_modules/esutils Completed in 661ms
+162 timing reifyNode:node_modules/domexception Completed in 660ms
+163 timing reifyNode:node_modules/cliui Completed in 660ms
+164 timing reifyNode:node_modules/prelude-ls Completed in 672ms
+165 timing reifyNode:node_modules/https-proxy-agent Completed in 674ms
+166 timing reifyNode:node_modules/he Completed in 675ms
+167 timing reifyNode:node_modules/growl Completed in 674ms
+168 timing reifyNode:node_modules/braces Completed in 671ms
+169 timing reifyNode:node_modules/nwsapi Completed in 680ms
+170 timing reifyNode:node_modules/has-tostringtag Completed in 679ms
+171 timing reifyNode:node_modules/agent-base Completed in 675ms
+172 timing reifyNode:node_modules/picomatch Completed in 685ms
+173 timing reifyNode:node_modules/chai-dom Completed in 680ms
+174 timing reifyNode:node_modules/chokidar Completed in 680ms
+175 timing reifyNode:node_modules/argparse Completed in 679ms
+176 timing reifyNode:node_modules/yargs-parser Completed in 690ms
+177 timing reifyNode:node_modules/tough-cookie Completed in 690ms
+178 timing reifyNode:node_modules/has-symbols Completed in 687ms
+179 timing reifyNode:node_modules/mime-db Completed in 691ms
+180 timing reifyNode:node_modules/acorn-walk Completed in 687ms
+181 timing reifyNode:node_modules/asynckit Completed in 689ms
+182 timing reifyNode:node_modules/tr46 Completed in 699ms
+183 timing reifyNode:node_modules/decimal.js Completed in 697ms
+184 timing reifyNode:node_modules/whatwg-url Completed in 708ms
+185 timing reifyNode:node_modules/minimist Completed in 709ms
+186 timing reifyNode:node_modules/esprima Completed in 708ms
+187 timing reifyNode:node_modules/cssstyle/node_modules/cssom Completed in 716ms
+188 timing reifyNode:node_modules/xmlchars Completed in 723ms
+189 timing reifyNode:node_modules/ws Completed in 726ms
+190 timing reifyNode:node_modules/cssom Completed in 722ms
+191 timing reifyNode:node_modules/psl Completed in 729ms
+192 timing reifyNode:node_modules/nanoid Completed in 729ms
+193 timing reifyNode:node_modules/acorn Completed in 729ms
+194 timing reifyNode:node_modules/workerpool Completed in 750ms
+195 timing reifyNode:node_modules/js-yaml Completed in 762ms
+196 timing reifyNode:node_modules/diff Completed in 759ms
+197 timing reifyNode:node_modules/iconv-lite Completed in 764ms
+198 timing reifyNode:node_modules/source-map Completed in 770ms
+199 timing reifyNode:node_modules/parse5 Completed in 770ms
+200 timing reifyNode:node_modules/acorn-globals/node_modules/acorn Completed in 772ms
+201 timing reifyNode:node_modules/yargs Completed in 783ms
+202 timing reifyNode:node_modules/cssstyle Completed in 791ms
+203 timing reifyNode:node_modules/chai Completed in 790ms
+204 timing reifyNode:node_modules/mocha Completed in 847ms
+205 timing reifyNode:node_modules/jsdom Completed in 931ms
+206 timing reify:unpack Completed in 936ms
+207 timing reify:unretire Completed in 0ms
+208 timing build:queue Completed in 7ms
+209 timing build:link:node_modules/acorn Completed in 11ms
+210 timing build:link:node_modules/acorn-globals/node_modules/acorn Completed in 8ms
+211 timing build:link:node_modules/esprima Completed in 10ms
+212 timing build:link:node_modules/flat Completed in 11ms
+213 timing build:link:node_modules/he Completed in 10ms
+214 timing build:link:node_modules/mkdirp Completed in 10ms
+215 timing build:link:node_modules/js-yaml Completed in 10ms
+216 timing build:link:node_modules/mocha Completed in 10ms
+217 timing build:link:node_modules/nanoid Completed in 10ms
+218 timing build:link:node_modules/escodegen Completed in 11ms
+219 timing build:link:node_modules/which Completed in 10ms
+220 timing build:link Completed in 12ms
+221 timing build:deps Completed in 20ms
+222 timing build Completed in 21ms
+223 timing reify:build Completed in 21ms
+224 timing reify:trash Completed in 2ms
+225 timing reify:save Completed in 53ms
+226 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 3589ms
+227 timing auditReport:getReport Completed in 3595ms
+228 silly audit report {
+228 silly audit report   nanoid: [
+228 silly audit report     {
+228 silly audit report       id: 1081481,
+228 silly audit report       url: 'https://github.com/advisories/GHSA-qrpm-p2h7-hrv2',
+228 silly audit report       title: 'Exposure of Sensitive Information to an Unauthorized Actor in nanoid',
+228 silly audit report       severity: 'moderate',
+228 silly audit report       vulnerable_versions: '>=3.0.0 <3.1.31',
+228 silly audit report       cwe: [Array],
+228 silly audit report       cvss: [Object]
+228 silly audit report     }
+228 silly audit report   ],
+228 silly audit report   minimatch: [
+228 silly audit report     {
+228 silly audit report       id: 1084765,
+228 silly audit report       url: 'https://github.com/advisories/GHSA-f8q6-p94x-37v3',
+228 silly audit report       title: 'minimatch ReDoS vulnerability',
+228 silly audit report       severity: 'high',
+228 silly audit report       vulnerable_versions: '<3.0.5',
+228 silly audit report       cwe: [Array],
+228 silly audit report       cvss: [Object]
+228 silly audit report     }
+228 silly audit report   ]
+228 silly audit report }
+229 timing metavuln:cache:get:security-advisory:minimatch:+9SGwmlcalAea11K2GVsvQfjWw965zBttp7hAKanb2xCp8W9Pig14zX2S2nTcC9KSa0UHmcdnjQhUZp3zlW5IQ== Completed in 8ms
+230 timing metavuln:cache:get:security-advisory:nanoid:KN4wC5UuIAu2wm8TF3SHCJccg1HP5dQBogFeYX6u/MC+PpWHBnrgo98xip56CBjLyR8aMBLnKcoP0TFfCdTodQ== Completed in 10ms
+231 http fetch GET 200 https://registry.npmjs.org/nanoid 397ms (cache revalidated)
+232 timing metavuln:packument:nanoid Completed in 398ms
+233 timing metavuln:load:security-advisory:nanoid:1081481 Completed in 1ms
+234 timing metavuln:calculate:security-advisory:nanoid:1081481 Completed in 400ms
+235 http fetch GET 200 https://registry.npmjs.org/minimatch 749ms (cache revalidated)
+236 timing metavuln:packument:minimatch Completed in 750ms
+237 timing metavuln:load:security-advisory:minimatch:1084765 Completed in 2ms
+238 timing metavuln:calculate:security-advisory:minimatch:1084765 Completed in 752ms
+239 timing metavuln:cache:get:security-advisory:mocha:WjErOFm3oys89JtOz5tP/92lEA0qM4+6FBkOWctCbYHnIU9J7Si9iD8nHqkXf15Uig2kMXY9EtLITFKrt4rSOw== Completed in 3ms
+240 http fetch GET 200 https://registry.npmjs.org/mocha 263ms (cache revalidated)
+241 timing metavuln:packument:mocha Completed in 270ms
+242 timing metavuln:load:security-advisory:mocha:KN4wC5UuIAu2wm8TF3SHCJccg1HP5dQBogFeYX6u/MC+PpWHBnrgo98xip56CBjLyR8aMBLnKcoP0TFfCdTodQ== Completed in 2ms
+243 timing metavuln:calculate:security-advisory:mocha:KN4wC5UuIAu2wm8TF3SHCJccg1HP5dQBogFeYX6u/MC+PpWHBnrgo98xip56CBjLyR8aMBLnKcoP0TFfCdTodQ== Completed in 274ms
+244 timing metavuln:cache:get:security-advisory:mocha:jK75FK8N2lB+gT1olRrEGbf/UZZ5e4rk4TBBx295HMYUimFDVn67Yor/pF6cQ75/SsrO1hd9sU1DUd9eJig2zQ== Completed in 3ms
+245 timing metavuln:load:security-advisory:mocha:+9SGwmlcalAea11K2GVsvQfjWw965zBttp7hAKanb2xCp8W9Pig14zX2S2nTcC9KSa0UHmcdnjQhUZp3zlW5IQ== Completed in 1ms
+246 timing metavuln:calculate:security-advisory:mocha:+9SGwmlcalAea11K2GVsvQfjWw965zBttp7hAKanb2xCp8W9Pig14zX2S2nTcC9KSa0UHmcdnjQhUZp3zlW5IQ== Completed in 4ms
+247 timing metavuln:cache:get:security-advisory:glob:8cK6ytb/RSxrSj+1aKddYNGqgjq+ZlC9b/wTQ/E6gbkVmwZ+1VaFxwvytvtwrxOFpOwciONFMcZmlIHBTqvLUw== Completed in 5ms
+248 http fetch GET 200 https://registry.npmjs.org/glob 373ms (cache revalidated)
+249 timing metavuln:packument:glob Completed in 375ms
+250 timing metavuln:load:security-advisory:glob:+9SGwmlcalAea11K2GVsvQfjWw965zBttp7hAKanb2xCp8W9Pig14zX2S2nTcC9KSa0UHmcdnjQhUZp3zlW5IQ== Completed in 1ms
+251 timing metavuln:calculate:security-advisory:glob:+9SGwmlcalAea11K2GVsvQfjWw965zBttp7hAKanb2xCp8W9Pig14zX2S2nTcC9KSa0UHmcdnjQhUZp3zlW5IQ== Completed in 376ms
+252 timing metavuln:cache:get:security-advisory:mocha-multi:HB0qJreQ8qLg2Akm3A+pceb5xgjW68jRD+OYRhkJM2gF6Sa/40L4f+5mjdjErXWt/BEjmMX4O7NUgloo8okIhg== Completed in 4ms
+253 timing metavuln:cache:get:security-advisory:chai-dom:eXsLTPsm1V78iJRu/+WgRKgP6uQM4JfkAtvxdl+BhV3d/EjG+Sh+c/65AjjM6/OzWBKb3JkVrE451s65ec80Tw== Completed in 4ms
+254 http fetch GET 200 https://registry.npmjs.org/mocha-multi 328ms (cache revalidated)
+255 timing metavuln:packument:mocha-multi Completed in 330ms
+256 timing metavuln:load:security-advisory:mocha-multi:WjErOFm3oys89JtOz5tP/92lEA0qM4+6FBkOWctCbYHnIU9J7Si9iD8nHqkXf15Uig2kMXY9EtLITFKrt4rSOw== Completed in 0ms
+257 timing metavuln:calculate:security-advisory:mocha-multi:WjErOFm3oys89JtOz5tP/92lEA0qM4+6FBkOWctCbYHnIU9J7Si9iD8nHqkXf15Uig2kMXY9EtLITFKrt4rSOw== Completed in 331ms
+258 http fetch GET 200 https://registry.npmjs.org/chai-dom 333ms (cache revalidated)
+259 timing metavuln:packument:chai-dom Completed in 334ms
+260 timing metavuln:load:security-advisory:chai-dom:WjErOFm3oys89JtOz5tP/92lEA0qM4+6FBkOWctCbYHnIU9J7Si9iD8nHqkXf15Uig2kMXY9EtLITFKrt4rSOw== Completed in 0ms
+261 timing metavuln:calculate:security-advisory:chai-dom:WjErOFm3oys89JtOz5tP/92lEA0qM4+6FBkOWctCbYHnIU9J7Si9iD8nHqkXf15Uig2kMXY9EtLITFKrt4rSOw== Completed in 334ms
+262 timing auditReport:init Completed in 1744ms
+263 timing reify:audit Completed in 5341ms
+264 timing reify Completed in 5538ms
+265 silly ADD node_modules/yocto-queue
+266 silly ADD node_modules/yargs-unparser
+267 silly ADD node_modules/yargs-parser
+268 silly ADD node_modules/yargs
+269 silly ADD node_modules/y18n
+270 silly ADD node_modules/xmlchars
+271 silly ADD node_modules/xml-name-validator
+272 silly ADD node_modules/ws
+273 silly ADD node_modules/wrappy
+274 silly ADD node_modules/wrap-ansi
+275 silly ADD node_modules/workerpool
+276 silly ADD node_modules/word-wrap
+277 silly ADD node_modules/which
+278 silly ADD node_modules/whatwg-url
+279 silly ADD node_modules/whatwg-mimetype
+280 silly ADD node_modules/whatwg-encoding
+281 silly ADD node_modules/webidl-conversions
+282 silly ADD node_modules/w3c-xmlserializer
+283 silly ADD node_modules/w3c-hr-time
+284 silly ADD node_modules/universalify
+285 silly ADD node_modules/type-detect
+286 silly ADD node_modules/type-check
+287 silly ADD node_modules/tr46
+288 silly ADD node_modules/tough-cookie
+289 silly ADD node_modules/to-regex-range
+290 silly ADD node_modules/symbol-tree
+291 silly ADD node_modules/supports-color
+292 silly ADD node_modules/strip-json-comments
+293 silly ADD node_modules/strip-ansi
+294 silly ADD node_modules/string-width
+295 silly ADD node_modules/source-map
+296 silly ADD node_modules/serialize-javascript
+297 silly ADD node_modules/saxes
+298 silly ADD node_modules/safer-buffer
+299 silly ADD node_modules/safe-buffer
+300 silly ADD node_modules/require-directory
+301 silly ADD node_modules/readdirp
+302 silly ADD node_modules/randombytes
+303 silly ADD node_modules/punycode
+304 silly ADD node_modules/psl
+305 silly ADD node_modules/prelude-ls
+306 silly ADD node_modules/picomatch
+307 silly ADD node_modules/pathval
+308 silly ADD node_modules/path-is-absolute
+309 silly ADD node_modules/path-exists
+310 silly ADD node_modules/parse5
+311 silly ADD node_modules/p-locate
+312 silly ADD node_modules/p-limit
+313 silly ADD node_modules/optionator
+314 silly ADD node_modules/once
+315 silly ADD node_modules/object-assign
+316 silly ADD node_modules/nwsapi
+317 silly ADD node_modules/normalize-path
+318 silly ADD node_modules/nanoid
+319 silly ADD node_modules/ms
+320 silly ADD node_modules/mocha-multi
+321 silly ADD node_modules/mocha
+322 silly ADD node_modules/mocha/node_modules/ms
+323 silly ADD node_modules/mkdirp
+324 silly ADD node_modules/minimist
+325 silly ADD node_modules/minimatch
+326 silly ADD node_modules/mime-types
+327 silly ADD node_modules/mime-db
+328 silly ADD node_modules/log-symbols
+329 silly ADD node_modules/lodash.once
+330 silly ADD node_modules/locate-path
+331 silly ADD node_modules/levn
+332 silly ADD node_modules/jsdom
+333 silly ADD node_modules/js-yaml
+334 silly ADD node_modules/isexe
+335 silly ADD node_modules/is-unicode-supported
+336 silly ADD node_modules/is-string
+337 silly ADD node_modules/is-potential-custom-element-name
+338 silly ADD node_modules/is-plain-obj
+339 silly ADD node_modules/is-number
+340 silly ADD node_modules/is-glob
+341 silly ADD node_modules/is-fullwidth-code-point
+342 silly ADD node_modules/is-extglob
+343 silly ADD node_modules/is-binary-path
+344 silly ADD node_modules/inherits
+345 silly ADD node_modules/inflight
+346 silly ADD node_modules/iconv-lite
+347 silly ADD node_modules/https-proxy-agent
+348 silly ADD node_modules/http-proxy-agent
+349 silly ADD node_modules/html-encoding-sniffer
+350 silly ADD node_modules/he
+351 silly ADD node_modules/has-tostringtag
+352 silly ADD node_modules/has-symbols
+353 silly ADD node_modules/has-flag
+354 silly ADD node_modules/growl
+355 silly ADD node_modules/global-jsdom
+356 silly ADD node_modules/glob-parent
+357 silly ADD node_modules/glob
+358 silly ADD node_modules/get-func-name
+359 silly ADD node_modules/get-caller-file
+360 silly ADD
+361 silly ADD node_modules/fs.realpath
+362 silly ADD node_modules/form-data
+363 silly ADD node_modules/flat
+364 silly ADD node_modules/find-up
+365 silly ADD node_modules/fill-range
+366 silly ADD node_modules/fast-levenshtein
+367 silly ADD node_modules/esutils
+368 silly ADD node_modules/estraverse
+369 silly ADD node_modules/esprima
+370 silly ADD node_modules/escodegen
+371 silly ADD node_modules/escape-string-regexp
+372 silly ADD node_modules/escalade
+373 silly ADD node_modules/emoji-regex
+374 silly ADD node_modules/domexception
+375 silly ADD node_modules/diff
+376 silly ADD node_modules/delayed-stream
+377 silly ADD node_modules/deep-is
+378 silly ADD node_modules/deep-eql
+379 silly ADD node_modules/decimal.js
+380 silly ADD node_modules/decamelize
+381 silly ADD node_modules/debug
+382 silly ADD node_modules/data-urls
+383 silly ADD node_modules/cssstyle
+384 silly ADD node_modules/cssstyle/node_modules/cssom
+385 silly ADD node_modules/cssom
+386 silly ADD node_modules/concat-map
+387 silly ADD node_modules/combined-stream
+388 silly ADD node_modules/color-name
+389 silly ADD node_modules/color-convert
+390 silly ADD node_modules/cliui
+391 silly ADD node_modules/chokidar
+392 silly ADD node_modules/check-error
+393 silly ADD node_modules/chalk
+394 silly ADD node_modules/chalk/node_modules/supports-color
+395 silly ADD node_modules/chai-dom
+396 silly ADD node_modules/chai
+397 silly ADD node_modules/camelcase
+398 silly ADD node_modules/browser-stdout
+399 silly ADD node_modules/browser-process-hrtime
+400 silly ADD node_modules/braces
+401 silly ADD node_modules/brace-expansion
+402 silly ADD node_modules/binary-extensions
+403 silly ADD node_modules/balanced-match
+404 silly ADD node_modules/asynckit
+405 silly ADD node_modules/assertion-error
+406 silly ADD node_modules/argparse
+407 silly ADD node_modules/anymatch
+408 silly ADD node_modules/ansi-styles
+409 silly ADD node_modules/ansi-regex
+410 silly ADD node_modules/ansi-colors
+411 silly ADD node_modules/agent-base
+412 silly ADD node_modules/acorn-walk
+413 silly ADD node_modules/acorn-globals
+414 silly ADD node_modules/acorn-globals/node_modules/acorn
+415 silly ADD node_modules/acorn
+416 silly ADD node_modules/abab
+417 silly ADD node_modules/@ungap/promise-all-settled
+418 silly ADD node_modules/@tootallnate/once
+419 timing command:install Completed in 5561ms
+420 verbose exit 0
+421 timing npm Completed in 5710ms
+422 info ok

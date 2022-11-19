@@ -1,0 +1,41 @@
+2022-11-18 14:52:24.374 [info] update#setState idle
+2022-11-18 14:52:27.235 [info] Starting extension host with pid 88112 (fork() took 24 ms).
+2022-11-18 14:52:27.256 [info] Starting extension host with pid 88113 (fork() took 9 ms).
+2022-11-18 14:52:27.631 [info] Starting extension host with pid 88139 (fork() took 27 ms).
+2022-11-18 14:52:32.654 [info] Extension host with pid 88139 exited with code: 0, signal: null.
+2022-11-18 14:52:41.718 [info] Extension host with pid 88113 exited with code: 0, signal: null.
+2022-11-18 14:52:54.379 [info] update#setState checking for updates
+2022-11-18 14:52:54.384 [info] update#setState idle
+2022-11-18 15:52:54.402 [info] update#setState checking for updates
+2022-11-18 15:52:54.405 [info] update#setState idle
+2022-11-18 16:16:37.181 [info] Enabling inspect port on extension host with pid 88112.
+2022-11-18 16:52:54.410 [info] update#setState checking for updates
+2022-11-18 16:52:54.412 [info] update#setState idle
+2022-11-18 18:20:47.133 [info] update#setState checking for updates
+2022-11-18 18:20:47.136 [info] update#setState idle
+2022-11-18 18:33:26.288 [info] Starting extension host with pid 92224 (fork() took 15 ms).
+2022-11-18 18:34:00.973 [info] Extension host with pid 92224 exited with code: 0, signal: null.
+2022-11-19 18:48:07.752 [info] update#setState checking for updates
+2022-11-19 18:48:07.756 [info] update#setState idle
+2022-11-19 20:41:02.333 [info] Starting extension host with pid 94152 (fork() took 12 ms).
+2022-11-19 20:41:30.485 [info] Extension host with pid 94152 exited with code: 0, signal: null.
+2022-11-19 20:46:04.985 [info] Starting extension host with pid 94397 (fork() took 13 ms).
+2022-11-19 20:46:18.863 [info] Extension host with pid 94397 exited with code: 0, signal: null.
+2022-11-19 20:49:14.028 [info] Starting extension host with pid 94721 (fork() took 26 ms).
+2022-11-19 20:49:19.552 [info] Extension host with pid 94721 exited with code: 0, signal: null.
+2022-11-19 20:49:46.887 [info] Starting extension host with pid 94896 (fork() took 12 ms).
+2022-11-19 20:49:54.827 [info] Extension host with pid 94896 exited with code: 0, signal: null.
+2022-11-19 20:52:48.848 [info] Starting extension host with pid 95131 (fork() took 37 ms).
+2022-11-19 20:52:57.487 [info] Extension host with pid 95131 exited with code: 0, signal: null.
+2022-11-19 20:56:19.636 [info] update#setState checking for updates
+2022-11-19 20:56:19.640 [info] update#setState idle
+2022-11-19 21:10:59.455 [info] Starting extension host with pid 95598 (fork() took 18 ms).
+2022-11-19 21:11:10.986 [info] Extension host with pid 95598 exited with code: 0, signal: null.
+2022-11-19 21:43:13.541 [info] Starting extension host with pid 96636 (fork() took 15 ms).
+2022-11-19 21:43:19.639 [info] Extension host with pid 96636 exited with code: 0, signal: null.
+2022-11-19 21:52:11.948 [info] Starting extension host with pid 96942 (fork() took 30 ms).
+2022-11-19 21:52:27.124 [info] Extension host with pid 96942 exited with code: 0, signal: null.
+2022-11-19 21:56:19.651 [info] update#setState checking for updates
+2022-11-19 21:56:19.657 [info] update#setState idle
+2022-11-19 22:56:19.656 [info] update#setState checking for updates
+2022-11-19 22:56:19.662 [info] update#setState idle

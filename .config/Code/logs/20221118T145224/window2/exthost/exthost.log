@@ -1,0 +1,293 @@
+2022-11-18 14:52:29.703 [info] Extension host with pid 88112 started
+2022-11-18 14:52:29.703 [info] Skipping acquiring lock for /home/student/.config/Code/User/workspaceStorage/58b1fe8d760d9ab45f7ed9c408ba57cf.
+2022-11-18 14:52:30.288 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2022-11-18 14:52:30.289 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-18 14:52:30.513 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-18 14:52:30.519 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-18 14:52:31.743 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2022-11-18 14:52:31.798 [info] Eager extensions activated
+2022-11-18 14:52:31.836 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-18 14:52:31.837 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-18 14:52:31.838 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-18 14:52:31.838 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2022-11-18 14:54:21.770 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2022-11-18 15:50:16.583 [error] [vscode.emmet] provider FAILED
+2022-11-18 15:50:16.584 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:187358)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:185715)
+	at K.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:51930)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77224
+	at ne._withAdapter (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:67325)
+	at ne.$provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77200)
+	at l._doInvokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+	at l._invokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+	at l._receiveRequest (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:12081)
+	at l._receiveOneMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at o._receiveMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at g.acceptChunk (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+	at Socket.i (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-11-18 15:50:17.164 [error] [vscode.emmet] provider FAILED
+2022-11-18 15:50:17.164 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:187358)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:185715)
+	at K.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:51930)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77224
+	at ne._withAdapter (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:67325)
+	at ne.$provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77200)
+	at l._doInvokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+	at l._invokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+	at l._receiveRequest (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:12081)
+	at l._receiveOneMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at o._receiveMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at g.acceptChunk (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+	at Socket.i (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-11-18 15:50:17.830 [error] [vscode.emmet] provider FAILED
+2022-11-18 15:50:17.830 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:187358)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:185715)
+	at K.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:51930)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77224
+	at ne._withAdapter (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:67325)
+	at ne.$provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77200)
+	at l._doInvokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+	at l._invokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+	at l._receiveRequest (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:12081)
+	at l._receiveOneMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at o._receiveMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at g.acceptChunk (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+	at Socket.i (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-11-18 15:50:18.388 [error] [vscode.emmet] provider FAILED
+2022-11-18 15:50:18.389 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:187358)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:185715)
+	at K.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:51930)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77224
+	at ne._withAdapter (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:67325)
+	at ne.$provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77200)
+	at l._doInvokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+	at l._invokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+	at l._receiveRequest (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:12081)
+	at l._receiveOneMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at o._receiveMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at g.acceptChunk (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+	at Socket.i (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-11-18 15:50:19.066 [error] [vscode.emmet] provider FAILED
+2022-11-18 15:50:19.067 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:187358)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:185715)
+	at K.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:51930)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77224
+	at ne._withAdapter (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:67325)
+	at ne.$provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77200)
+	at l._doInvokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+	at l._invokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+	at l._receiveRequest (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:12081)
+	at l._receiveOneMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at o._receiveMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at g.acceptChunk (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+	at Socket.i (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-11-18 15:50:19.781 [error] [vscode.emmet] provider FAILED
+2022-11-18 15:50:19.781 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:187358)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:185715)
+	at K.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:51930)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77224
+	at ne._withAdapter (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:67325)
+	at ne.$provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77200)
+	at l._doInvokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+	at l._invokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+	at l._receiveRequest (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:12081)
+	at l._receiveOneMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at o._receiveMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at g.acceptChunk (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+	at Socket.i (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-11-18 15:50:20.314 [error] [vscode.emmet] provider FAILED
+2022-11-18 15:50:20.315 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:187358)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:185715)
+	at K.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:51930)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77224
+	at ne._withAdapter (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:67325)
+	at ne.$provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77200)
+	at l._doInvokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+	at l._invokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+	at l._receiveRequest (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:12081)
+	at l._receiveOneMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at o._receiveMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at g.acceptChunk (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+	at Socket.i (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2022-11-18 15:50:20.557 [error] [vscode.emmet] provider FAILED
+2022-11-18 15:50:20.557 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:187358)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:185715)
+	at K.provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:51930)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77224
+	at ne._withAdapter (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:67325)
+	at ne.$provideCompletionItems (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:77200)
+	at l._doInvokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+	at l._invokeHandler (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+	at l._receiveRequest (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:12081)
+	at l._receiveOneMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at o._receiveMessage (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+	at h.invoke (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at g.acceptChunk (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+	at /snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+	at Socket.i (/snap/code/113/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)

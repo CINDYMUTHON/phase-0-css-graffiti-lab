@@ -1,3 +1,0 @@
-2022-11-15 12:20:20.528 [info] [perf] Render performance baseline is 64ms
-2022-11-15 12:20:37.495 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/student/.config/Code/logs/20221113T053823/window6/exthost/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /home/student)
-2022-11-15 12:20:37.500 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/student/.config/Code/logs/20221113T053823/window6/exthost/vscode.git' failed: No such file or directory

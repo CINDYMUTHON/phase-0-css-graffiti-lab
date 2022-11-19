@@ -1,0 +1,26 @@
+<table>
+<tr>
+<th>city</th>
+<th>state</th>
+<th>2017 estimate</th>
+</tr>
+<tr>
+<th>new york</th>
+<th>new york</th>
+<th>8,622,698</th>
+</tr>
+<tr>
+<th>los angles</th>
+<th>california</th>
+<th>3,999,759</th>
+</tr>
+<tr>
+<th>chicago</th>
+<th>lllinois</th>
+<th>2,716,450</th>
+</tr>
+<tr>
+<th>huoston</th>
+<th>texas</th>
+<th>2,312,717</th>
+</tr>

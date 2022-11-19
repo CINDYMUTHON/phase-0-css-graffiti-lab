@@ -1,6 +1,6 @@
-2022/11/15-13:03:10.537 3 Reusing MANIFEST /home/student/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
-2022/11/15-13:03:10.538 3 Recovering log #23
-2022/11/15-13:03:10.539 3 Reusing old log /home/student/.config/google-chrome/Profile 1/Session Storage/000023.log 
-2022/11/15-14:13:55.928 14 Level-0 table #27: started
-2022/11/15-14:13:55.961 14 Level-0 table #27: 11012 bytes OK
-2022/11/15-14:13:56.000 14 Delete type=0 #23
+2022/11/18-12:23:03.698 3 Reusing MANIFEST /home/student/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2022/11/18-12:23:03.700 3 Recovering log #32
+2022/11/18-12:23:03.701 3 Reusing old log /home/student/.config/google-chrome/Profile 1/Session Storage/000032.log 
+2022/11/19-23:23:02.275 68 Level-0 table #36: started
+2022/11/19-23:23:02.318 68 Level-0 table #36: 11356 bytes OK
+2022/11/19-23:23:02.353 68 Delete type=0 #32
