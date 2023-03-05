@@ -27,7 +27,8 @@ export default function Home() {
       const res = await fetch(
         `http://localhost:9292/pets/search/${text}`,
         {
-          method: "POST"
+          method: "POST",
+          body: JSON.stringify({})
         }
       )
       const data = await res.json()
@@ -127,7 +128,7 @@ export default function Home() {
               )}
             </div>
           </section>
-          <RegisterPage />
+          {/* <RegisterPage /> */}
         </>
       )}
     </>

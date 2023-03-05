@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #34282f;
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,82 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.signup{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  background-color: burlywood;
+  width: 400px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  height: 400px;
+}
+
+.register{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+
+.username{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+
+.password{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+
+.signup input{
+  width: 300px;
+  height: 40px;
+  text-align: center;
+  font-size: 20px;
+}
+
+body{
+  background-color: burlywood;
+}
+
+
+.signin{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  background-color: burlywood;
+  width: 400px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  height: 400px;
+}
+
+.signin input{
+  width: 300px;
+  height: 40px;
+  text-align: center;
+  font-size: 20px;
+}
+
+
+.search{
+  width: 300px;
+  height: 40px;
+  text-align: center;
+  font-size: 20px;
 }

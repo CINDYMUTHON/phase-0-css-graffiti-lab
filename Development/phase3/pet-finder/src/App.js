@@ -21,7 +21,7 @@ function App() {
           <Route path="/:name" element={<SingleDog />}></Route>
           <Route path="/home" element={< HomePage />} />
           <Route path="/" element={<LandingPage />} />
-          "
+          
         </Routes>
         </div>
       </BrowserRouter>
